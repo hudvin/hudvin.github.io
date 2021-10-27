@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Kungsleden"
-author: "Vadym Bartko"
-tags: hiking
+title: "Example Content"
+author: "Chester"
+tags: Example
 excerpt_separator: <!--more-->
 ---
 
