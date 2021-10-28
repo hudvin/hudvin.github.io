@@ -15,7 +15,7 @@ excerpt_separator: <!--more-->
 
 ![](/assets/kungsleden/photos/a6500/_DSC9131.jpg)
 
-![](assets/kungsleden/photos/s21/20210911_181921.jpg)
+![](/assets/kungsleden/photos/s21/20210911_181921.jpg)
 
 
 
