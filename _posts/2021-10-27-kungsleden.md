@@ -1,5 +1,6 @@
 ---
 typora-root-url: ../
+
 layout: post
 title: "Kungsleden"
 author: "Vadym Bartko"
@@ -7,14 +8,14 @@ tags: hiking
 excerpt_separator: <!--more-->
 ---
 
-![](/kungsleden/photos/s21/20210911_190852.jpg)
+
 
 
 # Kunglseden - поход по шведскому заполярью осенью
 
 ![alt](/assets/kungsleden/photos/a6500/_DSC9131.jpg)
 
-![](/kungsleden/photos/s21/20210911_181921.jpg)
+![images](assets/kungsleden/photos/s21/20210911_181921.jpg)
 
 
 
