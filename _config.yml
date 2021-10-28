@@ -5,13 +5,12 @@ baseurl:        ""
 url:            "https://hudvin.github.io"
 
 # Google Analytics
-google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-211538833-1
 
 # Author
 author:
   name:         Vadym Bartko
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        hudvinw@gmail.com
 
 # Build settings
 markdown:       kramdown
