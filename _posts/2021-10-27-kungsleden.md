@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 # Kunglseden - поход по шведскому заполярью осенью
 
-![](/assets/kungsleden/photos/a6500/DSC9131.jpg)
+![](/assets/kungsleden/photos/a6500/dsc9131.jpg)
 
 <!--more-->
 
