@@ -13,7 +13,7 @@ excerpt_separator: <!--more-->
 
 # Kunglseden - поход по шведскому заполярью осенью
 
-![](/assets/kungsleden/photos/a6500/_DSC9131.jpg)
+![](/assets/kungsleden/photos/a6500/DSC9131.jpg)
 
 ![](/assets/kungsleden/photos/s21/20210911_181921.jpg)
 
@@ -174,7 +174,7 @@ f![alt](/assets/kungsleden/photos/s21/20210910_121558.jpg)
 
 Пару сотен метров по дороге, поворот налево - грунтовка. Вскоре вижу табличку Kungsleden.  So it begins!
 
-![](/assets/kungsleden/photos/a6500/_DSC9022.jpg)
+![](/assets/kungsleden/photos/a6500/DSC9022.jpg)
 
 Первые шаги по маршруту. Самый обычный, слегка пожелтевший лес. Почти как в октябре в голосеевском парке. Мимо пробегает trail runner, который прибыл тем же автобусом что и я.
 
@@ -372,7 +372,7 @@ f![alt](/assets/kungsleden/photos/s21/20210910_121558.jpg)
 
 Закат.
 
-![_DSC9679](/assets/kungsleden/photos\a6500\_DSC9679.jpg)
+![_DSC9679](/assets/kungsleden/photos\a6500\DSC9679.jpg)
 
 
 
@@ -380,7 +380,7 @@ f![alt](/assets/kungsleden/photos/s21/20210910_121558.jpg)
 
 
 
-![(C:\Users\kontiki\SyncThing\personal\for post\a6500\_DSC9652.jpg)
+![(C:\Users\kontiki\SyncThing\personal\for post\a6500/DSC9652.jpg)
 
 
 
@@ -392,15 +392,15 @@ f![alt](/assets/kungsleden/photos/s21/20210910_121558.jpg)
 
 
 
-![](/assets/kungsleden/photos\a6500\_DSC9740.jpg)
+![](/assets/kungsleden/photos\a6500\DSC9740.jpg)
 
 В ожидании переправы брожу по побережью озера.
 
-![_DSC9838](/assets/kungsleden/photos\a6500\_DSC9838.jpg)
+![_DSC9838](/assets/kungsleden/photos\a6500\DSC9838.jpg)
 
 Опять докупаю немного еды, поднимаюсь вдоль водопада на плато, усыпанное камнями. Через пару часов начинаю присматривать место для ночевки. Палатку ставлю в большой долине. На многие километры - ни души.
 
-![_DSC9893](/assets/kungsleden/photos\a6500\_DSC9893.jpg)
+![_DSC9893](/assets/kungsleden/photos\a6500\DSC9893.jpg)
 
 
 
@@ -408,9 +408,9 @@ f![alt](/assets/kungsleden/photos/s21/20210910_121558.jpg)
 
 
 
-### ![](/assets/kungsleden/photos\a6500\_DSC9904.jpg)
+### ![](/assets/kungsleden/photos\a6500\DSC9904.jpg)
 
-![_DSC9917](/assets/kungsleden/photos\a6500\_DSC9917.jpg)
+![_DSC9917](/assets/kungsleden/photos\a6500\DSC9917.jpg)
 
 
 
@@ -552,7 +552,7 @@ STF Kaitumjaure. Зашел в поисках провианта. В приют�
 
 ![20210922_144156](/assets/kungsleden/photos/s21/20210922_144156.jpg)
 
-![](/assets/kungsleden/photos/a6500/_DSC0226.jpg)
+![](/assets/kungsleden/photos/a6500/DSC0226.jpg)
 
 
 
@@ -572,7 +572,7 @@ STF Kaitumjaure. Зашел в поисках провианта. В приют�
 
 ### Abiskojaure - Abisko
 
-![](/assets/kungsleden/photos/a6500/_DSC0325.jpg)
+![](/assets/kungsleden/photos/a6500/DSC0325.jpg)
 
 вода из речки. Как слеза комсомолки
 
