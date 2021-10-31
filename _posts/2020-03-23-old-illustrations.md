@@ -1,10 +1,9 @@
 ---
 typora-root-url: ../
-
 layout: post
 title: "Old illustrations from “Flore des serres et des jardins de l’Europe”"
 author: "Vadym Bartko"
-tags: art, books
+tags: art books
 excerpt_separator: <!--more-->
 ---
 
