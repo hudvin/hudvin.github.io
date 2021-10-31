@@ -786,23 +786,23 @@ STF Kaitumjaure. Зашел в поисках провианта. В приют�
 
 ### Информация о  Kungsleden
 
-Шведская туристическая ассоциация https://www.swedishtouristassociation.com/ бронирование места в приютах, разная информация и пр.
+Шведская туристическая ассоциация [https://www.swedishtouristassociation.com/](https://www.swedishtouristassociation.com/) бронирование места в приютах, разная информация и пр.
 
-https://www.swedishtouristassociation.com/areas/kungsleden/
+[https://www.swedishtouristassociation.com/areas/kungsleden/](https://www.swedishtouristassociation.com/areas/kungsleden/)
 
-https://www.distantnorth.com/destinations/kungsleden-trail-which-section-of-the-trail/
+[https://www.distantnorth.com/destinations/kungsleden-trail-which-section-of-the-trail/](https://www.distantnorth.com/destinations/kungsleden-trail-which-section-of-the-trail/)
 
-https://www.novo-monde.com/en/kungsleden-trail-guide/
+[https://www.novo-monde.com/en/kungsleden-trail-guide/](https://www.novo-monde.com/en/kungsleden-trail-guide/)
 
-неплохой путеводитель (есть электронная версия)  https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070
+неплохой путеводитель (есть электронная версия)  [https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070)
 
 ### Билеты
 
-Расписание автобусов https://ltnbd.se/en/timetables/ Обратите внимание, что расписание зависит от сезона и достаточно непостоянно.
+Расписание автобусов [https://ltnbd.se/en/timetables/](https://ltnbd.se/en/timetables/) Обратите внимание, что расписание зависит от сезона и достаточно непостоянно.
 
-Шведские железные дороги https://www.sj.se/#/ Чем ближе дата поездки, тем выше цена. Места есть как сидячие, так и аналоги нашего купе.
+Шведские железные дороги [https://www.sj.se/#/]( https://www.sj.se/#/) Чем ближе дата поездки, тем выше цена. Места есть как сидячие, так и аналоги нашего купе.
 
-Scandinavian Airlines System - https://www.flysas.com/en/ местные авиалинии
+Scandinavian Airlines System - [https://www.flysas.com/en/](https://www.flysas.com/en/) местные авиалинии
 
 ### Прочее
 
