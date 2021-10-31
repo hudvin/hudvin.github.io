@@ -4,7 +4,7 @@ typora-root-url: ../
 layout: post
 title: "Поход по Тянь-Шаню (часть I)"
 author: "Vadym Bartko"
-tags: hiking
+tags: hiking Киргизия
 excerpt_separator: <!--more-->
 ---
 
