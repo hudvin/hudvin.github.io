@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "About"
+title: "My CV"
 author: "Vadym Bartko"
-permalink: /about/
+permalink: /my_cv/
 ---
 
 
@@ -12,14 +12,3 @@ permalink: /about/
 
 
 Thanks for reading!
-
-### Contacts
-
-email: [vadym.bartko@protonmail.com](mailto:vadym.bartko@protonmail.com)
-
-500px: [https://500px.com/p/vbartko?view=photos](https://500px.com/p/vbartko?view=photos)
-
-instagram: [https://www.instagram.com/hudvin/](https://www.instagram.com/hudvin/)
-
-LinkedIn: [https://www.linkedin.com/in/vbartko/](https://www.linkedin.com/in/vbartko/)
-
