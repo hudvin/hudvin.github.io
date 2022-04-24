@@ -2,6 +2,7 @@
 layout: post
 title: "About"
 author: "Vadym Bartko"
+tags: WTF
 permalink: /about/
 ---
 
