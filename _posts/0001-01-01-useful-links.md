@@ -18,6 +18,9 @@ excerpt_separator: <!--more-->
 * [David Rumsey Maps](https://www.davidrumsey.com/)
 
 
+## Anatomy
+* [3D Atlas](https://www.zygotebody.com/#nav=-11.08,116.9,83.47,0,0,0,0&sel=p:;h:;s:;c:0;o:0&layers=0,1,8670)
+
 
 ## Various Collections
 * [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)
