@@ -71,6 +71,8 @@ Walter Duranty
   </details>
 
 
+* [Ur-Fascism, Umberto Eco](https://www.pegc.us/archive/Articles/eco_ur-fascism.pdf)
+
 
 # Fiction
 * [Shantaram, Gregory David Roberts](https://www.amazon.com/Shantaram-Novel-Gregory-David-Roberts/dp/0312330537)
