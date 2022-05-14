@@ -72,6 +72,7 @@ Walter Duranty
 
 
 * [Ur-Fascism, Umberto Eco](https://www.pegc.us/archive/Articles/eco_ur-fascism.pdf)
+* [Окаянные дни, Иван Бунин](https://ru.wikipedia.org/wiki/Окаянные_дни)
 
 
 # Fiction
