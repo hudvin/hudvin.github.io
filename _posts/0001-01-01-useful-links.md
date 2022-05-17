@@ -8,6 +8,9 @@ tags: notes
 excerpt_separator: <!--more-->
 ---
 
+<!--more-->
+
+
 ## Climbing
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)

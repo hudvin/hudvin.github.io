@@ -40,6 +40,12 @@ Walter Duranty
 Надежда Аллилуева
 </pre>
 
+
+### Related Events
+<pre>
+
+</pre>
+
 ### Topics
 <pre>
 коллективизация
