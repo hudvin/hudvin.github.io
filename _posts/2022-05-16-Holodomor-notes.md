@@ -5,6 +5,7 @@ layout: post
 title: "Holodomor"
 author: "Vadym Bartko"
 tags: notes
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
