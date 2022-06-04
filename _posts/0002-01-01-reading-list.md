@@ -55,3 +55,7 @@ excerpt_separator: <!--more-->
 # Startups
 
 # Marketing
+
+
+# Ideas
+* print small post card for each book I read
