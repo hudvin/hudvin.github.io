@@ -11,30 +11,89 @@ excerpt_separator: <!--more-->
 ---
 
 # Python
-* slots
-* concurrency
-* async
-* garbage collector
-*  new python 
+
+## Libraries & Tools
+
 * FastAPI
 * Flask
 * SQLAlchemy
 * poetry
 * pipenv
 * Celery
+* boto3
+
+## Core
+
+
+
+* slots
+* concurrency
+* async
+* garbage collector
+* new python 
+* dataclasses
+* list/dicts
+* ContextManager
+* iterators
+* strings
+* decorators
+* annotations
+* typing
+* inheritance
+* \__init__ and \__new__
+* magic methods
+* singletone
+* \_call_ method
+* metaclasses
+* descriptors
 
 # AWS
 
-* Design Patterns
+* design patterns
+* design examples
+* request-response tracing
+* logs
+* deployment
+* Security Groups
+* best practices
+
+## Services
+
 * SQS
+* Batch
+* EventBridge
 * SNS
-* Cloudwatch
+* CloudWatch
+   * task scheduling
+* Step Functions
 * Lambda
+   * deployment
+   * layers
+   * docker image
+   * limitations
+   * SAM
+   * scheduling via EventBridge
 * Kinesis
 * DynamoDB
 * Redshift
 * RDS
 * KMS
+* Textract
+* EFS
+* IAM
+* VPC
+* EC2
+* Aurora
+* Elastic Load Balancing <https://aws.amazon.com/elasticloadbalancing/features/?nc1=h_ls>
+   * Application Load Balancer
+   * Gateway Load Balancer
+   * Network Load Balancer
+   * Classic Load Balancer
+* S3
+  * signed url
+  * TTL
+  * lifecyrcle
+  * cross account access
 
 
 
@@ -45,14 +104,18 @@ excerpt_separator: <!--more-->
 * git
 * Postgres
 * mySQL
+* Terraform
 
 
 
 # Other
 
 * REST
+* system design
+* HTTP/2
 * SQL
 * SOLID
 * Agile/SCRUM/Kanban
 * design patterns
 * Алгоритмы и структуры данных
+* OSI levels
