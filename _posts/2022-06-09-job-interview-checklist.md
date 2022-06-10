@@ -12,14 +12,17 @@ excerpt_separator: <!--more-->
 
 # Python
 
-## Libraries & Tools
+## Tools
+
+* poetry
+* pipenv
+* Celery
+
+## Libraries
 
 * FastAPI
 * Flask
 * SQLAlchemy
-* poetry
-* pipenv
-* Celery
 * boto3
 
 ## Core
@@ -27,6 +30,7 @@ excerpt_separator: <!--more-->
 
 
 * slots
+* abstract base class
 * concurrency
 * async
 * garbage collector
@@ -82,7 +86,13 @@ excerpt_separator: <!--more-->
 * EFS
 * IAM
 * VPC
+* ECR
+   * vulnerabilities scanner
+
 * EC2
+* ECS and Fargate
+   * scheduled tasks
+
 * Aurora
 * Elastic Load Balancing <https://aws.amazon.com/elasticloadbalancing/features/?nc1=h_ls>
    * Application Load Balancer
@@ -119,3 +129,6 @@ excerpt_separator: <!--more-->
 * design patterns
 * Алгоритмы и структуры данных
 * OSI levels
+
+# Books
+
