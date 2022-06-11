@@ -26,6 +26,9 @@ excerpt_separator: <!--more-->
   >Из этого и состоит наша жизнь. Мы делаем один шаг, затем другой. Поднимаем глаза навстречу улыбке или оскалу окружающего мира. Думаем. Действуем. Чувствуем. Добавляем свои скромные усилия к приливам и отливам добра и зла, затопляющим планету и вновь отступающим. Несём сквозь мрак свой крест в надежду следующей ночи. Бросаем наши храбрые сердца в обещание нового дня. С любовью — странным поиском истины вне самих себя — и с надеждой — чистым невыразимым желанием быть спасёнными. Ибо пока судьба ждёт нас, наша жизнь продолжается. Боже, спаси нас. Боже, прости нас. Жизнь продолжается.
 
 * [Catch 22, Joseph Heller](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657)
+* [Cryptonomicon, Neal Stephenson](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806)
+
+# Non Fiction
 * [Surely, you're joking, Mr. Feynman!, Richard P. Feynman](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
 
 # Manga

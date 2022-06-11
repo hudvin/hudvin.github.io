@@ -27,8 +27,6 @@ excerpt_separator: <!--more-->
 
 ## Core
 
-
-
 * slots
 * abstract base class
 * concurrency
