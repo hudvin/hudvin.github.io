@@ -4,7 +4,7 @@ typora-root-url: ../
 layout: post
 title: "Home Server"
 author: "Vadym Bartko"
-tags: notes
+tags: Hardware
 hidden: true
 
 excerpt_separator: <!--more-->
@@ -35,6 +35,9 @@ excerpt_separator: <!--more-->
 * NextCloud
 
 ## General
+
+* PiHole
+
 * RAID 1
 * LVM + encryption + LUKS
 * LVM redundancy - mirror/stripe/concat
