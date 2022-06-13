@@ -48,6 +48,19 @@ excerpt_separator: <!--more-->
 * \_call_ method
 * metaclasses
 * descriptors
+* generators
+* NamedTuple
+* Path
+* iterator protocol
+* reduce
+* dictionary
+* ThreadLocal
+* ContextVar
+* OrderedDict
+* \__hash__  and  \__eq__
+* yield and generators
+* raw strings, byte strings
+* @staticmethod and @classmethod
 
 # AWS
 
@@ -127,6 +140,12 @@ excerpt_separator: <!--more-->
 * design patterns
 * Алгоритмы и структуры данных
 * OSI levels
+
+
+
+# Other-other
+
+* write code without IDE
 
 # Books
 
