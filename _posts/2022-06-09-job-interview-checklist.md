@@ -59,8 +59,10 @@ excerpt_separator: <!--more-->
 * OrderedDict
 * \__hash__  and  \__eq__
 * yield and generators
-* raw strings, byte strings
+* raw strings, byte strings, unicode strings
 * @staticmethod and @classmethod
+* @property (setter and getter)
+* locals and globals
 
 # AWS
 
@@ -140,6 +142,7 @@ excerpt_separator: <!--more-->
 * design patterns
 * Алгоритмы и структуры данных
 * OSI levels
+* clean code
 
 
 
