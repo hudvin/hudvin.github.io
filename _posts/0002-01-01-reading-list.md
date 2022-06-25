@@ -22,7 +22,7 @@ excerpt_separator: <!--more-->
 
 
 # Diaries
-* [Anne Frank: The Diary of a Young Girl] (https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/0553296981)
+* [Anne Frank: The Diary of a Young Girl](https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/0553296981)
 
 # Fiction
 * [Shantaram, Gregory David Roberts](https://www.amazon.com/Shantaram-Novel-Gregory-David-Roberts/dp/0312330537)
