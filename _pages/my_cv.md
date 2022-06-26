@@ -16,7 +16,7 @@ permalink: /my_cv/
 
 
 
-Please, note! If you have any relation to russia or belorussia, just go fuck yourself!
+Please, note! If you have any relation to russia or belorussia, just go fuck yourself! 
 
 
 ## COMPUTER SKILLS AND COMPETENCES

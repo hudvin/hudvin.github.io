@@ -10,6 +10,13 @@ hidden: true
 excerpt_separator: <!--more-->
 ---
 
+# Goals
+* full remote
+* USA/Europe
+* interesting companies
+* плюшки
+* опыт прохождения собеседований!
+
 # Python
 
 ## Tools
@@ -143,6 +150,7 @@ excerpt_separator: <!--more-->
 * Алгоритмы и структуры данных
 * OSI levels
 * clean code
+* LeetCode
 
 
 
@@ -151,4 +159,5 @@ excerpt_separator: <!--more-->
 * write code without IDE
 
 # Books
+* Clean Code
 
