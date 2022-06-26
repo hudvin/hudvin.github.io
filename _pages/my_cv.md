@@ -15,6 +15,10 @@ permalink: /my_cv/
 * skype: hudvin
 
 
+
+Please, note! If you have any relation to russia or belorussia, just go fuck yourself!
+
+
 ## COMPUTER SKILLS AND COMPETENCES
 **AWS:**
 Lambda, SQS, SNS, S3, Textract
