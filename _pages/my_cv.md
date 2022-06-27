@@ -16,7 +16,9 @@ permalink: /my_cv/
 
 
 
-Please, note! If you have any relation to russia or belorussia, just go fuck yourself! 
+Примечание: если ты - гордый обладатель рашистского или беларусского паспорта или имеешь отношение к этим странам, то следуй по направлению русского корабля.  
+
+Примечание к примечанию: хороший русский  - русский с дыркой в затылке либо между глаз. 
 
 
 ## COMPUTER SKILLS AND COMPETENCES
