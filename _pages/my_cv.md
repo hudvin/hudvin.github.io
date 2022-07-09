@@ -61,7 +61,7 @@ processing and analysis of financial pdf documents, OCR, dealing with pdf
 format issues, pdf/image compression and optimization, ghoscript based
 processing, dealing with font related issues
 
-ghostscript, imagemagic, fitz, flask, AWS Lambda, AWS Te xtract
+ghostscript, imagemagic, fitz, flask, AWS Lambda, AWS Textract
 
 ### Khumbu
 image search engine based on AI and computer vision. Performs face
