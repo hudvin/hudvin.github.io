@@ -18,15 +18,15 @@ excerpt_separator: <!--more-->
 * [Окаянные дни, Иван Бунин](https://ru.wikipedia.org/wiki/Окаянные_дни)
 * [Bloodlands: Europe Between Hitler and Stalin, Timothy Snyder](https://www.amazon.com/Bloodlands-Europe-Between-Hitler-Stalin/dp/0465031471)
 * [Fermat's Enigma, Simon Singh](https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622)
-* <https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215>
-* <https://www.amazon.com/ARTILLERYMAN-STALINGRAD-Memoirs-Participant-Battle/dp/0975107658>
-* <https://www.amazon.com/Second-World-War-Winston-Churchill/dp/039541685X>
+* [The Complete World of Greek Mythology, Richard Buxton](https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215)
+* [An artilleryman in Stalingrad, Dr Wigand Wüster](https://www.amazon.com/ARTILLERYMAN-STALINGRAD-Memoirs-Participant-Battle/dp/0975107658)
+* [The Second World War, Winston S. Churchill](https://www.amazon.com/Second-World-War-Winston-Churchill/dp/039541685X)
 * Гетьманські могили, С. П Сегеда
 * Атлас пещерных городов Крыма: путешествие к строителям и обитателям пещер, Анатолий Гуськов
 
 ## Georgia
-* <https://www.amazon.com/Georgia-Mountains-Poetry-Peter-Nasmyth/dp/1468315692>
-* <https://www.amazon.com/Bread-Ashes-Through-Mountains-Georgia/dp/0099437872>
+* [Georgia: In the Mountains of Poetry, Peter Nasmyth](https://www.amazon.com/Georgia-Mountains-Poetry-Peter-Nasmyth/dp/1468315692)
+* [Bread and Ashes: A Walk Through the Mountains of Georgia](https://www.amazon.com/Bread-Ashes-Through-Mountains-Georgia/dp/0099437872)
 
 
 
@@ -38,36 +38,39 @@ excerpt_separator: <!--more-->
 
 * [Catch 22, Joseph Heller](https://www.amazon.com/Catch-22-50th-Anniversary-Joseph-Heller/dp/1451626657)
 * [Cryptonomicon, Neal Stephenson](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806)
-* <https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983>
-* <https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806>
-* <https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X>
+* [Contact: A Novel, Carl Sagan](https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983)
+* [Foucault's Pendulum, Umberto Eco](https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X)
+
 
 
 # Non Fiction
-* [Surely, you're joking, Mr. Feynman!, Richard P. Feynman](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
-* <https://www.amazon.com/First-Contact-Scientific-Breakthroughs-Beyond/dp/1439109001>
-* <https://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary-ebook/dp/B003PDMKIY>
-* <https://www.amazon.com/Perfect-Rigor-Mathematical-Breakthrough-Century/dp/015101406X>
-* <https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622>
-* <https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam-ebook/dp/B000Q67J3O>
-* <https://www.amazon.com/Doctor-Wood-Modern-Wizard-Laboratory/dp/B0006APFIG>
-* <https://www.amazon.com/Prime-Obsession-Bernhard-Greatest-Mathematics/dp/0452285259>
-* <https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732>
-* <https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314>
+
+* [Hackers: Heroes of the Computer Revolution, Steven Levy](https://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary-ebook/dp/B003PDMKIY)
+* [Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem, Simon Singh](https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622)
+* [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam-ebook/dp/B000Q67J3O)
+* [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics , John Derbyshire](https://www.amazon.com/Prime-Obsession-Bernhard-Greatest-Mathematics/dp/0452285259)
+* [The Prince, Nicolo Machiavelli](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
 
 ## Diaries
 * [Anne Frank: The Diary of a Young Girl](https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/0553296981)
 
 ## Biographies
-* <https://www.amazon.com/Henri-Cartier-Bresson-Biography-Pierre-Assouline/dp/0500290520>
-* <https://www.amazon.com/No-Woman-Cry-Life-Marley/dp/0786887559>
-* <https://www.amazon.com/Wittgenstein-Biography-Philosophy-James-Klagge/dp/0521008689>
-* <https://www.amazon.com/Many-Lives-Waits-Patrick-Humphries/dp/1847725090>
+* [Henri Cartier-Bresson: A Biography, Pierre Assouline](https://www.amazon.com/Henri-Cartier-Bresson-Biography-Pierre-Assouline/dp/0500290520)
+* [No Woman No Cry: My Life with Bob Marley, Rita Marley](https://www.amazon.com/No-Woman-Cry-Life-Marley/dp/0786887559)
+* [Wittgenstein: Biography and Philosophy, James C. Klagge](https://www.amazon.com/Wittgenstein-Biography-Philosophy-James-Klagge/dp/0521008689)
+* [Many Lives Of Tom Waits, Patrick Humphries](https://www.amazon.com/Many-Lives-Waits-Patrick-Humphries/dp/1847725090)
+* [Just for Fun: The Story of an Accidental Revolutionary, Linus Torvalds](https://www.amazon.com/Just-Fun-Story-Accidental-Revolutionary/dp/0066620732)
+* [Doctor Wood, Modern Wizard of the Laboratory: The Story of an American Small Boy Who Became the Most Daring and Original Experimental Physicist of Our Day-but Never Grew Up, William Seabrook](https://www.amazon.com/Doctor-Wood-Modern-Wizard-Laboratory/dp/B0006APFIG)
+* [Surely, you're joking, Mr. Feynman!, Richard P. Feynman](https://www.amazon.com/Surely-Feynman-Adventures-Curious-Character/dp/0393316041)
+* [Perfect Rigor: A Genius and the Mathematical Breakthrough of the Century, Masha Gessen](https://www.amazon.com/Perfect-Rigor-Mathematical-Breakthrough-Century/dp/015101406X)
 * Братья Стругацкие, Ант Скаландис
 * Отец, Наталия Сергеевна Королева
 * Валентин Глушко: конструктор ракетных двигателей и космических систем
 
+
+
 # Manga
+
 * The Summit of the Gods
   * [Volume 1](https://www.amazon.com/Summit-Gods-Baku-Yumemakura/dp/8496427870)
   * [Volume 2](https://www.amazon.com/Summit-Gods-Vol-2/dp/8492444320/)
@@ -75,25 +78,38 @@ excerpt_separator: <!--more-->
   * [Volume 4](https://www.amazon.com/Summit-Gods-Vol-4/dp/8492444630)
   * [Volume 5](https://www.amazon.com/gp/product/8492444401)
 
+
+
 # Adventure
+
+### John Krakauer
+* [Into the Wild, Jon Krakauer](https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804)
+
+
+### Thor Heyerdahl
+* [The Kon-Tiki Expedition, Thor Heyerdahl](https://www.amazon.com/Kon-Tiki-Expedition-Thor-Heyerdahl/dp/0006550339/)
+* [The Ra expeditions  ,Thor Heyerdahl](https://www.amazon.com/Ra-expeditions-Thor-Heyerdahl/dp/0045720207)
+* [Aku-Aku: The Secret of Easter Island, Thor Heyerdahl](https://www.amazon.com/Aku-Aku-Secret-Easter-Thor-Heyerdahl/dp/B0042PGC5G)
+
+
+## Other
+
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
-* <https://www.amazon.com/Kon-Tiki-Expedition-Thor-Heyerdahl/dp/0006550339/>
-* <https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/>
-* <https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804>
-* <https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108>
-* <https://www.amazon.com/Ra-expeditions-Thor-Heyerdahl/dp/0045720207>
-* <https://www.amazon.com/Aku-Aku-Secret-Easter-Thor-Heyerdahl/dp/B0042PGC5G>
-* <https://www.amazon.com/First-Rate-Tragedy-Robert-Falcon/dp/0395933498>
+* [A First Rate Tragedy: Robert Falcon Scott and the Race to the South Pole, Diana Preston](https://www.amazon.com/First-Rate-Tragedy-Robert-Falcon/dp/0395933498)
 * Нансен - Одна только воля, Per Hegge
 
-## Climbing
+## Climbing & Mountains
 * [K2. Life and death on the world's most dangerous mointain, Ed Viesturs](https://www.amazon.com/K2-Death-Worlds-Dangerous-Mountain/dp/0767932609/)
+* [Eiger Dreams: Ventures Among Men and Mountains, Jon Krakauer ](https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108)
+* [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
 
 ## Caves
 * [Blind Descent, James M. Tabor](https://www.amazon.com/Blind-Descent-Quest-Discover-Deepest/dp/0812979494)
 
 
+
 # Art
+
 ## Photography
 * <https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755>
 * <https://www.amazon.com/Ansel-Adams-400-Photographs/dp/0316117722>
@@ -157,10 +173,10 @@ excerpt_separator: <!--more-->
 * <https://www.amazon.com/Backyard-Astronomers-Guide-Terence-Dickinson/dp/0228103274>
 
 
-## Bio
+## Biotech
 * <https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074>
 
-## Cognitify psycology
+## Cognitive Psycology
 * <https://www.amazon.com/Cognitive-Psychology-8th-Robert-Solso/dp/0205521088>
 
 ## Futurology
@@ -182,19 +198,30 @@ excerpt_separator: <!--more-->
 * <https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345539435>
 * <https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595>
 * <https://www.amazon.com/Operators-Things-Inner-Life-Schizophrenic/dp/0615509282>
+* [First Contact: Scientific Breakthroughs in the Hunt for Life Beyond Earth, Marc Kaufman](https://www.amazon.com/First-Contact-Scientific-Breakthroughs-Beyond/dp/1439109001)
+
 
 
 # Startups
-* <https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577>
-* <https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814>
-* <https://www.amazon.com/Seeing-Whats-Next-Theories-Innovation/dp/1591391857>
-* <https://www.amazon.com/Innovators-Prescription-Disruptive-Solution-Health/dp/1259860868>
-* <https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141>
-* <https://www.amazon.com/Raising-Venture-Capital-Serious-Entrepreneur/dp/0071496025>
-* <https://www.amazon.com/Rework-Jason-Fried/dp/0307463745>
-* <https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995>
-* <https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/>
-* <https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562>
+
+## Clayton M. Christensen
+
+* [The Innovator's Solution: Creating and Sustaining Successful Growth, Clayton M. M. Christensen](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577)
+* [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators, Clayton M. M. Christensen](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814)
+* [Seeing What's Next: Using Theories of Innovation to Predict Industry Change ,Clayton M. M. Christensen](https://www.amazon.com/Seeing-Whats-Next-Theories-Innovation/dp/1591391857>)
+* [The Innovator's Prescription: A Disruptive Solution for Health Care, Clayton M. M. Christensen](https://www.amazon.com/Innovators-Prescription-Disruptive-Solution-Health/dp/1259860868)
+
+## Other
+
+* [Founders at Work: Stories of Startups' Early Days, Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141)
+* [Raising Venture Capital for the Serious Entrepreneur, Dermot Berkery](https://www.amazon.com/Raising-Venture-Capital-Serious-Entrepreneur/dp/0071496025)
+* [Rework, Jason Fried](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
+*  [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything, Guy Kawasaki](https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562)
+
+### Richard Branson
+
+* [Screw It, Let's Do It: Lessons in Life, Richard Branson](https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
+* [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way, Richard Branson](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/)
 
 # Marketing
 
