@@ -111,48 +111,57 @@ excerpt_separator: <!--more-->
 # Art
 
 ## Photography
-* <https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755>
-* <https://www.amazon.com/Ansel-Adams-400-Photographs/dp/0316117722>
-* <https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787>
-* <https://www.amazon.com/Ansel-Adams-Camera-Photography/dp/0821221841>
-* <https://www.amazon.com/Negative-Ansel-Adams-Photography/dp/0821221868/>
-* <https://www.amazon.com/Print-Ansel-Adams-Photography/dp/0821221876/>
-* <https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/>
-* <https://www.amazon.co.uk/Photojournalism-Stories-Behind-Greatest-Photographers/dp/2940378053>
-* <https://www.amazon.com/Photo-Icons-1827-1926-Hans-Michael-Koetzle/dp/3822818283/>
-* <https://www.amazon.com/Photo-Icons-II-Icon-Taschen/dp/3836507978/>
-* [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
+
+### Ansel Adams
+* [Ansel Adams: 400 Photographs, Ansel Adams](https://www.amazon.com/Ansel-Adams-400-Photographs/dp/0316117722)
+* [The Camera,  Ansel Adams](https://www.amazon.com/Ansel-Adams-Camera-Photography/dp/0821221841)
+* [The Print,  Ansel Adams](https://www.amazon.com/Print-Ansel-Adams-Photography/dp/0821221876/)
+* [The Negative,  Ansel Adams](https://www.amazon.com/Negative-Ansel-Adams-Photography/dp/0821221868/)
+
+### Albums
+* [Photography of the 20th Century, Taschen](https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/)
+* [Photojournalism: And the Stories Behind Their Greatest Images, Andy Steel](https://www.amazon.co.uk/Photojournalism-Stories-Behind-Greatest-Photographers/dp/2940378053)
+* [Photo Icons I (1827-1926), Hans-Michael Koetzle](https://www.amazon.com/Photo-Icons-1827-1926-Hans-Michael-Koetzle/dp/3822818283/)
+* [Photo Icons II, Hans-Michael Koetzle](https://www.amazon.com/Photo-Icons-II-Icon-Taschen/dp/3836507978/)
 * [В объективе война 1941-1945: фотографии советских и иностранных корреспондентов ис собранииа Российского государственного архива кинофотодокументов](https://books.google.com.ua/books/about/%D0%92_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1941_19.html?id=7hgsAQAAMAAJ)
+* [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
+
+
+### Other
+
+* [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
+* [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
+
 
 # Development
 ## Machine Learning
-* <https://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X>
-* <https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569>
-* <https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210/>
-* <https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X>
-* <https://www.amazon.com/Digital-Image-Processing-Using-MATLAB/dp/0130085197/>
-* <https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597>
-* <https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/>
+* [Taming Text: How to Find, Organize, and Manipulate It, Grant S. Ingersoll](https://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X)
+* [Data Mining: Practical Machine Learning Tools and Techniques, Ian H. Witten](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
+* [Speech and Language Processing, Daniel Jurafsky](https://www.amazon.com/Speech-Language-Processing-Daniel-Jurafsky/dp/0131873210/)
+* [Computer Vision: A Modern Approach, David Forsyth](https://www.amazon.com/Computer-Vision-Modern-Approach-2nd/dp/013608592X)
+* [Digital Image Processing Using MATLAB, Rafael C. Gonzalez](https://www.amazon.com/Digital-Image-Processing-Using-MATLAB/dp/0130085197/)
+* [Artificial Intelligence: A Modern Approach 3, Stuart Russel, Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597)
+* [Deep Learning, Ian Goodfellow](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/)
 
 ## Cryptography
-* <https://www.amazon.com/Practical-Cryptography-Niels-Ferguson/dp/0471223573>
+* [Practical Cryptography, Niels Ferguson](https://www.amazon.com/Practical-Cryptography-Niels-Ferguson/dp/0471223573)
 
 ## Databases
-* <https://www.amazon.com/Mastering-SQL-Martin-Gruber/dp/0782125387>
+* [Mastering SQL, Martin Gruber](https://www.amazon.com/Mastering-SQL-Martin-Gruber/dp/0782125387)
 
 ## Management
-* <https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959>
-* <https://www.amazon.com/Project-Management-Theory-Practice-OReilly/dp/0596007868>
-* <https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171>
+* [Mythical Man-Month, The: Essays on Software Engineering, Frederick Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
+* [Making Things Happen: Mastering Project Management, Scott Berkun](https://www.amazon.com/Making-Things-Happen-Mastering-Management-dp-0596517718/dp/0596517718/)
+* [Herding Cats: A Primer for Programmers Who Lead Programmers, J. Hank Rainwater](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
 
 ## Other 
-* <https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612>
-* <https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420>
-* <https://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494>
-* <https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X>
-* <https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445>
-* <https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672>
-* <https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898>
+* [Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+* [Patterns of Enterprise Application Architecture, Martin Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+* [How Would You Move Mount Fuji?, William Poundstone](https://www.amazon.com/How-Would-Move-Mount-Fuji/dp/0316778494)
+* [The Pragmatic Programmer: From Journeyman to Master, Andrew Hunt](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+* [Agile Software Development, Principles, Patterns, and Practices, Robert Martin](https://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445)
+* [Refactoring: Improving the Design of Existing Code , Martin Fowler](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+* [Joel on Software, Joel Spolsky](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 
 # Psycology
 * <https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303>
