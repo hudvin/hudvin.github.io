@@ -123,7 +123,7 @@ excerpt_separator: <!--more-->
 * [Photojournalism: And the Stories Behind Their Greatest Images, Andy Steel](https://www.amazon.co.uk/Photojournalism-Stories-Behind-Greatest-Photographers/dp/2940378053)
 * [Photo Icons I (1827-1926), Hans-Michael Koetzle](https://www.amazon.com/Photo-Icons-1827-1926-Hans-Michael-Koetzle/dp/3822818283/)
 * [Photo Icons II, Hans-Michael Koetzle](https://www.amazon.com/Photo-Icons-II-Icon-Taschen/dp/3836507978/)
-* [В объективе война 1941-1945: фотографии советских и иностранных корреспондентов ис собранииа Российского государственного архива кинофотодокументов](https://books.google.com.ua/books/about/%D0%92_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1941_19.html?id=7hgsAQAAMAAJ)
+* [В объективе война 1941-1945: фотографии советских и иностранных корреспондентов из собрания Российского государственного архива кинофотодокументов](https://books.google.com.ua/books/about/%D0%92_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1941_19.html?id=7hgsAQAAMAAJ)
 * [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
 
 
@@ -164,8 +164,8 @@ excerpt_separator: <!--more-->
 * [Joel on Software, Joel Spolsky](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 
 # Psycology
-* <https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303>
-* <https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X>
+* [When Nietzsche Wept: A Novel of Obsession, Irvin Yalom](https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303)
+* [The Man of Genius, Cesare Lombroso](https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X)
 
 # Science
 ## Mind and Consciousness
@@ -177,23 +177,23 @@ excerpt_separator: <!--more-->
 * <https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891>
 
 ## Astronomy
-* <https://www.amazon.com/Turn-Left-Orion-Hundred-Telescope/dp/0521781906>
-* <https://www.amazon.com/Sky-Telescopes-Pocket-Atlas/dp/1931559317>
-* <https://www.amazon.com/Backyard-Astronomers-Guide-Terence-Dickinson/dp/0228103274>
+* [Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope,  Guy Consolmagno](https://www.amazon.com/Turn-Left-Orion-Hundred-Telescope/dp/0521781906)
+* [Sky & Telescope's Pocket Sky Atlas, Roger W. Sinnott](https://www.amazon.com/Sky-Telescopes-Pocket-Atlas/dp/1931559317)
+* [The Backyard Astronomer's Guide, Terence Dickinson](https://www.amazon.com/Backyard-Astronomers-Guide-Terence-Dickinson/dp/0228103274)
 
 
 ## Biotech
-* <https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074>
+* [Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime, Aubrey de Grey](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
 ## Cognitive Psycology
-* <https://www.amazon.com/Cognitive-Psychology-8th-Robert-Solso/dp/0205521088>
+* [Cognitive Psychology, Robert L. Solso](https://www.amazon.com/Cognitive-Psychology-8th-Robert-Solso/dp/0205521088)
 
 ## Futurology
-* <https://www.amazon.com/Third-Wave-Alvin-Toffler/dp/0553246984>
+* [The Third Wave, Alvin Toffler](https://www.amazon.com/Third-Wave-Alvin-Toffler/dp/0553246984)
 
 ## Linguistics
-* <https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X>
-* https://www.amazon.com/Language-Chomskys-Classic-Responsibility-Reflections/dp/1565844750/
+* [Language and Mind, Noam Chomsky](https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X)
+* [On Language, Noam Chomsky](https://www.amazon.com/Language-Chomskys-Classic-Responsibility-Reflections/dp/1565844750/)
 
 
 ## Other 
