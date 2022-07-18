@@ -133,7 +133,9 @@ excerpt_separator: <!--more-->
 * [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
 
 
+
 # Development
+
 ## Machine Learning
 * [Taming Text: How to Find, Organize, and Manipulate It, Grant S. Ingersoll](https://www.amazon.com/Taming-Text-Find-Organize-Manipulate/dp/193398838X)
 * [Data Mining: Practical Machine Learning Tools and Techniques, Ian H. Witten](https://www.amazon.com/Data-Mining-Practical-Techniques-Management/dp/0123748569)
@@ -163,11 +165,17 @@ excerpt_separator: <!--more-->
 * [Refactoring: Improving the Design of Existing Code , Martin Fowler](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 * [Joel on Software, Joel Spolsky](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 
+
+
 # Psycology
+
 * [When Nietzsche Wept: A Novel of Obsession, Irvin Yalom](https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303)
 * [The Man of Genius, Cesare Lombroso](https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X)
 
+
+
 # Science
+
 ## Mind and Consciousness
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
 * [The Large, the Small and the Human Mind, Roger Penrose](https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723)
@@ -197,16 +205,24 @@ excerpt_separator: <!--more-->
 
 
 ## Other 
-* <https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X>
-* <https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359>
-* <https://www.amazon.com/God-Delusion-Richard-Dawkins/dp/0618680004/>
-* <https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/>
-* <https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491/>
-* <https://www.amazon.com/Wittgensteins-Tractatus-Introduction-Introductions-Philosophical/dp/0521616387>
-* <https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469>
-* <https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345539435>
-* <https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595>
-* <https://www.amazon.com/Operators-Things-Inner-Life-Schizophrenic/dp/0615509282>
+
+### Carl Sagan
+* [The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469)
+* [Cosmos, Carl Sagan](https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345539435)
+* [Pale Blue Dot: A Vision of the Human Future in Space, Carl Sagan](https://www.amazon.com/Pale-Blue-Dot-Vision-Future/dp/0345376595)
+
+### Richard Dawkins
+* [The God Delusion, Richard Dawkins](https://www.amazon.com/God-Delusion-Richard-Dawkins/dp/0618680004/)
+* [The Selfish Gene, Richard Dawkins](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science/dp/0198788606/)
+* [The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe without Design, Richard Dawkins](https://www.amazon.com/Blind-Watchmaker-Evidence-Evolution-Universe/dp/0393351491/)
+
+### David Deutsch
+* [The Fabric of Reality: The Science of Parallel Universes--and Its Implications, David Deutsch](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X)
+* [The Beginning of Infinity: Explanations That Transform the World, David Deutsch](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)
+
+### Other
+* [Wittgenstein's Tractatus, Alfred Nordmann](https://www.amazon.com/Wittgensteins-Tractatus-Introduction-Introductions-Philosophical/dp/0521616387)
+* [Operators and Things: The Inner Life of a Schizophrenic, Barbara O'Brien](https://www.amazon.com/Operators-Things-Inner-Life-Schizophrenic/dp/0615509282)
 * [First Contact: Scientific Breakthroughs in the Hunt for Life Beyond Earth, Marc Kaufman](https://www.amazon.com/First-Contact-Scientific-Breakthroughs-Beyond/dp/1439109001)
 
 
