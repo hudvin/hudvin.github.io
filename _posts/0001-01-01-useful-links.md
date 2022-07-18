@@ -28,3 +28,7 @@ excerpt_separator: <!--more-->
 ## Various Collections
 * [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)
 * [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary)   (torrents are avaliable)
+
+
+## Online Museums
+* [The Kon-Tiki Museum](https://www.kon-tiki.no/expeditions/)
