@@ -169,12 +169,12 @@ excerpt_separator: <!--more-->
 
 # Science
 ## Mind and Consciousness
-* <https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755>
-* <https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723>
-* <https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661>
-* <https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533>
-* <https://www.amazon.com/Character-Consciousness-Philosophy-Mind/dp/0195311116>
-* <https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891>
+* [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
+* [The Large, the Small and the Human Mind, Roger Penrose](https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723)
+* [Consciousness Explained, Daniel C. Dennett](https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661)
+* [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Jeff Hawkins](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533)
+* [The Character of Consciousness, David J. Chalmers](https://www.amazon.com/Character-Consciousness-Philosophy-Mind/dp/0195311116)
+* [The Conscious Mind: In Search of a Fundamental Theory, David J. Chalmers](https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891)
 
 ## Astronomy
 * [Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope,  Guy Consolmagno](https://www.amazon.com/Turn-Left-Orion-Hundred-Telescope/dp/0521781906)
