@@ -15,18 +15,20 @@ excerpt_separator: <!--more-->
 * USA/Europe
 * interesting companies
 * плюшки
-* опыт прохождения собеседований!
+* опыт прохождения собеседований - relocation
 
 # Python
 
-## Tools
+## General
+* naming conventions
+* PIP8  - code style
 
+## Tools
 * poetry
 * pipenv
 * Celery
 
 ## Libraries
-
 * FastAPI
 * Flask
 * SQLAlchemy
@@ -34,77 +36,56 @@ excerpt_separator: <!--more-->
 
 ## Core
 
-* slots
+### Collections
+* iterator protocol - iter and next
+* reduce and map
+* set/dict/list comprehension
+* generator and iterator - method based and class based
 
-* abstract base class
 
+### Concurrency
 * concurrency
-
 * async
-
-* garbage collector
-
-* new python 
-
-* dataclasses
-
-* list/dicts
-
-* ContextManager - contextlib annotation and class-based 
-
-*  iterators
-
-* strings
-
-* decorators
-
-* annotations
-
-* typing
-
-* inheritance
-
-* \__init__ and \__new__
-
-* magic methods
-
-* singletone
-
-* \_call_ method
-
-* metaclasses
-
-* descriptors
-
-* generators
-
-* NamedTuple
-
-* Path
-
-* iterator protocol
-
-* reduce
-
-* dictionary
-
 * ThreadLocal
-
 * ContextVar
 
-* OrderedDict
-
-* \__hash__  and  \__eq__
-
-* yield and generators
-
+### Core  types
+* enums
+* dataclasses
+* list/dicts
+* iterators
+* strings
 * raw strings, byte strings, unicode strings
 
-* @staticmethod and @classmethod
+### Core classes, functions, packages
+* stdlib
+* ABC and @abstractmethod
+* ContextManager - contextlib annotation and class-based 
+* decorators - function based, class based  (class with \_\_call\_\_ method), @wrap from functools
+* @property decorator (setter, getter, deleter)
+* NamedTuple
+* Path
+* OrderedDict
 
+### Other
+* slots
+* garbage collector
+* pattern matching
+* inheritance
+* \_\_init\_\_ and  \_\_new\_\_
+* magic methods
+* singletone
+* \_\_call\_\_ method
+* metaclasses
+* descriptors
+* type annotations
+* \_\_hash\_\_  and  \_\_eq\_\_
+* yield and generators
+* @staticmethod and @classmethod (factory methods - cls as arg)
 * @property (setter and getter)
-
 * locals and globals
+* signals
+* \_\_init\_\_.py file - regular and namespace package <https://stackoverflow.com/questions/37139786/is-init-py-not-required-for-packages-in-python-3-3>
 
 # AWS
 
@@ -155,6 +136,8 @@ excerpt_separator: <!--more-->
    * scheduled tasks
 
 * Aurora
+* Backup
+* Transfer Family
 * Elastic Load Balancing <https://aws.amazon.com/elasticloadbalancing/features/?nc1=h_ls>
    * Application Load Balancer
    * Gateway Load Balancer
