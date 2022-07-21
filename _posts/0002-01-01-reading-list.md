@@ -242,6 +242,7 @@ excerpt_separator: <!--more-->
 * [Raising Venture Capital for the Serious Entrepreneur, Dermot Berkery](https://www.amazon.com/Raising-Venture-Capital-Serious-Entrepreneur/dp/0071496025)
 * [Rework, Jason Fried](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 *  [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything, Guy Kawasaki](https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562)
+* [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses , Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 ### Richard Branson
 
