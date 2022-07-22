@@ -37,10 +37,10 @@ excerpt_separator: <!--more-->
 ## Core
 
 ### Collections
-* iterator protocol - iter and next
+* iterator protocol - iter and next, iterator, iterable, generator
 * reduce and map
 * set/dict/list comprehension
-* generator and iterator - method based and class based
+* generator and iterator - method based and class based (generator is iterator)
 
 
 ### Concurrency
@@ -52,10 +52,11 @@ excerpt_separator: <!--more-->
 ### Core  types
 * enums
 * dataclasses
-* list/dicts
+* list/dicts/sets
 * iterators
 * strings
 * raw strings, byte strings, unicode strings
+* tuples
 
 ### Core classes, functions, packages
 * stdlib
@@ -69,6 +70,7 @@ excerpt_separator: <!--more-->
 
 ### Other
 * slots
+* yeld
 * garbage collector
 * pattern matching
 * inheritance
@@ -83,7 +85,7 @@ excerpt_separator: <!--more-->
 * yield and generators
 * @staticmethod and @classmethod (factory methods - cls as arg)
 * @property (setter and getter)
-* locals and globals
+* global and nonlocal
 * signals
 * \_\_init\_\_.py file - regular and namespace package <https://stackoverflow.com/questions/37139786/is-init-py-not-required-for-packages-in-python-3-3>
 
@@ -203,7 +205,7 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * SQL
 * SOLID
 * Agile/SCRUM/Kanban
-* design patterns
+* design patterns - порождающие, структурные, поведенческие
 * Алгоритмы и структуры данных
 * OSI levels
 * clean code

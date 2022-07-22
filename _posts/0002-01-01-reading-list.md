@@ -254,3 +254,10 @@ excerpt_separator: <!--more-->
 
 # Ideas
 * print small post card for each book I read
+
+
+
+# To Read
+
+## Startups
+* [The Nazi Doctors: Medical Killing and the Psychology of Genocide, Robert Jay Lifton](https://www.amazon.com/Nazi-Doctors-Medical-Psychology-Genocide/dp/0465093396/)
