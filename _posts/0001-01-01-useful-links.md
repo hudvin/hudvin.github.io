@@ -15,6 +15,7 @@ excerpt_separator: <!--more-->
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
+* [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
 
 
 ## Maps
@@ -32,3 +33,18 @@ excerpt_separator: <!--more-->
 
 ## Online Museums
 * [The Kon-Tiki Museum](https://www.kon-tiki.no/expeditions/)
+
+
+
+## Other
+
+* [Hi-Tech DIY: Турбореактивный микрогенератор электричества. Изучаем возможности](https://habr.com/ru/company/ruvds/blog/677302/)
+* [Small methanol or petrol engine](https://www.banggood.com/Toyan-FS-S100AS-4-Stroke-Methanol-Engine-Set-Start-ESC-Base-without-Battery-for-1-or-10-RC-Car-Boat-Model-Parts-p-1659205.html?cur_warehouse=CN)
+
+
+
+## Libraries
+
+* <https://z-lib.org/>
+* <https://libgen.is/>
+* <https://flibusta.site/>
