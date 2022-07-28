@@ -40,6 +40,8 @@ excerpt_separator: <!--more-->
 
 * [Hi-Tech DIY: Турбореактивный микрогенератор электричества. Изучаем возможности](https://habr.com/ru/company/ruvds/blog/677302/)
 * [Small methanol or petrol engine](https://www.banggood.com/Toyan-FS-S100AS-4-Stroke-Methanol-Engine-Set-Start-ESC-Base-without-Battery-for-1-or-10-RC-Car-Boat-Model-Parts-p-1659205.html?cur_warehouse=CN)
+* [Reasons to tour by bicycle](https://news.ycombinator.com/item?id=31797686)
+* [My 40-liter backpack travel guide](https://news.ycombinator.com/item?id=31811758), <https://vitalik.ca/general/2022/06/20/backpack.html>
 
 
 
