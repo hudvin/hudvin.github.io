@@ -23,6 +23,21 @@ excerpt_separator: <!--more-->
 * [The Second World War, Winston S. Churchill](https://www.amazon.com/Second-World-War-Winston-Churchill/dp/039541685X)
 * Гетьманські могили, С. П Сегеда
 * Атлас пещерных городов Крыма: путешествие к строителям и обитателям пещер, Анатолий Гуськов
+* Ракеты и люди, Борис Черток
+* Національний дендрологічний парк "Софіївка"
+* Атлас пещерных городов Крыма, Анатолий Гуськов
+
+
+
+## Susan Wise Bauer
+
+* [The History of the Ancient World: From the Earliest Accounts to the Fall of Rome, Susan Wise Bauer](https://www.amazon.com/History-Ancient-World-Earliest-Accounts/dp/039305974X)
+* [The History of the Medieval World: From the Conversion of Constantine to the First Crusade, Susan Wise Bauer](https://www.amazon.com/History-Medieval-World-Conversion-Constantine/dp/0393059758/)
+* [The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople, Susan Wise Bauer](https://www.amazon.com/History-Renaissance-World-Rediscovery-Constantinople/dp/0393059766)
+
+
+
+
 
 ## Georgia
 * [Georgia: In the Mountains of Poetry, Peter Nasmyth](https://www.amazon.com/Georgia-Mountains-Poetry-Peter-Nasmyth/dp/1468315692)
@@ -40,6 +55,7 @@ excerpt_separator: <!--more-->
 * [Cryptonomicon, Neal Stephenson](https://www.amazon.com/Cryptonomicon-Neal-Stephenson/dp/0060512806)
 * [Contact: A Novel, Carl Sagan](https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983)
 * [Foucault's Pendulum, Umberto Eco](https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X)
+* Собрание сочинений в шести томах, А. Куприн
 
 
 
@@ -66,7 +82,7 @@ excerpt_separator: <!--more-->
 * Братья Стругацкие, Ант Скаландис
 * Отец, Наталия Сергеевна Королева
 * Валентин Глушко: конструктор ракетных двигателей и космических систем
-* [Reinhold Messner: My Life At The Limit, Reinhold Messner, Thomas Hüetlin](https://www.amazon.com/gp/product/1594858527/)
+
 
 
 
@@ -85,7 +101,18 @@ excerpt_separator: <!--more-->
 
 ### John Krakauer
 * [Into the Wild, Jon Krakauer](https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804)
+* [Eiger Dreams: Ventures Among Men and Mountains, Jon Krakauer ](https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108)
 
+### Anatoli Boukreev
+* [Above the Clouds: The Diaries of a High-Altitude Mountaineer, Anatoli Boukreev](https://www.amazon.com/Above-Clouds-Diaries-High-Altitude-Mountaineer/dp/031229137X)
+* [The Climb: Tragic Ambitions on Everest, Anatoli Boukreev](https://www.amazon.com/Climb-Tragic-Ambitions-Everest/dp/0312206372)
+
+### Reinhold Messner
+* [Reinhold Messner: My Life At The Limit, Reinhold Messner, Thomas Hüetlin](https://www.amazon.com/gp/product/1594858527/)
+
+### Ed Viesturs
+* [K2. Life and death on the world's most dangerous mointain, Ed Viesturs](https://www.amazon.com/K2-Death-Worlds-Dangerous-Mountain/dp/0767932609/)
+* [No Shortcuts to the Top: Climbing the World's 14 Highest Peaks, Ed Viesturs](https://www.amazon.com/No-Shortcuts-Top-Climbing-Highest/dp/0767924711)
 
 ### Thor Heyerdahl
 * [The Kon-Tiki Expedition, Thor Heyerdahl](https://www.amazon.com/Kon-Tiki-Expedition-Thor-Heyerdahl/dp/0006550339/)
@@ -97,11 +124,10 @@ excerpt_separator: <!--more-->
 
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
 * [A First Rate Tragedy: Robert Falcon Scott and the Race to the South Pole, Diana Preston](https://www.amazon.com/First-Rate-Tragedy-Robert-Falcon/dp/0395933498)
+* [Annapurna: The First Conquest Of An 8,000-Meter Peak, Maurice Herzog](https://www.amazon.com/Annapurna-First-Conquest-000-Meter-Peak/dp/1599218933)
 * Нансен - Одна только воля, Per Hegge
 
 ## Climbing & Mountains
-* [K2. Life and death on the world's most dangerous mointain, Ed Viesturs](https://www.amazon.com/K2-Death-Worlds-Dangerous-Mountain/dp/0767932609/)
-* [Eiger Dreams: Ventures Among Men and Mountains, Jon Krakauer ](https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108)
 * [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
 
 ## Caves
@@ -118,6 +144,7 @@ excerpt_separator: <!--more-->
 * [The Camera,  Ansel Adams](https://www.amazon.com/Ansel-Adams-Camera-Photography/dp/0821221841)
 * [The Print,  Ansel Adams](https://www.amazon.com/Print-Ansel-Adams-Photography/dp/0821221876/)
 * [The Negative,  Ansel Adams](https://www.amazon.com/Negative-Ansel-Adams-Photography/dp/0821221868/)
+* [Yosemite and the High Sierra, Ansel Adams](https://www.amazon.com/Yosemite-High-Sierra-Ansel-Adams/dp/0821221345)
 
 ### Albums
 * [Photography of the 20th Century, Taschen](https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/)
@@ -126,12 +153,17 @@ excerpt_separator: <!--more-->
 * [Photo Icons II, Hans-Michael Koetzle](https://www.amazon.com/Photo-Icons-II-Icon-Taschen/dp/3836507978/)
 * [В объективе война 1941-1945: фотографии советских и иностранных корреспондентов из собрания Российского государственного архива кинофотодокументов](https://books.google.com.ua/books/about/%D0%92_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0_1941_19.html?id=7hgsAQAAMAAJ)
 * [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
+* Россия в квадрате, Дмитрий Марков
+* Фотожурналистика: Лучшие фотографы мира и истории создания их работ, Энди Стил
+* Врозь, Евгений Фельдман
 
 
 ### Other
 
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
 * [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
+* Новое руководство по фотографии, Джон Хеджкоу
+* 50 фотопроектов. Новые идеи для творчества, Ли Фрост
 
 
 
@@ -249,6 +281,18 @@ excerpt_separator: <!--more-->
 
 * [Screw It, Let's Do It: Lessons in Life, Richard Branson](https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way, Richard Branson](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/)
+
+
+
+
+
+# Languages
+
+## English
+
+* [English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English, Raymond Murphy](https://www.amazon.com/English-Grammar-Use-Book-Answers/dp/1108457657/)
+
+
 
 # Marketing
 

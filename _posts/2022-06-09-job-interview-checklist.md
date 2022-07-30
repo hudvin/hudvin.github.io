@@ -41,6 +41,10 @@ excerpt_separator: <!--more-->
 * reduce and map
 * set/dict/list comprehension
 * generator and iterator - method based and class based (generator is iterator)
+  *  <https://stackoverflow.com/questions/2776829/difference-between-pythons-generators-and-iterators>
+  * <https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do>
+  * send method <https://stackoverflow.com/questions/19302530/whats-the-purpose-of-send-function-on-python-generators>
+
 
 
 ### Concurrency
@@ -193,6 +197,9 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Postgres
 * mySQL
 * Terraform
+* Redis
+* PostgREST
+* Postman + Newman (cli to run tests)
 
 
 
@@ -210,7 +217,14 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * OSI levels
 * clean code
 * LeetCode
-
+* Postman
+* horizontal and vertical scaling
+* Graphql
+* RPC - gRPC, REST, HATEOS, JSON-RPC, XML-RPC, SOAP
+  * https://stackoverflow.com/questions/46145417/rest-vs-rpc-actual-purpose-differences
+  * <https://stackoverflow.com/questions/15056878/rest-vs-json-rpc>
+  * [REST? Возьмите тупой JSON-RPC](https://habr.com/ru/post/441854/)
+  * <https://ru.wikipedia.org/wiki/XML-RPC>
 
 
 # Other-other
