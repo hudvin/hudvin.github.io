@@ -26,6 +26,8 @@ excerpt_separator: <!--more-->
 * Ракеты и люди, Борис Черток
 * Національний дендрологічний парк "Софіївка"
 * Атлас пещерных городов Крыма, Анатолий Гуськов
+* Замки, палаци, фортеці України
+* [The Berlin Wall, Frederick Taylor](https://www.amazon.com/Berlin-Wall-August-1961-November/dp/0062985884/)
 
 
 
@@ -82,6 +84,8 @@ excerpt_separator: <!--more-->
 * Братья Стругацкие, Ант Скаландис
 * Отец, Наталия Сергеевна Королева
 * Валентин Глушко: конструктор ракетных двигателей и космических систем
+* [Slightly Out of Focus: The Legendary Photojournalist's Illustrated Memoir of World War II, Robert Capa](https://www.amazon.com/Slightly-Out-Focus-Photojournalists-Illustrated/dp/0375753966)
+* [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam/dp/0385333218/)
 
 
 
@@ -126,6 +130,10 @@ excerpt_separator: <!--more-->
 * [A First Rate Tragedy: Robert Falcon Scott and the Race to the South Pole, Diana Preston](https://www.amazon.com/First-Rate-Tragedy-Robert-Falcon/dp/0395933498)
 * [Annapurna: The First Conquest Of An 8,000-Meter Peak, Maurice Herzog](https://www.amazon.com/Annapurna-First-Conquest-000-Meter-Peak/dp/1599218933)
 * Нансен - Одна только воля, Per Hegge
+* Кукучка. Історія про найвідомішого польського гімалаїста, Даріуш Кортко, Марцін Пєтрашевський
+* В тени Канченджанги, Малятынский Марек
+* [Touching the Void: The True Story of One Man's Miraculous Survival, Joe Simpson](https://www.amazon.com/Touching-Void-Story-Miraculous-Survival/dp/0060730552)
+* [The Snow Leopard, Peter Matthiessen](https://www.amazon.com/Snow-Leopard-Penguin-Classics/dp/0143105515/)
 
 ## Climbing & Mountains
 * [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
