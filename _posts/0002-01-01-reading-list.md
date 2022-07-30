@@ -304,19 +304,16 @@ excerpt_separator: <!--more-->
 
 # To Read
 
-## Startups
+
+## History
 * [The Nazi Doctors: Medical Killing and the Psychology of Genocide, Robert Jay Lifton](https://www.amazon.com/Nazi-Doctors-Medical-Psychology-Genocide/dp/0465093396/)
 
+## Startups
 * [The Four Steps to the Epiphany, Steve Blank](https://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507)
-
 * [The Entrepreneur's Guide to Customer Development: A cheat sheet to The Four Steps to the Epiphany , Brant Cooper](https://www.amazon.com/Entrepreneurs-Guide-Customer-Development-Epiphany/dp/0982743602/)
-
 * [The Startup Way: How Modern Companies Use Entrepreneurial Management to Transform Culture and Drive Long-Term Growth, Eric Ries](https://www.amazon.com/Startup-Way-Companies-Entrepreneurial-Management/dp/1101903201)
-
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/)
-
 * [Traction: How Any Startup Can Achieve Explosive Customer Growth, Gabriel Weinberg](https://www.amazon.co.uk/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533/)
-
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you , Rob Fitzpatrick](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742)
 
   
