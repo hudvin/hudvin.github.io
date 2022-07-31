@@ -148,6 +148,11 @@ excerpt_separator: <!--more-->
 
 # Art
 
+## Oxford History of Art
+* [Art in Renaissance Italy: 1350-1500, Evelyn Welch](https://www.amazon.com/Art-Renaissance-Italy-1350-1500-History/dp/019284279X/)
+* [Early Medieval Architecture](https://www.amazon.com/Early-Medieval-Architecture-Oxford-History/dp/0192842234/)
+
+
 ## Photography
 
 ### Ansel Adams
