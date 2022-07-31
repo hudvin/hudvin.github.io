@@ -75,13 +75,13 @@ excerpt_separator: <!--more-->
 ### Other
 * slots
 * yeld
-* garbage collector
+* memory management - garbage collector and reference counter
 * pattern matching
 * inheritance
 * \_\_init\_\_ and  \_\_new\_\_
 * magic methods
 * singletone
-* \_\_call\_\_ method
+* \_\_call\_\_ method (callable)
 * metaclasses
 * descriptors
 * type annotations

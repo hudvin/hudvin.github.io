@@ -28,6 +28,7 @@ excerpt_separator: <!--more-->
 * Атлас пещерных городов Крыма, Анатолий Гуськов
 * Замки, палаци, фортеці України
 * [The Berlin Wall, Frederick Taylor](https://www.amazon.com/Berlin-Wall-August-1961-November/dp/0062985884/)
+* [Empires of the Word: A Language History of the World, Nicholas Ostler](https://www.amazon.com/Empires-Word-Language-History-World/dp/0060935723)
 
 
 
@@ -58,6 +59,8 @@ excerpt_separator: <!--more-->
 * [Contact: A Novel, Carl Sagan](https://www.amazon.com/Contact-Novel-Carl-Sagan/dp/1501197983)
 * [Foucault's Pendulum, Umberto Eco](https://www.amazon.com/Foucaults-Pendulum-Umberto-Eco/dp/015603297X)
 * Собрание сочинений в шести томах, А. Куприн
+* Над пропастью во ржи, Селинджер
+* Старик и море, Эрнест Хемингуэй
 
 
 
@@ -172,6 +175,8 @@ excerpt_separator: <!--more-->
 * [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
 * Новое руководство по фотографии, Джон Хеджкоу
 * 50 фотопроектов. Новые идеи для творчества, Ли Фрост
+* [Color Management & Quality Output: Working with Color from Camera to Display to Print, Tom Ashe ](https://www.amazon.com/Color-Management-Quality-Output-Working/dp/0240821114/)
+* [The Underwater Photographer. Martin Edge](https://www.amazon.com/Underwater-Photographer-Martin-Edge/dp/1138123587/)
 
 
 
