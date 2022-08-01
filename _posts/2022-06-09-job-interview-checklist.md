@@ -27,6 +27,7 @@ excerpt_separator: <!--more-->
 * poetry
 * pipenv
 * Celery
+* mypy - type checker <https://mypy.readthedocs.io/en/stable/>
 
 ## Libraries
 * FastAPI
@@ -80,9 +81,11 @@ excerpt_separator: <!--more-->
 * inheritance
 * \_\_init\_\_ and  \_\_new\_\_
 * magic methods
-* singletone
+* singletone - module based, classic, Borg - <https://www.geeksforgeeks.org/singleton-pattern-in-python-a-complete-guide/>, metaclass
 * \_\_call\_\_ method (callable)
 * metaclasses
+  * <https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python>
+
 * descriptors
 * type annotations
 * \_\_hash\_\_  and  \_\_eq\_\_
@@ -219,7 +222,11 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * LeetCode
 * Postman
 * horizontal and vertical scaling
+* database normal forms
 * Graphql
+  * SQL to GraphQL <https://hasura.io/>
+  * SQL to GraphQL <https://graphjin.com/>
+
 * RPC - gRPC, REST, HATEOS, JSON-RPC, XML-RPC, SOAP
   * https://stackoverflow.com/questions/46145417/rest-vs-rpc-actual-purpose-differences
   * <https://stackoverflow.com/questions/15056878/rest-vs-json-rpc>

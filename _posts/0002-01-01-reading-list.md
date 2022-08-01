@@ -137,6 +137,7 @@ excerpt_separator: <!--more-->
 * В тени Канченджанги, Малятынский Марек
 * [Touching the Void: The True Story of One Man's Miraculous Survival, Joe Simpson](https://www.amazon.com/Touching-Void-Story-Miraculous-Survival/dp/0060730552)
 * [The Snow Leopard, Peter Matthiessen](https://www.amazon.com/Snow-Leopard-Penguin-Classics/dp/0143105515/)
+* Экспедиция к южному полюсу, Роберт Скотт
 
 ## Climbing & Mountains
 * [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
@@ -151,6 +152,14 @@ excerpt_separator: <!--more-->
 ## Oxford History of Art
 * [Art in Renaissance Italy: 1350-1500, Evelyn Welch](https://www.amazon.com/Art-Renaissance-Italy-1350-1500-History/dp/019284279X/)
 * [Early Medieval Architecture](https://www.amazon.com/Early-Medieval-Architecture-Oxford-History/dp/0192842234/)
+
+
+
+## Paintings
+
+* [Hokusai’s Landscapes: The Complete Series, Sarah Thompson](https://www.amazon.com/Hokusais-Landscapes-Complete-Sarah-Thompson/dp/0878468668)
+
+
 
 
 ## Photography
@@ -172,6 +181,7 @@ excerpt_separator: <!--more-->
 * Россия в квадрате, Дмитрий Марков
 * Фотожурналистика: Лучшие фотографы мира и истории создания их работ, Энди Стил
 * Врозь, Евгений Фельдман
+* Криворожский альбом по фотографиям Эдуарда Фукса.
 
 
 ### Other
@@ -206,6 +216,14 @@ excerpt_separator: <!--more-->
 * [Mythical Man-Month, The: Essays on Software Engineering, Frederick Brooks Jr.](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 * [Making Things Happen: Mastering Project Management, Scott Berkun](https://www.amazon.com/Making-Things-Happen-Mastering-Management-dp-0596517718/dp/0596517718/)
 * [Herding Cats: A Primer for Programmers Who Lead Programmers, J. Hank Rainwater](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
+
+
+
+## Robotics
+
+* [Robot Builder's Bonanza, Gordon McComb](https://www.amazon.com/Robot-Builders-Bonanza-Gordon-McComb/dp/0071750363)
+
+
 
 ## Other 
 * [Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
