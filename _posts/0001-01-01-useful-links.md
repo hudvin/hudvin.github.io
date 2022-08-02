@@ -11,6 +11,16 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 
+
+## Languages
+
+### Deutsch
+
+* <https://www.youtube.com/c/konstanzek/videos>
+* [DeutschLera Youtube channel](https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ)
+* <https://www.youtube.com/c/BrandtSchule/videos>
+
+
 ## Climbing
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)
