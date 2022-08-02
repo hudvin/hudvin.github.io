@@ -16,16 +16,26 @@ excerpt_separator: <!--more-->
 
 ### Deutsch
 
+#### Youtube
+
 * <https://www.youtube.com/c/konstanzek/videos>
-* [DeutschLera Youtube channel](https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ)
+* [DeutschLera](https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ)
 * <https://www.youtube.com/c/BrandtSchule/videos>
 
+#### Blogs/Magazines/Forums
+
+* <https://teilzeitreisender.de/zelt-campingplatz/>
+* <https://www.nzz.ch/reisen/tod-in-den-bergen-die-letzte-wanderung-ld.1582908?reduced=true>
+* <https://www.gutefrage.net/frage/ich-bin-so-faul>
+* <https://www.hilferuf.de/forums/beruf.65/>
 
 ## Climbing
+
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
+* [Shop in DE](https://www.mountainspirit.com/de)
 
 
 ## Maps
