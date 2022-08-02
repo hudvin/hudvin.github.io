@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 #### Youtube
 
 * <https://www.youtube.com/c/konstanzek/videos>
-* [DeutschLera](https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ)
+* DeutschLera <https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ>
 * <https://www.youtube.com/c/BrandtSchule/videos>
 
 #### Blogs/Magazines/Forums
