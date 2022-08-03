@@ -124,6 +124,8 @@ excerpt_separator: <!--more-->
 * [Rock Climbing, 2nd Edition: Mastering Basic Skills (Mountaineers Outdoor Experts), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Mastering-Mountaineers-Outdoor/dp/1594858624/)
 * [Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series), Bob Gaines, Jason D. Martin](https://www.amazon.com/Rock-Climbing-Single-Pitch-Manual/dp/0762790040/)
 * [The Mountain Guide Manual: The Comprehensive Reference--From Belaying to Rope Systems and Self-Rescue, Marc Chauvin, Rob Coppolillo](https://www.amazon.com/Mountain-Guide-Manual-Comprehensive-Reference/dp/1493025147/)
+
+
 # Adventure
 
 ### John Krakauer
@@ -146,6 +148,10 @@ excerpt_separator: <!--more-->
 * [The Ra expeditions  ,Thor Heyerdahl](https://www.amazon.com/Ra-expeditions-Thor-Heyerdahl/dp/0045720207)
 * [Aku-Aku: The Secret of Easter Island, Thor Heyerdahl](https://www.amazon.com/Aku-Aku-Secret-Easter-Thor-Heyerdahl/dp/B0042PGC5G)
 
+### Heinrich Harrer
+* [Seven Years in Tibet,  ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
+* [The White Spider, Heinrich Harrer](https://www.amazon.com/White-Spider-Heinrich-Harrer/dp/0007197845/)
+
 
 ## Other
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
@@ -162,8 +168,9 @@ excerpt_separator: <!--more-->
 * [Fallen Giants](https://www.amazon.com/Fallen-Giants-Himalayan-Mountaineering-Extremes/dp/0300164203/)
 * Альпы. От Любляны до Лиона и от Мюнхена до Милана, Эндрю Битти
 
-## Climbing & Mountains
-* [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
+## Motorcycle
+* [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
+
 
 ## Caves
 * [Blind Descent, James M. Tabor](https://www.amazon.com/Blind-Descent-Quest-Discover-Deepest/dp/0812979494)
