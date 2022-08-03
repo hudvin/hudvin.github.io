@@ -34,6 +34,7 @@ excerpt_separator: <!--more-->
 * Flask
 * SQLAlchemy
 * boto3
+* Python Eve
 
 ## Core
 

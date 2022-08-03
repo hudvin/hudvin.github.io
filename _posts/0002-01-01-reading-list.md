@@ -138,6 +138,7 @@ excerpt_separator: <!--more-->
 * [Touching the Void: The True Story of One Man's Miraculous Survival, Joe Simpson](https://www.amazon.com/Touching-Void-Story-Miraculous-Survival/dp/0060730552)
 * [The Snow Leopard, Peter Matthiessen](https://www.amazon.com/Snow-Leopard-Penguin-Classics/dp/0143105515/)
 * Экспедиция к южному полюсу, Роберт Скотт
+* Закарпатський туристичний шлях, Аліна Косовська
 
 ## Climbing & Mountains
 * [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
