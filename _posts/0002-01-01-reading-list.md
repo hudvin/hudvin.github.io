@@ -36,8 +36,15 @@ excerpt_separator: <!--more-->
 * Государственный порядок, Фрэнсис Фукуяма
 * [The Origins of Totalitarianism, Hannah Arendt](https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537/)
 * [Dresden, Frederick Taylor](https://www.amazon.com/Dresden-Tuesday-February-13-1945/dp/0060006773)
-
-
+* Дніпрові пороги, Яворницький Д. І.
+* Archaeological Guide To Rome (note - check exact edition!)
+* [Kathmandu Insight Guide (Insight City Guide), Lisa Van; and Anderson. John Gottberg Hofer, Hans; Gruisen](https://www.amazon.com/Kathmandu-Insight-Guide-City/dp/9624211051/)
+* Каменец на Подолье,  О.И.Расщупкин, С.В.Трубчаников
+* Давид Гареджа
+* Національний музей-садиба М. І. Пирогова
+* Парки України, Євген Дерлеменко
+* Річ Посполита. Вінницький слід
+* 20 кращих екскурсій Україною. Економтур вихідного дня, Андрій Хорошевський
 
 ## Atlases
 
@@ -111,7 +118,12 @@ excerpt_separator: <!--more-->
   * [Volume 5](https://www.amazon.com/gp/product/8492444401)
 
 
-
+# Sport
+## Climbing
+* [Rock Climbing Anchors, 2nd Edition: A Comprehensive Guide (Mountaineers Outdoor Expert), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Anchors-2nd-Comprehensive/dp/1680511408/)
+* [Rock Climbing, 2nd Edition: Mastering Basic Skills (Mountaineers Outdoor Experts), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Mastering-Mountaineers-Outdoor/dp/1594858624/)
+* [Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series), Bob Gaines, Jason D. Martin](https://www.amazon.com/Rock-Climbing-Single-Pitch-Manual/dp/0762790040/)
+* [The Mountain Guide Manual: The Comprehensive Reference--From Belaying to Rope Systems and Self-Rescue, Marc Chauvin, Rob Coppolillo](https://www.amazon.com/Mountain-Guide-Manual-Comprehensive-Reference/dp/1493025147/)
 # Adventure
 
 ### John Krakauer
@@ -156,6 +168,11 @@ excerpt_separator: <!--more-->
 ## Caves
 * [Blind Descent, James M. Tabor](https://www.amazon.com/Blind-Descent-Quest-Discover-Deepest/dp/0812979494)
 
+## Maps
+* Sweden
+* Georgia
+* Nepal
+* Carpathian Mountains
 
 
 # Art
@@ -194,7 +211,6 @@ excerpt_separator: <!--more-->
 * Cевастополь. Корабли в бухтах. 1856-1917
 * Cевастополь. Корабли в бухтах. 1917-1950
 * Крым. Фотоальбом.
-* 
 
 ### Other
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
@@ -229,9 +245,7 @@ excerpt_separator: <!--more-->
 * [Making Things Happen: Mastering Project Management, Scott Berkun](https://www.amazon.com/Making-Things-Happen-Mastering-Management-dp-0596517718/dp/0596517718/)
 * [Herding Cats: A Primer for Programmers Who Lead Programmers, J. Hank Rainwater](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
 
-
 ## Robotics
-
 * [Robot Builder's Bonanza, Gordon McComb](https://www.amazon.com/Robot-Builders-Bonanza-Gordon-McComb/dp/0071750363)
 
 ## Other 
@@ -255,10 +269,14 @@ excerpt_separator: <!--more-->
 ## Mind and Consciousness
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
 * [The Large, the Small and the Human Mind, Roger Penrose](https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723)
-* [Consciousness Explained, Daniel C. Dennett](https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661)
 * [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Jeff Hawkins](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533)
+
+### David Chalmers
 * [The Character of Consciousness, David J. Chalmers](https://www.amazon.com/Character-Consciousness-Philosophy-Mind/dp/0195311116)
 * [The Conscious Mind: In Search of a Fundamental Theory, David J. Chalmers](https://www.amazon.com/Conscious-Mind-Search-Fundamental-Philosophy/dp/0195117891)
+
+### Daniel Dennett
+* [Consciousness Explained, Daniel C. Dennett](https://www.amazon.com/Consciousness-Explained-Daniel-C-Dennett/dp/0316180661)
 
 ## Astronomy
 * [Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope,  Guy Consolmagno](https://www.amazon.com/Turn-Left-Orion-Hundred-Telescope/dp/0521781906)
@@ -277,12 +295,13 @@ excerpt_separator: <!--more-->
 ## Linguistics
 * [Language and Mind, Noam Chomsky](https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X)
 * [On Language, Noam Chomsky](https://www.amazon.com/Language-Chomskys-Classic-Responsibility-Reflections/dp/1565844750/)
+* [Language and Mind, Chomsky](https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X)
 
 ## Geology/Mineralogy
 * [Smithsonian Handbooks: Fossils, David Ward](https://www.amazon.com/Handbooks-Clearest-Recognition-Available-Smithsonian/dp/0789489848/)
 * [Collecting Rocks, Gems and Minerals: Identification, Values and Lapidary Uses , Patti Polk](https://www.amazon.com/Collecting-Rocks-Gems-Minerals-Identification/dp/1440246157/)
 
-## Other 
+## Other
 
 ### Carl Sagan
 * [The Demon-Haunted World: Science as a Candle in the Dark, Carl Sagan](https://www.amazon.com/Demon-Haunted-World-Science-Candle-Dark/dp/0345409469)
