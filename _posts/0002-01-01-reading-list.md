@@ -29,18 +29,25 @@ excerpt_separator: <!--more-->
 * Замки, палаци, фортеці України
 * [The Berlin Wall, Frederick Taylor](https://www.amazon.com/Berlin-Wall-August-1961-November/dp/0062985884/)
 * [Empires of the Word: A Language History of the World, Nicholas Ostler](https://www.amazon.com/Empires-Word-Language-History-World/dp/0060935723)
+* Необычный Киев
+* Ukraїner
+* Государи из дома Романовых. 1613-1913, Николай Чечулин
+* [The Complete World of Greek Mythology, Richard Buxton](https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215)
+* Государственный порядок, Фрэнсис Фукуяма
+* [The Origins of Totalitarianism, Hannah Arendt](https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537/)
+* [Dresden, Frederick Taylor](https://www.amazon.com/Dresden-Tuesday-February-13-1945/dp/0060006773)
 
 
+
+## Atlases
+
+* [World War II Map by Map, DK,  Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
 
 ## Susan Wise Bauer
 
 * [The History of the Ancient World: From the Earliest Accounts to the Fall of Rome, Susan Wise Bauer](https://www.amazon.com/History-Ancient-World-Earliest-Accounts/dp/039305974X)
 * [The History of the Medieval World: From the Conversion of Constantine to the First Crusade, Susan Wise Bauer](https://www.amazon.com/History-Medieval-World-Conversion-Constantine/dp/0393059758/)
 * [The History of the Renaissance World: From the Rediscovery of Aristotle to the Conquest of Constantinople, Susan Wise Bauer](https://www.amazon.com/History-Renaissance-World-Rediscovery-Constantinople/dp/0393059766)
-
-
-
-
 
 ## Georgia
 * [Georgia: In the Mountains of Poetry, Peter Nasmyth](https://www.amazon.com/Georgia-Mountains-Poetry-Peter-Nasmyth/dp/1468315692)
@@ -61,6 +68,7 @@ excerpt_separator: <!--more-->
 * Собрание сочинений в шести томах, А. Куприн
 * Над пропастью во ржи, Селинджер
 * Старик и море, Эрнест Хемингуэй
+* Говард Лавкрафт
 
 
 
@@ -128,7 +136,6 @@ excerpt_separator: <!--more-->
 
 
 ## Other
-
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
 * [A First Rate Tragedy: Robert Falcon Scott and the Race to the South Pole, Diana Preston](https://www.amazon.com/First-Rate-Tragedy-Robert-Falcon/dp/0395933498)
 * [Annapurna: The First Conquest Of An 8,000-Meter Peak, Maurice Herzog](https://www.amazon.com/Annapurna-First-Conquest-000-Meter-Peak/dp/1599218933)
@@ -139,6 +146,9 @@ excerpt_separator: <!--more-->
 * [The Snow Leopard, Peter Matthiessen](https://www.amazon.com/Snow-Leopard-Penguin-Classics/dp/0143105515/)
 * Экспедиция к южному полюсу, Роберт Скотт
 * Закарпатський туристичний шлях, Аліна Косовська
+* [Last Climb](https://www.amazon.com/Last-Climb-Legendary-Everest-Expeditions/dp/0792275381/)
+* [Fallen Giants](https://www.amazon.com/Fallen-Giants-Himalayan-Mountaineering-Extremes/dp/0300164203/)
+* Альпы. От Любляны до Лиона и от Мюнхена до Милана, Эндрю Битти
 
 ## Climbing & Mountains
 * [Seven Years in Tibet,  Heinrich Harrer ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
@@ -154,14 +164,8 @@ excerpt_separator: <!--more-->
 * [Art in Renaissance Italy: 1350-1500, Evelyn Welch](https://www.amazon.com/Art-Renaissance-Italy-1350-1500-History/dp/019284279X/)
 * [Early Medieval Architecture](https://www.amazon.com/Early-Medieval-Architecture-Oxford-History/dp/0192842234/)
 
-
-
 ## Paintings
-
 * [Hokusai’s Landscapes: The Complete Series, Sarah Thompson](https://www.amazon.com/Hokusais-Landscapes-Complete-Sarah-Thompson/dp/0878468668)
-
-
-
 
 ## Photography
 
@@ -171,6 +175,7 @@ excerpt_separator: <!--more-->
 * [The Print,  Ansel Adams](https://www.amazon.com/Print-Ansel-Adams-Photography/dp/0821221876/)
 * [The Negative,  Ansel Adams](https://www.amazon.com/Negative-Ansel-Adams-Photography/dp/0821221868/)
 * [Yosemite and the High Sierra, Ansel Adams](https://www.amazon.com/Yosemite-High-Sierra-Ansel-Adams/dp/0821221345)
+* [Looking at Ansel Adams: The Photographs and the Man, Andrea G. Stillman](https://www.amazon.com/Looking-Ansel-Adams-Photographs-Man/dp/0316217808)
 
 ### Albums
 * [Photography of the 20th Century, Taschen](https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/)
@@ -183,17 +188,23 @@ excerpt_separator: <!--more-->
 * Фотожурналистика: Лучшие фотографы мира и истории создания их работ, Энди Стил
 * Врозь, Евгений Фельдман
 * Криворожский альбом по фотографиям Эдуарда Фукса.
-
+* Харьков в открытках
+* [Інсайт. Українська чорно-біла фотографія. XXI століття, Фелікс Хачатурян, Олександр Глядєлов](https://archive.pinchukartcentre.org/exhibitions/insajt-ukrayinska-chorno-bila-fotogra)
+* Херсон. Фиолент. Инкерман.
+* Cевастополь. Корабли в бухтах. 1856-1917
+* Cевастополь. Корабли в бухтах. 1917-1950
+* Крым. Фотоальбом.
+* 
 
 ### Other
-
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
 * [Фотография как.., Александр Лапин](https://www.goodreads.com/book/show/9598464)
 * Новое руководство по фотографии, Джон Хеджкоу
 * 50 фотопроектов. Новые идеи для творчества, Ли Фрост
 * [Color Management & Quality Output: Working with Color from Camera to Display to Print, Tom Ashe ](https://www.amazon.com/Color-Management-Quality-Output-Working/dp/0240821114/)
 * [The Underwater Photographer. Martin Edge](https://www.amazon.com/Underwater-Photographer-Martin-Edge/dp/1138123587/)
-
+* [Understanding Exposure, Fourth Edition: How to Shoot Great Photographs with Any Camera, Bryan Peterson](https://www.amazon.com/Understanding-Exposure-Fourth-Photographs-Camera/dp/1607748509/)
+* [A World History of Art, John Fleming, Hugh Honour](https://www.amazon.co.uk/World-History-Art-Revised-7th/dp/1856695840)
 
 
 # Development
@@ -219,12 +230,9 @@ excerpt_separator: <!--more-->
 * [Herding Cats: A Primer for Programmers Who Lead Programmers, J. Hank Rainwater](https://www.amazon.com/Herding-Cats-Primer-Programmers-Lead/dp/1590590171)
 
 
-
 ## Robotics
 
 * [Robot Builder's Bonanza, Gordon McComb](https://www.amazon.com/Robot-Builders-Bonanza-Gordon-McComb/dp/0071750363)
-
-
 
 ## Other 
 * [Design Patterns: Elements of Reusable Object-Oriented Software, Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
@@ -236,12 +244,10 @@ excerpt_separator: <!--more-->
 * [Joel on Software, Joel Spolsky](https://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898)
 
 
-
 # Psycology
 
 * [When Nietzsche Wept: A Novel of Obsession, Irvin Yalom](https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303)
 * [The Man of Genius, Cesare Lombroso](https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X)
-
 
 
 # Science
@@ -259,7 +265,6 @@ excerpt_separator: <!--more-->
 * [Sky & Telescope's Pocket Sky Atlas, Roger W. Sinnott](https://www.amazon.com/Sky-Telescopes-Pocket-Atlas/dp/1931559317)
 * [The Backyard Astronomer's Guide, Terence Dickinson](https://www.amazon.com/Backyard-Astronomers-Guide-Terence-Dickinson/dp/0228103274)
 
-
 ## Biotech
 * [Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime, Aubrey de Grey](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
@@ -273,6 +278,9 @@ excerpt_separator: <!--more-->
 * [Language and Mind, Noam Chomsky](https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X)
 * [On Language, Noam Chomsky](https://www.amazon.com/Language-Chomskys-Classic-Responsibility-Reflections/dp/1565844750/)
 
+## Geology/Mineralogy
+* [Smithsonian Handbooks: Fossils, David Ward](https://www.amazon.com/Handbooks-Clearest-Recognition-Available-Smithsonian/dp/0789489848/)
+* [Collecting Rocks, Gems and Minerals: Identification, Values and Lapidary Uses , Patti Polk](https://www.amazon.com/Collecting-Rocks-Gems-Minerals-Identification/dp/1440246157/)
 
 ## Other 
 
@@ -296,18 +304,15 @@ excerpt_separator: <!--more-->
 * [First Contact: Scientific Breakthroughs in the Hunt for Life Beyond Earth, Marc Kaufman](https://www.amazon.com/First-Contact-Scientific-Breakthroughs-Beyond/dp/1439109001)
 
 
-
 # Startups
 
 ## Clayton M. Christensen
-
 * [The Innovator's Solution: Creating and Sustaining Successful Growth, Clayton M. M. Christensen](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1422196577)
 * [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators, Clayton M. M. Christensen](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814)
 * [Seeing What's Next: Using Theories of Innovation to Predict Industry Change ,Clayton M. M. Christensen](https://www.amazon.com/Seeing-Whats-Next-Theories-Innovation/dp/1591391857>)
 * [The Innovator's Prescription: A Disruptive Solution for Health Care, Clayton M. M. Christensen](https://www.amazon.com/Innovators-Prescription-Disruptive-Solution-Health/dp/1259860868)
 
 ## Other
-
 * [Founders at Work: Stories of Startups' Early Days, Jessica Livingston](https://www.amazon.com/Founders-Work-Stories-Startups-Early/dp/1590597141)
 * [Raising Venture Capital for the Serious Entrepreneur, Dermot Berkery](https://www.amazon.com/Raising-Venture-Capital-Serious-Entrepreneur/dp/0071496025)
 * [Rework, Jason Fried](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
@@ -315,21 +320,17 @@ excerpt_separator: <!--more-->
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses , Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
 ### Richard Branson
-
 * [Screw It, Let's Do It: Lessons in Life, Richard Branson](https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
 * [Losing My Virginity: How I Survived, Had Fun, and Made a Fortune Doing Business My Way, Richard Branson](https://www.amazon.com/Losing-My-Virginity-Survived-Business/dp/0307720748/)
-
-
-
 
 
 # Languages
 
 ## English
-
 * [English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English, Raymond Murphy](https://www.amazon.com/English-Grammar-Use-Book-Answers/dp/1108457657/)
 
-
+## Deutsch
+* [German-English Bilingual Visual Dictionary (DK Bilingual Visual Dictionaries), DK](https://www.amazon.com/German-English-Bilingual-Dictionary-Dictionaries/dp/1465459294/)
 
 # Marketing
 
@@ -340,7 +341,6 @@ excerpt_separator: <!--more-->
 
 
 # To Read
-
 
 ## History
 * [The Nazi Doctors: Medical Killing and the Psychology of Genocide, Robert Jay Lifton](https://www.amazon.com/Nazi-Doctors-Medical-Psychology-Genocide/dp/0465093396/)
