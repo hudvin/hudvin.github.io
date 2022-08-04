@@ -183,7 +183,7 @@ excerpt_separator: <!--more-->
 * Carpathian Mountains
 
 ### Other
-* [Plan & Go | Kungsleden: All you need to know to complete Sweden’s Royal Trail (Plan & Go Hiking), Danielle Fenton, Wayne Fenton](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070/)
+* [Plan & Go \| Kungsleden: All you need to know to complete Sweden’s Royal Trail (Plan & Go Hiking), Danielle Fenton, Wayne Fenton](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070/)
 * Rome English Le Guide Mondadori
 * [Marokko: Oase der Sinne im Nordwesten Afrikas](https://www.amazon.co.uk/Marokko-Oase-Sinne-Nordwesten-Afrikas/dp/3765482595)
 * [Nepal Handbook, Kerry Moran](https://www.amazon.com/Nepal-Handbook-Moon-Handbooks/dp/0918373646/)
