@@ -45,10 +45,12 @@ excerpt_separator: <!--more-->
 * Парки України, Євген Дерлеменко
 * Річ Посполита. Вінницький слід
 * 20 кращих екскурсій Україною. Економтур вихідного дня, Андрій Хорошевський
+* [Temples of Cambodia, Helen Ibbitson Jessup, Barry Brukoff](https://www.amazon.com/Temples-Cambodia-Helen-Ibbitson-Jessup/dp/0865652627/)
 
 ## Atlases
 
 * [World War II Map by Map, DK,  Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
+* [The Historical Atlas of World War II: 170 Maps that Chart the Most Cataclysmic Event in Human History (Historical Atlas Series), Alexander Swanston, Malcolm Swanston](https://www.amazon.com/Historical-Atlas-World-War-II/dp/0785836497/)
 
 ## Susan Wise Bauer
 
@@ -60,7 +62,8 @@ excerpt_separator: <!--more-->
 * [Georgia: In the Mountains of Poetry, Peter Nasmyth](https://www.amazon.com/Georgia-Mountains-Poetry-Peter-Nasmyth/dp/1468315692)
 * [Bread and Ashes: A Walk Through the Mountains of Georgia](https://www.amazon.com/Bread-Ashes-Through-Mountains-Georgia/dp/0099437872)
 
-
+# Philosophy
+* Логико-философский трактат, Людвиг Витгенштейн
 
 # Fiction
 * [Shantaram, Gregory David Roberts](https://www.amazon.com/Shantaram-Novel-Gregory-David-Roberts/dp/0312330537)
@@ -76,6 +79,8 @@ excerpt_separator: <!--more-->
 * Над пропастью во ржи, Селинджер
 * Старик и море, Эрнест Хемингуэй
 * Говард Лавкрафт
+* Отверженные, Виктор Гюго
+* Моби Дик или Белый кит, Герман Мелвилл
 
 
 
@@ -119,11 +124,15 @@ excerpt_separator: <!--more-->
 
 
 # Sport
+
 ## Climbing
 * [Rock Climbing Anchors, 2nd Edition: A Comprehensive Guide (Mountaineers Outdoor Expert), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Anchors-2nd-Comprehensive/dp/1680511408/)
 * [Rock Climbing, 2nd Edition: Mastering Basic Skills (Mountaineers Outdoor Experts), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Mastering-Mountaineers-Outdoor/dp/1594858624/)
 * [Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series), Bob Gaines, Jason D. Martin](https://www.amazon.com/Rock-Climbing-Single-Pitch-Manual/dp/0762790040/)
 * [The Mountain Guide Manual: The Comprehensive Reference--From Belaying to Rope Systems and Self-Rescue, Marc Chauvin, Rob Coppolillo](https://www.amazon.com/Mountain-Guide-Manual-Comprehensive-Reference/dp/1493025147/)
+
+## Hiking
+* [The Complete Walker IV, Colin Fletcher, Chip Rawlins](https://www.amazon.com/Complete-Walker-IV-Colin-Fletcher/dp/0375703233/)
 
 
 # Adventure
@@ -152,6 +161,32 @@ excerpt_separator: <!--more-->
 * [Seven Years in Tibet,  ](https://www.amazon.com/Seven-Years-Tibet-Heinrich-Harrer/dp/1585427438/)
 * [The White Spider, Heinrich Harrer](https://www.amazon.com/White-Spider-Heinrich-Harrer/dp/0007197845/)
 
+## Travel Guides
+
+### Lonely Planet
+* Egypt
+* Iceland
+* Dubai & Abu Dhabi
+* Hungary
+* Turkey
+* Italy
+* Germany
+* Berlin
+* Sweden
+* Georgia, Armenia & Azerbaijan
+* Trekking in the Nepal Himalaya
+
+## Maps
+* Sweden
+* Georgia
+* Nepal
+* Carpathian Mountains
+
+### Other
+* [Plan & Go | Kungsleden: All you need to know to complete Sweden’s Royal Trail (Plan & Go Hiking), Danielle Fenton, Wayne Fenton](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070/)
+* Rome English Le Guide Mondadori
+* [Marokko: Oase der Sinne im Nordwesten Afrikas](https://www.amazon.co.uk/Marokko-Oase-Sinne-Nordwesten-Afrikas/dp/3765482595)
+* [Nepal Handbook, Kerry Moran](https://www.amazon.com/Nepal-Handbook-Moon-Handbooks/dp/0918373646/)
 
 ## Other
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
@@ -171,15 +206,8 @@ excerpt_separator: <!--more-->
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
 
-
 ## Caves
 * [Blind Descent, James M. Tabor](https://www.amazon.com/Blind-Descent-Quest-Discover-Deepest/dp/0812979494)
-
-## Maps
-* Sweden
-* Georgia
-* Nepal
-* Carpathian Mountains
 
 
 # Art
@@ -190,6 +218,9 @@ excerpt_separator: <!--more-->
 
 ## Paintings
 * [Hokusai’s Landscapes: The Complete Series, Sarah Thompson](https://www.amazon.com/Hokusais-Landscapes-Complete-Sarah-Thompson/dp/0878468668)
+* [Monet or The Triumph of Impressionism, Daniel Wildenstein](https://www.amazon.com/Monet-Triumph-Impressionism-Daniel-Wildenstein/dp/3836523213)
+* [What Great Paintings Say. 100 Masterpieces in Detail, Rainer & Rose-Marie Hagen](https://www.amazon.com/What-Paintings-Say-Masterpieces-Detail/dp/3836559269/)
+* [Old Masters Picture Gallery Dresden (Meisterwerke /Masterpieces), Andreas Henning, Harald Marx, Uta Neidhardt, Gemäldegalerie Alte Meister Staatliche Kunstsammlungen Dresden](https://www.amazon.com/Masters-Picture-Gallery-Meisterwerke-Masterpieces/dp/3422067000/)
 
 ## Photography
 
@@ -200,6 +231,16 @@ excerpt_separator: <!--more-->
 * [The Negative,  Ansel Adams](https://www.amazon.com/Negative-Ansel-Adams-Photography/dp/0821221868/)
 * [Yosemite and the High Sierra, Ansel Adams](https://www.amazon.com/Yosemite-High-Sierra-Ansel-Adams/dp/0821221345)
 * [Looking at Ansel Adams: The Photographs and the Man, Andrea G. Stillman](https://www.amazon.com/Looking-Ansel-Adams-Photographs-Man/dp/0316217808)
+* [Ansel Adams in the National Parks: Photographs from America's Wild Places, Ansel Adams, Andrea G. Stillman](https://www.amazon.com/Ansel-Adams-National-Parks-Photographs/dp/0316078468)
+
+### Steve McCurry
+* [The Iconic Photographs, Steve McCurry](https://www.amazon.com/Steve-McCurry-Iconic-Photographs/dp/0714865133/)
+* [India, Steve McCurry](https://www.amazon.com/India-Steve-McCurry/dp/1838660259/)
+* [Afganistan, Steve McCurry](https://www.amazon.com/Steve-McCurry-Multilingual-William-Dalrymple/dp/3836569361/)
+* [Steve McCurry Untold: The Stories Behind the Photographs, Steve McCurry, William Kerry Purcell](https://www.amazon.com/Steve-McCurry-Untold-Stories-Photographs/dp/0714877344/)
+
+### Henri Cartier-Bresson
+* [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson, Peter Galassi](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
 
 ### Albums
 * [Photography of the 20th Century, Taschen](https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/)
@@ -218,6 +259,9 @@ excerpt_separator: <!--more-->
 * Cевастополь. Корабли в бухтах. 1856-1917
 * Cевастополь. Корабли в бухтах. 1917-1950
 * Крым. Фотоальбом.
+* [Magnum Contact Sheets, Kristen Lubben](https://www.amazon.com/Magnum-Contact-Sheets-Kristen-Lubben/dp/0500292914/)
+* [Gregory Heisler: 50 Portraits: Stories and Techniques from a Photographer's Photographer, Gregory Heisler](https://www.amazon.com/Gregory-Heisler-Techniques-Photographers-Photographer/dp/0823085651/)
+* [World War I in Photographs (The World Wars in Photographs), Robin Cross](https://www.amazon.com/World-War-Photographs-Wars/dp/0765196018)
 
 ### Other
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
@@ -228,6 +272,7 @@ excerpt_separator: <!--more-->
 * [The Underwater Photographer. Martin Edge](https://www.amazon.com/Underwater-Photographer-Martin-Edge/dp/1138123587/)
 * [Understanding Exposure, Fourth Edition: How to Shoot Great Photographs with Any Camera, Bryan Peterson](https://www.amazon.com/Understanding-Exposure-Fourth-Photographs-Camera/dp/1607748509/)
 * [A World History of Art, John Fleming, Hugh Honour](https://www.amazon.co.uk/World-History-Art-Revised-7th/dp/1856695840)
+* [The Ansel Adams Wilderness, Peter Essick](https://www.amazon.com/Ansel-Adams-Wilderness-Peter-Essick/dp/1426213298/)
 
 
 # Development
@@ -272,6 +317,9 @@ excerpt_separator: <!--more-->
 
 
 # Science
+
+## Artificial Intelligence
+* [On Intelligence, Jeff Hawkins, Sandra Blakeslee](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533/)
 
 ## Mind and Consciousness
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
@@ -323,6 +371,9 @@ excerpt_separator: <!--more-->
 ### David Deutsch
 * [The Fabric of Reality: The Science of Parallel Universes--and Its Implications, David Deutsch](https://www.amazon.com/Fabric-Reality-Parallel-Universes-Implications/dp/014027541X)
 * [The Beginning of Infinity: Explanations That Transform the World, David Deutsch](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359)
+
+### Stephen Hawking
+* [A Brief History of Time: And Other Essays ,Stephen Hawking](https://www.amazon.com/Brief-History-Time-Other-Essays/dp/0553109537/)
 
 ### Other
 * [Wittgenstein's Tractatus, Alfred Nordmann](https://www.amazon.com/Wittgensteins-Tractatus-Introduction-Introductions-Philosophical/dp/0521616387)
