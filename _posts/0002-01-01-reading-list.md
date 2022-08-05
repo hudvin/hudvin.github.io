@@ -34,6 +34,7 @@ excerpt_separator: <!--more-->
 * Государи из дома Романовых. 1613-1913, Николай Чечулин
 * [The Complete World of Greek Mythology, Richard Buxton](https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215)
 * Государственный порядок, Фрэнсис Фукуяма
+* Угасание государственного порядка, Фрэнсис Фукуяма
 * [The Origins of Totalitarianism, Hannah Arendt](https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537/)
 * [Dresden, Frederick Taylor](https://www.amazon.com/Dresden-Tuesday-February-13-1945/dp/0060006773)
 * Дніпрові пороги, Яворницький Д. І.
@@ -46,10 +47,13 @@ excerpt_separator: <!--more-->
 * Річ Посполита. Вінницький слід
 * 20 кращих екскурсій Україною. Економтур вихідного дня, Андрій Хорошевський
 * [Temples of Cambodia, Helen Ibbitson Jessup, Barry Brukoff](https://www.amazon.com/Temples-Cambodia-Helen-Ibbitson-Jessup/dp/0865652627/)
+* Нариси Криму. Картини кримського життя, історії та природи, Євген Марков
+* Первая мировая война, Мартин Гилберт
+* [The Essential Chomsky, Noam Chomsky](https://www.amazon.com/Essential-Chomsky-New-Press/dp/1595581898/)
 
-## Atlases
-
-* [World War II Map by Map, DK,  Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
+## Historical Atlases
+* [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
+* [History of the World Map by Map, DK, Smithsonian Institution](https://www.amazon.com/History-World-Map-DK/dp/1465475850/)
 * [The Historical Atlas of World War II: 170 Maps that Chart the Most Cataclysmic Event in Human History (Historical Atlas Series), Alexander Swanston, Malcolm Swanston](https://www.amazon.com/Historical-Atlas-World-War-II/dp/0785836497/)
 
 ## Susan Wise Bauer
@@ -81,7 +85,8 @@ excerpt_separator: <!--more-->
 * Говард Лавкрафт
 * Отверженные, Виктор Гюго
 * Моби Дик или Белый кит, Герман Мелвилл
-
+* [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
+* Рубаи, Омар Хайям
 
 
 # Non Fiction
@@ -106,11 +111,10 @@ excerpt_separator: <!--more-->
 * [Perfect Rigor: A Genius and the Mathematical Breakthrough of the Century, Masha Gessen](https://www.amazon.com/Perfect-Rigor-Mathematical-Breakthrough-Century/dp/015101406X)
 * Братья Стругацкие, Ант Скаландис
 * Отец, Наталия Сергеевна Королева
-* Валентин Глушко: конструктор ракетных двигателей и космических систем
+* Валентин Глушко: конструктор ракетных двигателей и космических систем,  Глушко Александр, Качур Павел 
 * [Slightly Out of Focus: The Legendary Photojournalist's Illustrated Memoir of World War II, Robert Capa](https://www.amazon.com/Slightly-Out-Focus-Photojournalists-Illustrated/dp/0375753966)
 * [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam/dp/0385333218/)
-
-
+* [Henri Cartier-Bresson: A Biography, Pierre Assouline](https://www.amazon.com/Henri-Cartier-Bresson-Biography-Pierre-Assouline/dp/0500290520)
 
 
 # Manga
@@ -140,6 +144,7 @@ excerpt_separator: <!--more-->
 ### John Krakauer
 * [Into the Wild, Jon Krakauer](https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804)
 * [Eiger Dreams: Ventures Among Men and Mountains, Jon Krakauer ](https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108)
+* [Into Thin Air: A Personal Account of the Mt. Everest Disaster, John Krakauer](https://www.amazon.com/Into-Thin-Air-Personal-Disaster/dp/0385494785)
 
 ### Anatoli Boukreev
 * [Above the Clouds: The Diaries of a High-Altitude Mountaineer, Anatoli Boukreev](https://www.amazon.com/Above-Clouds-Diaries-High-Altitude-Mountaineer/dp/031229137X)
@@ -181,12 +186,14 @@ excerpt_separator: <!--more-->
 * Georgia
 * Nepal
 * Carpathian Mountains
+* [Kosmos Weltatlas kompakt: Das aktuelle Bild unserer Erde] (https://www.amazon.com/Kosmos-Weltatlas-kompakt/dp/3440162737/)
 
 ### Other
 * [Plan & Go \| Kungsleden: All you need to know to complete Sweden’s Royal Trail (Plan & Go Hiking), Danielle Fenton, Wayne Fenton](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070/)
 * Rome English Le Guide Mondadori
 * [Marokko: Oase der Sinne im Nordwesten Afrikas](https://www.amazon.co.uk/Marokko-Oase-Sinne-Nordwesten-Afrikas/dp/3765482595)
 * [Nepal Handbook, Kerry Moran](https://www.amazon.com/Nepal-Handbook-Moon-Handbooks/dp/0918373646/)
+* [Insight Guide Nepal, Insight Guides, Hans Hoefer, Lisa Choegyal](https://www.amazon.com/Insight-Guide-Nepal-Guides/dp/0887297234/)
 
 ## Other
 * [Adrift, Seventy-six days lost at sea, Steven Callahan](https://www.amazon.com/Adrift-Seventy-six-Days-Lost-Sea/dp/0618257322)
@@ -222,6 +229,7 @@ excerpt_separator: <!--more-->
 * [What Great Paintings Say. 100 Masterpieces in Detail, Rainer & Rose-Marie Hagen](https://www.amazon.com/What-Paintings-Say-Masterpieces-Detail/dp/3836559269/)
 * [Old Masters Picture Gallery Dresden (Meisterwerke /Masterpieces), Andreas Henning, Harald Marx, Uta Neidhardt, Gemäldegalerie Alte Meister Staatliche Kunstsammlungen Dresden](https://www.amazon.com/Masters-Picture-Gallery-Meisterwerke-Masterpieces/dp/3422067000/)
 * [Hieronymus Bosch. The Complete Works, Stefan Fischer](https://www.amazon.com/Hieronymus-Bosch-Complete-Stefan-Fischer/dp/3836538350/)
+* [Van Gogh. The Complete Paintings, Rainer Metzger,  Ingo F. Walther](https://www.amazon.com/Van-Gogh-Rainer-Metzger/dp/3836557150)
 
 ## Photography
 
@@ -242,6 +250,10 @@ excerpt_separator: <!--more-->
 
 ### Henri Cartier-Bresson
 * [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson, Peter Galassi](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
+
+### Sebastião Salgado
+* [Genesis, Lélia Wanick Salgado, Sebastião Salgado](https://www.amazon.com/Sebasti%C3%A3o-Salgado-GENESIS-Lelia-Wanick/dp/3836538725/)
+* [Exodus, by Taschen](https://www.amazon.com/Sebasti%C3%A3o-Salgado-Exodus-L%C3%A9lia-Wanick/dp/3836561301)
 
 ### Виктор Лягушкин
 * Беломорский бестиарий, Виктор Лягушкин
@@ -268,6 +280,8 @@ excerpt_separator: <!--more-->
 * [Magnum Contact Sheets, Kristen Lubben](https://www.amazon.com/Magnum-Contact-Sheets-Kristen-Lubben/dp/0500292914/)
 * [Gregory Heisler: 50 Portraits: Stories and Techniques from a Photographer's Photographer, Gregory Heisler](https://www.amazon.com/Gregory-Heisler-Techniques-Photographers-Photographer/dp/0823085651/)
 * [World War I in Photographs (The World Wars in Photographs), Robin Cross](https://www.amazon.com/World-War-Photographs-Wars/dp/0765196018)
+* [Alfred Stieglitz. Camera Work, Pam Roberts, Taschen](https://www.amazon.com/Stieglitz-Camera-Work-Pam-Roberts/dp/3836544075/)
+* [Pittsburgh's Bridges (Images of America), Todd Wilson PE, Helen Wilson](https://www.amazon.com/Pittsburghs-Bridges-Images-America-Wilson/dp/1467134244/)
 
 ### Other
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
@@ -279,6 +293,7 @@ excerpt_separator: <!--more-->
 * [Understanding Exposure, Fourth Edition: How to Shoot Great Photographs with Any Camera, Bryan Peterson](https://www.amazon.com/Understanding-Exposure-Fourth-Photographs-Camera/dp/1607748509/)
 * [A World History of Art, John Fleming, Hugh Honour](https://www.amazon.co.uk/World-History-Art-Revised-7th/dp/1856695840)
 * [The Ansel Adams Wilderness, Peter Essick](https://www.amazon.com/Ansel-Adams-Wilderness-Peter-Essick/dp/1426213298/)
+* [Light Science & Magic: An Introduction to Photographic Lighting 5th Edition, Fil Hunter, Steven Biver, Paul Fuqua](https://www.amazon.com/Light-Science-Magic-Introduction-Photographic/dp/0415719402/)
 
 
 # Development
@@ -326,6 +341,7 @@ excerpt_separator: <!--more-->
 
 ## Artificial Intelligence
 * [On Intelligence, Jeff Hawkins, Sandra Blakeslee](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533/)
+* [The Predictive Mind 1st Edition, Jakob  Hohwy](https://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734)
 
 ## Mind and Consciousness
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
@@ -344,15 +360,18 @@ excerpt_separator: <!--more-->
 * [Turn Left at Orion: A Hundred Night Sky Objects to See in a Small Telescope,  Guy Consolmagno](https://www.amazon.com/Turn-Left-Orion-Hundred-Telescope/dp/0521781906)
 * [Sky & Telescope's Pocket Sky Atlas, Roger W. Sinnott](https://www.amazon.com/Sky-Telescopes-Pocket-Atlas/dp/1931559317)
 * [The Backyard Astronomer's Guide, Terence Dickinson](https://www.amazon.com/Backyard-Astronomers-Guide-Terence-Dickinson/dp/0228103274)
+* [Sky & Telescope's Pocket Sky Atlas, Roger W. Sinnott](https://www.amazon.com/Sky-Telescopes-Pocket-Atlas/dp/1931559317/)
 
 ## Biotech
 * [Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime, Aubrey de Grey](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
 
 ## Cognitive Psycology
 * [Cognitive Psychology, Robert L. Solso](https://www.amazon.com/Cognitive-Psychology-8th-Robert-Solso/dp/0205521088)
+* Память, М. Айзенк, А. Баддли, М. Андерсон
 
 ## Futurology
 * [The Third Wave, Alvin Toffler](https://www.amazon.com/Third-Wave-Alvin-Toffler/dp/0553246984)
+* [First Contact: Scientific Breakthroughs in the Hunt for Life Beyond Earth, Marc Kaufman](https://www.amazon.com/First-Contact-Scientific-Breakthroughs-Beyond/dp/1439109001/)
 
 ## Linguistics
 * [Language and Mind, Noam Chomsky](https://www.amazon.com/Language-Mind-3ed-Noam-Chomsky/dp/052167493X)
@@ -415,13 +434,11 @@ excerpt_separator: <!--more-->
 
 ## Deutsch
 * [German-English Bilingual Visual Dictionary (DK Bilingual Visual Dictionaries), DK](https://www.amazon.com/German-English-Bilingual-Dictionary-Dictionaries/dp/1465459294/)
+* [Ubungsgrammatiken Deutsch A B C: A-Grammatik, Buscha Anne](https://www.amazon.com/Ubungsgrammatiken-Deutsch-B-C-Grammatik/dp/3941323091/)
+* [Ubungsgrammatiken Deutsch A B C: B-Grammatik, Busha Anne](https://www.amazon.com/Ubungsgrammatiken-Deutsch-B-C-B-Grammatik/dp/3941323105/)
+* Begegnungen series
 
 # Marketing
-
-
-# Ideas
-* print small post card for each book I read
-* pack all books into vacuum bags <https://thebookandpapergathering.org/2018/03/13/vacuum-storage-bags-an-inexpensive-and-convenient-tool-for-temporary-storage-of-items-infested-with-pests-and-mould/>
 
 
 # To Read
@@ -438,3 +455,6 @@ excerpt_separator: <!--more-->
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you , Rob Fitzpatrick](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742)
 
   
+# Ideas
+* print small post card for each book I read
+* pack all books into vacuum bags <https://thebookandpapergathering.org/2018/03/13/vacuum-storage-bags-an-inexpensive-and-convenient-tool-for-temporary-storage-of-items-infested-with-pests-and-mould/>
