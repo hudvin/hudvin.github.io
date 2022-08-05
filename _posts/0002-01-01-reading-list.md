@@ -186,7 +186,7 @@ excerpt_separator: <!--more-->
 * Georgia
 * Nepal
 * Carpathian Mountains
-* [Kosmos Weltatlas kompakt: Das aktuelle Bild unserer Erde] (https://www.amazon.com/Kosmos-Weltatlas-kompakt/dp/3440162737/)
+* [Kosmos Weltatlas kompakt: Das aktuelle Bild unserer Erde](https://www.amazon.com/Kosmos-Weltatlas-kompakt/dp/3440162737)
 
 ### Other
 * [Plan & Go \| Kungsleden: All you need to know to complete Sweden’s Royal Trail (Plan & Go Hiking), Danielle Fenton, Wayne Fenton](https://www.amazon.com/Plan-Go-Kungsleden-complete-Swedens/dp/1943126070/)
