@@ -221,6 +221,7 @@ excerpt_separator: <!--more-->
 * [Monet or The Triumph of Impressionism, Daniel Wildenstein](https://www.amazon.com/Monet-Triumph-Impressionism-Daniel-Wildenstein/dp/3836523213)
 * [What Great Paintings Say. 100 Masterpieces in Detail, Rainer & Rose-Marie Hagen](https://www.amazon.com/What-Paintings-Say-Masterpieces-Detail/dp/3836559269/)
 * [Old Masters Picture Gallery Dresden (Meisterwerke /Masterpieces), Andreas Henning, Harald Marx, Uta Neidhardt, Gemäldegalerie Alte Meister Staatliche Kunstsammlungen Dresden](https://www.amazon.com/Masters-Picture-Gallery-Meisterwerke-Masterpieces/dp/3422067000/)
+* [Hieronymus Bosch. The Complete Works, Stefan Fischer](https://www.amazon.com/Hieronymus-Bosch-Complete-Stefan-Fischer/dp/3836538350/)
 
 ## Photography
 
@@ -241,6 +242,11 @@ excerpt_separator: <!--more-->
 
 ### Henri Cartier-Bresson
 * [Henri Cartier-Bresson: The Modern Century, Henri Cartier-Bresson, Peter Galassi](https://www.amazon.com/Henri-Cartier-Bresson-Century-Peter-Galassi/dp/0870707787)
+
+### Виктор Лягушкин
+* Беломорский бестиарий, Виктор Лягушкин
+* Ординская пещера. Познание, Виктор Лягушкин
+* Быть дельфином, Виктор Лягушкин
 
 ### Albums
 * [Photography of the 20th Century, Taschen](https://www.amazon.com/Century-Photography-Museum-Ludwig-Cologne/dp/3822855146/)
@@ -325,6 +331,7 @@ excerpt_separator: <!--more-->
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
 * [The Large, the Small and the Human Mind, Roger Penrose](https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723)
 * [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Jeff Hawkins](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533)
+* [Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/)
 
 ### David Chalmers
 * [The Character of Consciousness, David J. Chalmers](https://www.amazon.com/Character-Consciousness-Philosophy-Mind/dp/0195311116)
