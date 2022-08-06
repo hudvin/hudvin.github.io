@@ -50,6 +50,7 @@ excerpt_separator: <!--more-->
 * Нариси Криму. Картини кримського життя, історії та природи, Євген Марков
 * Первая мировая война, Мартин Гилберт
 * [The Essential Chomsky, Noam Chomsky](https://www.amazon.com/Essential-Chomsky-New-Press/dp/1595581898/)
+* [How Fascism Works: The Politics of Us and Them, Jason Stanley](https://www.amazon.com/How-Fascism-Works-Politics-Them/dp/0525511857/)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -68,6 +69,7 @@ excerpt_separator: <!--more-->
 
 # Philosophy
 * Логико-философский трактат, Людвиг Витгенштейн
+* [Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values, Robert M Pirsig](https://www.amazon.com/Zen-Art-Motorcycle-Maintenance-Inquiry/dp/0060839872/)
 
 # Fiction
 * [Shantaram, Gregory David Roberts](https://www.amazon.com/Shantaram-Novel-Gregory-David-Roberts/dp/0312330537)
@@ -87,7 +89,13 @@ excerpt_separator: <!--more-->
 * Моби Дик или Белый кит, Герман Мелвилл
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
 * Рубаи, Омар Хайям
-
+* Братья Стругацкие
+* Айзек Азимов
+* [The Southern Reach Trilogy (Annihilation, Authority, Acceptance), Jeff VanderMeer](https://www.amazon.com/dp/B0841YDWXY)
+* Расследование. Рукопись, найденная в ванне, Станислав Лем
+* Цветы для Элджернона, Дэниел Киз
+* [Skunk Works: A Personal Memoir of My Years at Lockheed, Ben R. Rich](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003/)
+* [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
 
 # Non Fiction
 
@@ -96,6 +104,14 @@ excerpt_separator: <!--more-->
 * [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam-ebook/dp/B000Q67J3O)
 * [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics , John Derbyshire](https://www.amazon.com/Prime-Obsession-Bernhard-Greatest-Mathematics/dp/0452285259)
 * [The Prince, Nicolo Machiavelli](https://www.amazon.com/Prince-Nicolo-Machiavelli/dp/1514649314)
+
+## Documental
+
+### Светлана Алексиевич
+* У войны не женское лицо, Светлана Алексиевич
+* Цинковые мальчики, Светлана Алексиевич
+* Чернобыльская молитва, Светлана Алексиев
+
 
 ## Diaries
 * [Anne Frank: The Diary of a Young Girl](https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/0553296981)
@@ -209,6 +225,7 @@ excerpt_separator: <!--more-->
 * [Last Climb](https://www.amazon.com/Last-Climb-Legendary-Everest-Expeditions/dp/0792275381/)
 * [Fallen Giants](https://www.amazon.com/Fallen-Giants-Himalayan-Mountaineering-Extremes/dp/0300164203/)
 * Альпы. От Любляны до Лиона и от Мюнхена до Милана, Эндрю Битти
+* [No Way Down: Life and Death on K2, Graham Bowley](https://www.amazon.com/No-Way-Down-Life-Death/dp/0061834793/)
 
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
@@ -334,7 +351,11 @@ excerpt_separator: <!--more-->
 # Psycology
 
 * [When Nietzsche Wept: A Novel of Obsession, Irvin Yalom](https://www.amazon.com/When-Nietzsche-Wept-Novel-Obsession/dp/0062009303)
+* [The Schopenhauer Cure: A Novel, Irvin Yalom](https://www.amazon.com/Schopenhauer-Cure-Novel-Irvin-Yalom/dp/0060938102/)
+* [Lying on the Couch: A Novel, Irvin Yalom](https://www.amazon.com/Lying-Couch-Irvin-D-Yalom/dp/0060928514/)
 * [The Man of Genius, Cesare Lombroso](https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X)
+* [Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life, Susan Forward](https://www.amazon.com/Toxic-Parents-Overcoming-Hurtful-Reclaiming/dp/0553381407/)
+* [Serial Killers: The Method and Madness of Monsters, Peter Vronsky](https://www.amazon.com/Serial-Killers-Method-Madness-Monsters/dp/0425196402)
 
 
 # Science
