@@ -226,6 +226,7 @@ excerpt_separator: <!--more-->
 * [Fallen Giants](https://www.amazon.com/Fallen-Giants-Himalayan-Mountaineering-Extremes/dp/0300164203/)
 * Альпы. От Любляны до Лиона и от Мюнхена до Милана, Эндрю Битти
 * [No Way Down: Life and Death on K2, Graham Bowley](https://www.amazon.com/No-Way-Down-Life-Death/dp/0061834793/)
+* Территория, Олег Куваев
 
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
