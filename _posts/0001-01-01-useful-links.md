@@ -17,20 +17,19 @@ excerpt_separator: <!--more-->
 ### Deutsch
 
 #### Youtube
-
 * <https://www.youtube.com/c/konstanzek/videos>
 * DeutschLera <https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ>
 * <https://www.youtube.com/c/BrandtSchule/videos>
 
 #### Blogs/Magazines/Forums
-
 * <https://teilzeitreisender.de/zelt-campingplatz/>
 * <https://www.nzz.ch/reisen/tod-in-den-bergen-die-letzte-wanderung-ld.1582908?reduced=true>
 * <https://www.gutefrage.net/frage/ich-bin-so-faul>
 * <https://www.hilferuf.de/forums/beruf.65/>
 
-## Climbing
 
+
+## Climbing
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
@@ -38,17 +37,21 @@ excerpt_separator: <!--more-->
 * [Shop in DE](https://www.mountainspirit.com/de)
 
 
+
 ## Maps
 * [David Rumsey Maps](https://www.davidrumsey.com/)
+
 
 
 ## Anatomy
 * [3D Atlas](https://www.zygotebody.com/#nav=-11.08,116.9,83.47,0,0,0,0&sel=p:;h:;s:;c:0;o:0&layers=0,1,8670)
 
 
+
 ## Various Collections
 * [The New York Public Library Digital Collections](https://digitalcollections.nypl.org/)
 * [Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary)   (torrents are avaliable)
+
 
 
 ## Online Museums
@@ -78,3 +81,18 @@ excerpt_separator: <!--more-->
 * <https://z-lib.org/>
 * <https://libgen.is/>
 * <https://flibusta.site/>
+
+
+
+## ITBS
+* <https://www.running-physio.com/itbs/>
+* <https://www.verywellhealth.com/physical-therapy-exercises-for-iliotibial-band-friction-syndrome-4083051>
+* <https://www.acefitness.org/certifiednewsarticle/1159/a-commonsense-approach-to-exercise-following-iliotibial-band-syndrome/>
+* <https://www.physio-pedia.com/Iliotibial_Band_Syndrome>
+* <https://www.prevention.com/fitness/a20468422/essential-exercises-for-it-band/>
+* <https://www.choosept.com/guide/physical-therapy-guide-iliotibial-band-syndrome-itbs>
+* <https://www.runnersworld.com/advanced/a20820673/getting-the-it-band-back-together/>
+* <https://thebodymechanic.com.au/diagnose-and-cure-your-itb-pain/>
+* <https://regenexx.com/blog/the-glutes-and-the-itb/>
+* <https://www.physio-pedia.com/Iliotibial_Tract>
+* <https://thebodymechanic.com.au/diagnose-and-cure-your-itb-pain/>
