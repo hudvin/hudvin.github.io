@@ -35,6 +35,7 @@ excerpt_separator: <!--more-->
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
 * [Shop in DE](https://www.mountainspirit.com/de)
+* [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
 
 
 
