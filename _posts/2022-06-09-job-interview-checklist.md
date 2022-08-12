@@ -35,6 +35,7 @@ excerpt_separator: <!--more-->
 * SQLAlchemy
 * boto3
 * Python Eve
+* joblib
 
 ## Core
 
@@ -54,6 +55,7 @@ excerpt_separator: <!--more-->
 * async
 * ThreadLocal
 * ContextVar
+* [How to Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/), <https://news.ycombinator.com/item?id=32408577>
 
 ### Core  types
 * enums
