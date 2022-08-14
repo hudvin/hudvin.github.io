@@ -1,0 +1,67 @@
+<link type="text/css" rel="stylesheet" href="/assets/lightGallery/dist/css/lightgallery-bundle.css" />
+
+
+<script src="/assets/lightGallery/dist/lightgallery.umd.js"></script>
+
+<!-- lightgallery plugins -->
+<script src="/assets/lightGallery/dist/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="/assets/lightGallery/dist/plugins/zoom/lg-zoom.umd.js"></script>
+
+
+<style>
+
+
+main, footer, .nav-container {
+    display: block;
+    margin: 0 auto;
+    max-width: 80%;
+    width: 100%;
+}
+
+#ggg{
+
+
+display: grid;
+grid-template-columns: auto auto auto;
+
+grid-row-gap: 0px;
+grid-column-gap: 10px;
+}
+
+a, img{
+padding: 0px;
+margin: 0px;
+}
+
+</style>
+
+
+
+<div id="ggg"  >
+
+{% for image in include.gallery_file %}
+
+   <a href="{{ image.small }}">
+   <img alt="" src="{{ image.small }}"  />
+  </a>
+    
+{% endfor %}
+
+</div>
+
+
+
+
+<script type="text/javascript">
+    lightGallery(document.getElementById('ggg'), {
+        plugins: [lgZoom, lgThumbnail],
+        speed: 10,
+        licenseKey: '0000-0000-000-0000',
+        animateThumb: false,
+   
+
+    });
+
+
+
+</script>
