@@ -453,12 +453,13 @@ excerpt_separator: <!--more-->
 
 ## English
 * [English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English, Raymond Murphy](https://www.amazon.com/English-Grammar-Use-Book-Answers/dp/1108457657/)
+* Cutting Edge Series
 
 ## Deutsch
 * [German-English Bilingual Visual Dictionary (DK Bilingual Visual Dictionaries), DK](https://www.amazon.com/German-English-Bilingual-Dictionary-Dictionaries/dp/1465459294/)
 * [Ubungsgrammatiken Deutsch A B C: A-Grammatik, Buscha Anne](https://www.amazon.com/Ubungsgrammatiken-Deutsch-B-C-Grammatik/dp/3941323091/)
 * [Ubungsgrammatiken Deutsch A B C: B-Grammatik, Busha Anne](https://www.amazon.com/Ubungsgrammatiken-Deutsch-B-C-B-Grammatik/dp/3941323105/)
-* Begegnungen series
+* Begegnungen Series
 
 # Marketing
 

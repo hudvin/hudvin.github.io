@@ -22,12 +22,15 @@ excerpt_separator: <!--more-->
 ## General
 * naming conventions
 * PIP8  - code style
+* type annotations
 
 ## Tools
 * poetry
 * pipenv
 * Celery
 * mypy - type checker <https://mypy.readthedocs.io/en/stable/>
+* pylint
+* flake8
 
 ## Libraries
 * FastAPI
@@ -36,6 +39,10 @@ excerpt_separator: <!--more-->
 * boto3
 * Python Eve
 * joblib
+* pytest
+* unittest
+* DRF
+* SQLAlchemy vs DjangoORM
 
 ## Core
 
@@ -52,10 +59,18 @@ excerpt_separator: <!--more-->
 
 ### Concurrency
 * concurrency
+* concurrent package
 * async
 * ThreadLocal
+* pipe
+* queue
+* pool
+* Value
+* Array
+* condition objects - wait/notify
 * ContextVar
 * [How to Choose the Right Python Concurrency API](https://superfastpython.com/python-concurrency-choose-api/), <https://news.ycombinator.com/item?id=32408577>
+* producer-consumer pattern
 
 ### Core  types
 * enums
@@ -134,11 +149,15 @@ excerpt_separator: <!--more-->
 * DynamoDB
 * Redshift
 * RDS
+* ElasticCache
+* CloudFront
 * KMS
 * Textract
 * EFS
 * IAM
+* Redis
 * VPC
+* Fargate
 * Lambda Insights monitoring
 * ECR
    * vulnerabilities scanner
@@ -197,7 +216,8 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 # Tools
 
 * Docker
-* GitLab CI
+* GitLab CI (pipeline)
+* helm
 * git
   * merge, merge fast-forward, rebase, interactive rebase
 * Postgres
@@ -206,17 +226,21 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Redis
 * PostgREST
 * Postman + Newman (cli to run tests)
+* Snowflake
+* Memcached vs Redis
+* Kubernetes - objects and concepts
 
 
 
 # Other
 
 * REST
+* deploy to production  - flow, approaches etc
 * JWT - access token, refresh token, flow
 * system design
 * HTTP/2
 * SQL
-* SOLID
+* SOLID in depth
 * Agile/SCRUM/Kanban
 * design patterns - порождающие, структурные, поведенческие
 * Алгоритмы и структуры данных
@@ -224,12 +248,13 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * clean code
 * LeetCode
 * Postman
+* Graphene
 * horizontal and vertical scaling
 * database normal forms
+* PMBOK
 * Graphql
   * SQL to GraphQL <https://hasura.io/>
   * SQL to GraphQL <https://graphjin.com/>
-
 * RPC - gRPC, REST, HATEOS, JSON-RPC, XML-RPC, SOAP
   * https://stackoverflow.com/questions/46145417/rest-vs-rpc-actual-purpose-differences
   * <https://stackoverflow.com/questions/15056878/rest-vs-json-rpc>
@@ -243,4 +268,6 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 
 # Books
 * Clean Code
-
+* AWS WebServices in Action
+* AWS for Solution Architects
+* PMBOK
