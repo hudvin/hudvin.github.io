@@ -232,6 +232,23 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 
 
 
+## Databases
+
+* normal forms
+* sql vs nosql
+* vertical vs horizontal scaling
+* sharding
+* transactions
+* indexes
+* secondary indexes
+* JOINs
+* SQL
+* SELECT FOR UPDATE
+* db locks
+* database migrations - alembic, django, liquibase
+
+
+
 # Other
 
 * REST
@@ -244,6 +261,8 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Agile/SCRUM/Kanban
 * design patterns - порождающие, структурные, поведенческие
 * Алгоритмы и структуры данных
+* Architectural, Enterprise and Design Patterns
+* system design
 * OSI levels
 * clean code
 * LeetCode
