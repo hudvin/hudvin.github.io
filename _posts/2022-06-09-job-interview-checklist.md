@@ -270,7 +270,7 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Graphene
 * horizontal and vertical scaling
 * database normal forms
-* PMBOK
+* seq diagrams
 * Graphql
   * SQL to GraphQL <https://hasura.io/>
   * SQL to GraphQL <https://graphjin.com/>
@@ -280,6 +280,15 @@ your on-premises databases to the cloud, for example, into Amazon RDS
   * [REST? Возьмите тупой JSON-RPC](https://habr.com/ru/post/441854/)
   * <https://ru.wikipedia.org/wiki/XML-RPC>
 
+
+
+# Project Management
+* Agile
+* Scrum
+* Kanban
+* soft skills
+* conflict resolution
+* PMBOK
 
 # Other-other
 

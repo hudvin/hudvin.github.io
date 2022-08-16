@@ -153,6 +153,7 @@ excerpt_separator: <!--more-->
 
 ## Hiking
 * [The Complete Walker IV, Colin Fletcher, Chip Rawlins](https://www.amazon.com/Complete-Walker-IV-Colin-Fletcher/dp/0375703233/)
+* [The Backpacker's Field Manual, Revised and Updated: A Comprehensive Guide to Mastering Backcountry Skills, Rick Curtis](https://www.amazon.com/Backpackers-Field-Manual-Revised-Updated/dp/1400053099/)
 
 
 # Adventure
@@ -230,6 +231,7 @@ excerpt_separator: <!--more-->
 
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
+* [The Essential Guide to Motorcycle Maintenance, Mark Zimmerman](https://www.amazon.com/Essential-Guide-Motorcycle-Maintenance/dp/0760352712/)
 
 ## Caves
 * [Blind Descent, James M. Tabor](https://www.amazon.com/Blind-Descent-Quest-Discover-Deepest/dp/0812979494)
@@ -454,6 +456,7 @@ excerpt_separator: <!--more-->
 ## English
 * [English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English, Raymond Murphy](https://www.amazon.com/English-Grammar-Use-Book-Answers/dp/1108457657/)
 * Cutting Edge Series
+* [English Usage, HarperCollins UK](https://www.amazon.com/English-Usage-Collins-Cobuild-HarperCollins/dp/0007423748/)
 
 ## Deutsch
 * [German-English Bilingual Visual Dictionary (DK Bilingual Visual Dictionaries), DK](https://www.amazon.com/German-English-Bilingual-Dictionary-Dictionaries/dp/1465459294/)
