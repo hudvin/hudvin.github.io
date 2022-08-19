@@ -46,18 +46,25 @@ jQuery("#animated-thumbnails-gallery")
       document.getElementById("animated-thumbnails-gallery"),
       {
 
-        fullScreen: true,
-        autoplayFirstVideo: false,
-        pager: false,
+
         galleryId: "nature",
-        plugins: [lgZoom, lgThumbnail, lgFullscreen],
+        plugins: [lgFullscreen,lgZoom, lgThumbnail],
+
+        toggleThumb: true,
+        allowMediaOverlap: true,
+
+        fullScreen: true,
+
+      	showCloseIcon: true,
+      	download: false,
+
         mobileSettings: {
           controls: false,
           showCloseIcon: false,
           download: false,
           rotate: false
-        },
-        fullScreen: true,
+        }
+
       }
     );
   });
