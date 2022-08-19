@@ -5,12 +5,19 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.5/css/lg-thumbnail.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/lightgallery.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/zoom/lg-zoom.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/thumbnail/lg-thumbnail.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/fullscreen/lg-fullscreen.umd.js" ></script>
+
+
 <div class="container-sm">
 <div class="row justify-content-center">
   <div class="col col-md-10">
     <div class="gallery-container" id="animated-thumbnails-gallery">
-
-
 
       {% for image in include.gallery_file %}
         <a  class="gallery-item" data-src="{{ image.small }}" >
@@ -24,13 +31,6 @@
 </div>
 </div>
 
-
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/lightgallery.umd.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/zoom/lg-zoom.umd.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/thumbnail/lg-thumbnail.umd.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/lightgallery@2.5/plugins/fullscreen/lg-fullscreen.umd.js" ></script>
 
 <script>
 
