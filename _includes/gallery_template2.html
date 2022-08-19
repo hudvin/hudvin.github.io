@@ -5,44 +5,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@2.0.0-beta.3/css/lg-thumbnail.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
 
-
-<style>
-  body {
-  padding: 40px;
-  background-image: linear-gradient(#e8f0ff 0%, white 52.08%);
-  color: #0e3481;
-  min-height: 100vh;
-
-}
-
-.header .lead {
-  max-width: 620px;
-}
-
-/** Below CSS is completely optional **/
-
-.gallery-item {
-  width: 200px;
-  padding: 5px;
-}
-
-
-.container {
-	max-width: 800px !important;
-	width: 100% !important
-}
-
-main,
-footer,
-.nav-container {
-	width: 100% !important
-}
-
-
-
-</style>
-
-
 <div class="container-sm">
 <div class="row justify-content-center">
   <div class="col col-md-10">
@@ -76,7 +38,7 @@ jQuery("#animated-thumbnails-gallery")
   .justifiedGallery({
     captions: false,
     lastRow: "hide",
-    rowHeight: 180,
+    rowHeight: 220,
     margins: 5
   })
   .on("jg.complete", function () {
@@ -104,40 +66,14 @@ jQuery("#animated-thumbnails-gallery")
 </script>
 
 
+
 <style>
-  body {
-  padding: 40px;
-  background-image: linear-gradient(#e8f0ff 0%, white 52.08%);
-  color: #0e3481;
-  min-height: 100vh;
 
-}
-
-.header .lead {
-  max-width: 620px;
-}
-
-/** Below CSS is completely optional **/
-
-.gallery-item {
-  width: 200px;
-  padding: 5px;
-}
-
-
-.container {
-	max-width: 100% !important;
-	width: 100% !important;
-}
-
-main,
-footer,
-post
+post,
+main
  {
 	width: 100% !important;
   max-width: 100% !important;
 }
-
-
 
 </style>
