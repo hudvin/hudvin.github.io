@@ -21,7 +21,7 @@
 
       {% for image in include.gallery_file %}
         <a  class="gallery-item" data-src="{{ image.small }}" >
-          <img  class="img-responsive" src="{{ image.thumb }}" />
+          <img  alt="" class="img-responsive" src="{{ image.thumb }}" />
         </a>
 
       {% endfor %}
@@ -38,11 +38,13 @@
 jQuery("#animated-thumbnails-gallery")
   .justifiedGallery({
     captions: false,
-    lastRow: "hide",
+    lastRow: "nojustify",
     rowHeight: 220,
-    margins: 5
+    margins: 5,
+    waitThumbnailsLoad: true
   })
   .on("jg.complete", function () {
+    alert("done")
     window.lightGallery(
       document.getElementById("animated-thumbnails-gallery"),
       {
