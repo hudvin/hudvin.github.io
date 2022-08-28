@@ -51,6 +51,7 @@ excerpt_separator: <!--more-->
 * Первая мировая война, Мартин Гилберт
 * [The Essential Chomsky, Noam Chomsky](https://www.amazon.com/Essential-Chomsky-New-Press/dp/1595581898/)
 * [How Fascism Works: The Politics of Us and Them, Jason Stanley](https://www.amazon.com/How-Fascism-Works-Politics-Them/dp/0525511857/)
+* [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com/dp/0062316095)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -131,6 +132,7 @@ excerpt_separator: <!--more-->
 * [Slightly Out of Focus: The Legendary Photojournalist's Illustrated Memoir of World War II, Robert Capa](https://www.amazon.com/Slightly-Out-Focus-Photojournalists-Illustrated/dp/0375753966)
 * [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam/dp/0385333218/)
 * [Henri Cartier-Bresson: A Biography, Pierre Assouline](https://www.amazon.com/Henri-Cartier-Bresson-Biography-Pierre-Assouline/dp/0500290520)
+* Моя жизнь, или История моих экспериментов с истиной, Махатма Ганди, 
 
 
 # Manga
