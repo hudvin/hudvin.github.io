@@ -25,6 +25,10 @@ excerpt_separator: <!--more-->
 * коллапс 
 * катастрофа бронзового века
 
+## Roman Empire
+* [Why no Roman industrial revolution? - HN](https://news.ycombinator.com/item?id=32607187)
+*  [Why no Roman industrial revolution?](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
+
 ## WWII
 
 * Marta Hillers, Anonymous - A Woman in Berlin
