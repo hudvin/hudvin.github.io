@@ -107,3 +107,5 @@ excerpt_separator: <!--more-->
 * <https://regenexx.com/blog/the-glutes-and-the-itb/>
 * <https://www.physio-pedia.com/Iliotibial_Tract>
 * <https://thebodymechanic.com.au/diagnose-and-cure-your-itb-pain/>
+* <https://www.youtube.com/watch?v=CuRhjYqOjz0>
+* <https://www.youtube.com/watch?v=1iODncOLJnk>
