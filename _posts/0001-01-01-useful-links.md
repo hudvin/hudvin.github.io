@@ -38,6 +38,12 @@ excerpt_separator: <!--more-->
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
 
 
+### Youtube
+
+#### Passing the Knot
+* Passing the Knot on Rappel <https://www.youtube.com/watch?v=cTmAd9he_Ys>
+* How to pass a knot when abseiling / rappelling and lowering <https://www.youtube.com/watch?v=FifPoymPxNc>
+* Прохождение узла на перевке  <https://www.youtube.com/watch?v=xaloGrsbgfI>
 
 ## Writing
 
