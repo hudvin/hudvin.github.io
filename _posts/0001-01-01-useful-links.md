@@ -20,6 +20,7 @@ excerpt_separator: <!--more-->
 * <https://www.youtube.com/c/konstanzek/videos>
 * DeutschLera <https://www.youtube.com/channel/UCuVbK_d3wh3M8TYUk5aFCiQ>
 * <https://www.youtube.com/c/BrandtSchule/videos>
+* <https://www.youtube.com/results?search_query=deutsche+geschichte>
 
 #### Blogs/Magazines/Forums
 * <https://teilzeitreisender.de/zelt-campingplatz/>
@@ -36,6 +37,8 @@ excerpt_separator: <!--more-->
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
 * [Shop in DE](https://www.mountainspirit.com/de)
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
+* [Knots](https://www.petzl.com/US/en/Sport/Knots?ActivityName=Caving)
+* <https://dyeclan.com/outdoors101/canyoneering101/?page=knots-for-canyoneering>
 
 
 ### Youtube
@@ -44,6 +47,7 @@ excerpt_separator: <!--more-->
 * Passing the Knot on Rappel <https://www.youtube.com/watch?v=cTmAd9he_Ys>
 * How to pass a knot when abseiling / rappelling and lowering <https://www.youtube.com/watch?v=FifPoymPxNc>
 * Прохождение узла на перевке  <https://www.youtube.com/watch?v=xaloGrsbgfI>
+* Элементы спасработ. Спуск с наращиванием. Проход через узел <https://www.youtube.com/watch?v=TMRR7ctsNSY>
 
 ## Writing
 
@@ -73,8 +77,7 @@ excerpt_separator: <!--more-->
 
 ## Online Museums
 * [The Kon-Tiki Museum](https://www.kon-tiki.no/expeditions/)
-
-
+* [Bringing museums and heritage sites to classrooms around the worl](https://blog.mused.org/)
 
 ## Other
 
@@ -115,3 +118,37 @@ excerpt_separator: <!--more-->
 * <https://thebodymechanic.com.au/diagnose-and-cure-your-itb-pain/>
 * <https://www.youtube.com/watch?v=CuRhjYqOjz0>
 * <https://www.youtube.com/watch?v=1iODncOLJnk>
+* <https://www.youtube.com/watch?v=t8Y8MpyfJS4>
+* <https://www.youtube.com/watch?v=q5G5_v-06Zk>
+* <https://www.reddit.com/r/running/comments/7t17ol/please_stop_stretching_and_rolling_your_it_band/>
+
+
+
+## General Training
+* <https://www.climbing.com/skills/basic-training-12-push-up-variations-climbers/>
+* <https://runningmagazine.ca/bloggers/keep-your-tfl-flexible/>
+* <https://www.youtube.com/watch?v=rczwuBhZCY4>
+* <https://www.youtube.com/watch?v=GD4MA5OXFuU>
+* <https://www.trainingbeta.com/training-wrist-stabilizers-for-climbing/>
+* <https://www.verywellfit.com/7-best-hip-flexor-stretches-5088569>
+* <https://www.verywellfit.com/best-stretching-exercises-for-groin-pain-3120314>
+* <https://www.verywellfit.com/hamstring-stretches-2696359>
+* <https://www.verywellfit.com/hamstring-exercises-for-stronger-legs-5094156>
+* <https://www.verywellfit.com/quick-core-workout-routine-3120075>
+
+### Resistance Bands
+* <https://www.youtube.com/watch?v=xrhMpzhz0s4>
+* <https://www.youtube.com/watch?v=NtaPROZOcmM>
+* <https://www.youtube.com/watch?v=G-rS3GFslts>
+
+### Planks
+* <https://www.youtube.com/watch?v=bHOteDDCrLs>
+* <https://www.youtube.com/watch?v=k9w2LJAZ1iY>
+
+### Stretching
+
+### Core
+* <https://www.youtube.com/watch?v=XgI_p8bKg78>
+
+### Back
+* <https://www.youtube.com/watch?v=BSyMZyN4JHI>
