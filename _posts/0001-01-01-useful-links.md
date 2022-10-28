@@ -48,6 +48,15 @@ excerpt_separator: <!--more-->
 * How to pass a knot when abseiling / rappelling and lowering <https://www.youtube.com/watch?v=FifPoymPxNc>
 * Прохождение узла на перевке  <https://www.youtube.com/watch?v=xaloGrsbgfI>
 * Элементы спасработ. Спуск с наращиванием. Проход через узел <https://www.youtube.com/watch?v=TMRR7ctsNSY>
+* <http://www.chockstone.org/techtips/passknot.htm>
+* <https://www.youtube.com/watch?v=vw3OOPIMFKQ>
+* <https://www.youtube.com/watch?v=xaloGrsbgfI>
+* <https://www.youtube.com/watch?v=cTmAd9he_Ys>
+* <https://www.alpinesavvy.com/blog/easy-way-to-pass-the-knot-on-a-single-rope-rappel>
+* <https://www.mountainproject.com/forum/topic/107985415/is-this-how-everyone-else-passes-a-knot-mid-rap>
+* <https://www.vdiffclimbing.com/abseil-past-knot/>
+* <https://dyeclan.com/outdoors101/canyoneering101/?page=rappelling-past-a-knot>
+* <https://soumgan.com/forum/viewtopic.php?t=265>
 
 ## Writing
 
