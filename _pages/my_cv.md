@@ -10,7 +10,7 @@ permalink: /my_cv/
 
 
 ## Contacts
-* email: [hudvin@gmail.com](hudvin@gmail.com) or [vadym.bartko@protonmail.com](vadym.bartko@protonmail.com)
+* email: [vadym.bartko@protonmail.com](vadym.bartko@protonmail.com)
 
 * skype: hudvin
 

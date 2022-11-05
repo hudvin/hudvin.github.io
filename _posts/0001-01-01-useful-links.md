@@ -28,9 +28,13 @@ excerpt_separator: <!--more-->
 * <https://www.gutefrage.net/frage/ich-bin-so-faul>
 * <https://www.hilferuf.de/forums/beruf.65/>
 
+## History
 
+### Places
+* [Tom of Amyntas](https://en.wikipedia.org/wiki/Tomb_of_Amyntas)
 
 ## Climbing
+
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
 * [https://alplager.kz/school/](https://alplager.kz/school/)
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
@@ -39,7 +43,16 @@ excerpt_separator: <!--more-->
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
 * [Knots](https://www.petzl.com/US/en/Sport/Knots?ActivityName=Caving)
 * <https://dyeclan.com/outdoors101/canyoneering101/?page=knots-for-canyoneering>
+* [Useful resources](https://alplager.kz/15-links-15/)
+* [Routes and Forums](https://www.mountainproject.com/)
+* [Climbing and Outdoor](https://www.alpinesavvy.com/)
 
+### Persons
+* [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
+* [Carlo Mauri](https://en.wikipedia.org/wiki/Carlo_Mauri)
+
+### Movies
+* <https://www.climbing.com/videos/best-climbing-movies/>
 
 ### Youtube
 
@@ -160,4 +173,7 @@ excerpt_separator: <!--more-->
 * <https://www.youtube.com/watch?v=XgI_p8bKg78>
 
 ### Back
+* <https://www.youtube.com/watch?v=BSyMZyN4JHI>
+* <https://www.youtube.com/watch?v=BSyMZyN4JHI>
+* <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>

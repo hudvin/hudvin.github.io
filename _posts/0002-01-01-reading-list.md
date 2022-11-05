@@ -88,19 +88,25 @@ excerpt_separator: <!--more-->
 * Говард Лавкрафт
 * Отверженные, Виктор Гюго
 * Моби Дик или Белый кит, Герман Мелвилл
-* [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
 * Рубаи, Омар Хайям
+* [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
+
+## SciFi
 * Братья Стругацкие
-* Айзек Азимов
+* Основания, Айзек Азимов
+* Рассказы, Айзек Азимов
+* Двухсотлетний человек, Айзек Азимов
 * [The Southern Reach Trilogy (Annihilation, Authority, Acceptance), Jeff VanderMeer](https://www.amazon.com/dp/B0841YDWXY)
 * Расследование. Рукопись, найденная в ванне, Станислав Лем
 * Цветы для Элджернона, Дэниел Киз
-* [Skunk Works: A Personal Memoir of My Years at Lockheed, Ben R. Rich](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003/)
-* [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
+* [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
+* Космическая Одиссея, Артур Кларк
+
 
 # Non Fiction
 
-* [Hackers: Heroes of the Computer Revolution, Steven Levy](https://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary-ebook/dp/B003PDMKIY)
+* [Skunk Works: A Personal Memoir of My Years at Lockheed, Ben R. Rich](https://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003/)
+ * [Hackers: Heroes of the Computer Revolution, Steven Levy](https://www.amazon.com/Hackers-Heroes-Computer-Revolution-Anniversary-ebook/dp/B003PDMKIY)
 * [Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem, Simon Singh](https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622)
 * [Rocket Boys, Homer Hickam](https://www.amazon.com/Rocket-Boys-Coalwood-Homer-Hickam-ebook/dp/B000Q67J3O)
 * [Prime Obsession: Bernhard Riemann and the Greatest Unsolved Problem in Mathematics , John Derbyshire](https://www.amazon.com/Prime-Obsession-Bernhard-Greatest-Mathematics/dp/0452285259)
