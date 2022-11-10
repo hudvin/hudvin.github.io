@@ -71,6 +71,10 @@ excerpt_separator: <!--more-->
 * <https://dyeclan.com/outdoors101/canyoneering101/?page=rappelling-past-a-knot>
 * <https://soumgan.com/forum/viewtopic.php?t=265>
 
+#### ATC Guide/autoblock
+* <https://alplager.kz/atc-autoblock/>
+* <https://www.youtube.com/watch?v=LUph-y55rdw>
+
 ## Writing
 
 ### Spell checkers

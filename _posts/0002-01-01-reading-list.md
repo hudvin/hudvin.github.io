@@ -90,6 +90,7 @@ excerpt_separator: <!--more-->
 * Моби Дик или Белый кит, Герман Мелвилл
 * Рубаи, Омар Хайям
 * [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
+* Одиссея, Гомер
 
 ## SciFi
 * Братья Стругацкие
