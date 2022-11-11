@@ -10,6 +10,10 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
+- TOC
+{:toc}
+
+----
 
 # History
 * [Gulag: A History, Anne Applebaum](https://www.amazon.com/Gulag-History-Anne-Applebaum/dp/1400034094)
