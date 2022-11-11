@@ -323,6 +323,7 @@ excerpt_separator: <!--more-->
 * [A World History of Art, John Fleming, Hugh Honour](https://www.amazon.co.uk/World-History-Art-Revised-7th/dp/1856695840)
 * [The Ansel Adams Wilderness, Peter Essick](https://www.amazon.com/Ansel-Adams-Wilderness-Peter-Essick/dp/1426213298/)
 * [Light Science & Magic: An Introduction to Photographic Lighting 5th Edition, Fil Hunter, Steven Biver, Paul Fuqua](https://www.amazon.com/Light-Science-Magic-Introduction-Photographic/dp/0415719402/)
+* [Rick Sammon's Creative Visualization for Photographers: Composition, exposure, lighting, learning, experimenting, setting goals, motivation and more, Rick Sammon](https://www.amazon.com/Rick-Sammons-Creative-Visualization-Photographers/dp/1138807354)
 
 
 # Development
@@ -372,6 +373,11 @@ excerpt_separator: <!--more-->
 
 # Science
 
+## Math
+* Теория вероятностей, Вентцель Е.С.
+* Фихтенгольц
+* Алгебра, ван дер Варден
+
 ## Artificial Intelligence
 * [On Intelligence, Jeff Hawkins, Sandra Blakeslee](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533/)
 * [The Predictive Mind 1st Edition, Jakob  Hohwy](https://www.amazon.com/Predictive-Mind-Jakob-Hohwy/dp/0199686734)
@@ -397,6 +403,7 @@ excerpt_separator: <!--more-->
 
 ## Biotech
 * [Ending Aging: The Rejuvenation Breakthroughs That Could Reverse Human Aging in Our Lifetime, Aubrey de Grey](https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074)
+* [Genetics: A Conceptual Approach, Fourth Edition, Benjamin A. Pierce](https://www.amazon.com/Genetics-Conceptual-Approach-Benjamin-Pierce/dp/1429232528)
 
 ## Cognitive Psycology
 * [Cognitive Psychology, Robert L. Solso](https://www.amazon.com/Cognitive-Psychology-8th-Robert-Solso/dp/0205521088)
@@ -454,6 +461,7 @@ excerpt_separator: <!--more-->
 * [Rework, Jason Fried](https://www.amazon.com/Rework-Jason-Fried/dp/0307463745)
 *  [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything, Guy Kawasaki](https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses , Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+* [Biodesign: The Process of Innovating Medical Technologies, ](https://www.amazon.com/Biodesign-Process-Innovating-Medical-Technologies/dp/0521517427)
 
 ### Richard Branson
 * [Screw It, Let's Do It: Lessons in Life, Richard Branson](https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
@@ -474,6 +482,11 @@ excerpt_separator: <!--more-->
 * Begegnungen Series
 
 # Marketing
+
+# Other
+
+## Games
+* [Go for Beginners, Kaoru Iwamoto](https://www.amazon.com/Go-Beginners-Kaoru-Iwamoto/dp/0394733312/)
 
 
 # To Read
