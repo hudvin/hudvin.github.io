@@ -31,6 +31,30 @@ excerpt_separator: <!--more-->
 * mypy - type checker <https://mypy.readthedocs.io/en/stable/>
 * pylint
 * flake8
+* tox
+* ddt
+* minio as local s3
+* noses
+* py-spy
+* dozer
+* pyrasite
+* gcore - core dump of running app
+* gdb
+* memory_analyzer
+* filprofiler
+
+
+## Search Engines
+* Text, vectors, similarity search, Q&A <https://vespa.ai/>
+* Vector databsse <https://milvus.io/>
+
+## Load Tesing
+* <https://locust.io/>
+* <https://github.com/tsenart/vegeta>
+
+## Parsers
+* <https://github.com/pyparsing/pyparsing>
+* <https://github.com/lark-parser/lark>
 
 ## Libraries
 * FastAPI
@@ -218,6 +242,7 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Docker
 * GitLab CI (pipeline)
 * helm
+* dvc
 * git
   * merge, merge fast-forward, rebase, interactive rebase
 * Postgres
@@ -229,6 +254,11 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * Snowflake
 * Memcached vs Redis
 * Kubernetes - objects and concepts
+* dive
+* dry
+* sen
+* lazydocker
+* ctop/boi/cen
 
 
 
