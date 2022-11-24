@@ -26,6 +26,9 @@ excerpt_separator: <!--more-->
 * Kodi
 * PeerTube
 
+# Image Gallery
+* [PhtoPrism](https://photoprism.app/)
+
 # NAS
 ## Software
 * OpenMedia Vault
@@ -37,7 +40,6 @@ excerpt_separator: <!--more-->
 ## General
 
 * PiHole
-
 * RAID 1
 * LVM + encryption + LUKS
 * LVM redundancy - mirror/stripe/concat
