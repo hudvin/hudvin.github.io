@@ -27,7 +27,7 @@ excerpt_separator: <!--more-->
 * PeerTube
 
 # Image Gallery
-* [PhtoPrism](https://photoprism.app/)
+* [PhotoPrism](https://photoprism.app/)
 
 # NAS
 ## Software
