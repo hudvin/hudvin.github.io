@@ -46,6 +46,7 @@ excerpt_separator: <!--more-->
 * [Useful resources](https://alplager.kz/15-links-15/)
 * [Routes and Forums](https://www.mountainproject.com/)
 * [Climbing and Outdoor](https://www.alpinesavvy.com/)
+* <http://multipitchclimbing.com/>
 
 ### Persons
 * [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
