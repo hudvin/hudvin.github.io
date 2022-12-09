@@ -182,6 +182,7 @@ excerpt_separator: <!--more-->
 
 ### Reinhold Messner
 * [Reinhold Messner: My Life At The Limit, Reinhold Messner, Thomas Hüetlin](https://www.amazon.com/gp/product/1594858527/)
+* [The Crystal Horizon: Everest-The First Solo Ascent](https://www.amazon.com/Crystal-Horizon-Everest-First-Ascent/dp/0898865743)
 
 ### Ed Viesturs
 * [K2. Life and death on the world's most dangerous mointain, Ed Viesturs](https://www.amazon.com/K2-Death-Worlds-Dangerous-Mountain/dp/0767932609/)
