@@ -56,6 +56,7 @@ excerpt_separator: <!--more-->
 * [The Essential Chomsky, Noam Chomsky](https://www.amazon.com/Essential-Chomsky-New-Press/dp/1595581898/)
 * [How Fascism Works: The Politics of Us and Them, Jason Stanley](https://www.amazon.com/How-Fascism-Works-Politics-Them/dp/0525511857/)
 * [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com/dp/0062316095)
+* [An Artilleryman in Stalingrad: A Soldier’s Story at the Turning Point of World War II, Wigand Wüster](https://www.amazon.com/Artilleryman-Stalingrad-Soldiers-Story-Turning/dp/0811770389/)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -89,7 +90,7 @@ excerpt_separator: <!--more-->
 * Собрание сочинений в шести томах, А. Куприн
 * Над пропастью во ржи, Селинджер
 * Старик и море, Эрнест Хемингуэй
-* Говард Лавкрафт
+* H. P. Lovecraft
 * Отверженные, Виктор Гюго
 * Моби Дик или Белый кит, Герман Мелвилл
 * Рубаи, Омар Хайям
