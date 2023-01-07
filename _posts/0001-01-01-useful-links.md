@@ -182,3 +182,11 @@ excerpt_separator: <!--more-->
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
+
+## Software Development
+* <https://www.joelonsoftware.com/>
+
+## Astronomy
+* <https://www.businessinsider.com/nasa-voyager-pictures-45-year-journey-neptune-uranus-saturn-earth-2022-6>
+* [Voyager Telecommunications ](https://voyager.gsfc.nasa.gov/Library/DeepCommo_Chapter3--141029.pdf)
+* [Voyager Telecommunications](https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf)
