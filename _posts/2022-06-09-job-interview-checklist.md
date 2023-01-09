@@ -310,7 +310,38 @@ your on-premises databases to the cloud, for example, into Amazon RDS
   * [REST? Возьмите тупой JSON-RPC](https://habr.com/ru/post/441854/)
   * <https://ru.wikipedia.org/wiki/XML-RPC>
 
+# Design Patterns
+## Creational Patterns
+* factory method
+* abstract factory
+* builder
+* prototype
+* singleton
 
+## Structural Patterns
+* adapter
+* bridge
+* composite
+* decorator
+* facade
+* flyweight
+* proxy
+
+## Behavioral Patterns
+* chain of responsibility
+* command
+* iterator
+* mediator
+* memento
+* observer
+* state
+* strategy
+* template method
+* visitor
+
+## Links
+* <https://refactoring.guru/design-patterns>
+* <https://refactoring.guru/design-patterns/python>
 
 # Project Management
 * Agile
