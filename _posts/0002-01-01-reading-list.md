@@ -392,7 +392,7 @@ excerpt_separator: <!--more-->
 * [Mind & Cosmos: Why the Materialist Neo-Darwinian Conception of Nature is Almost Certainly False, Thomas Nagel](https://www.amazon.com/Mind-Cosmos-Materialist-Neo-Darwinian-Conception/dp/0199919755)
 * [The Large, the Small and the Human Mind, Roger Penrose](https://www.amazon.com/Large-Small-Human-Mind-Canto/dp/0521785723)
 * [On Intelligence: How a New Understanding of the Brain Will Lead to the Creation of Truly Intelligent Machines, Jeff Hawkins](https://www.amazon.com/Intelligence-Understanding-Creation-Intelligent-Machines/dp/0805078533)
-* [Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/)
+* [Gödel, Escher, Bach: An Eternal Golden Braid, Douglas R Hofstadter](https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/), review  <https://news.ycombinator.com/item?id=32827209>, <https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer>
 
 ### David Chalmers
 * [The Character of Consciousness, David J. Chalmers](https://www.amazon.com/Character-Consciousness-Philosophy-Mind/dp/0195311116)

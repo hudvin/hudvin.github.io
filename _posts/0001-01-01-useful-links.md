@@ -10,7 +10,8 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-
+## AI
+* GEB review  <https://news.ycombinator.com/item?id=32827209>, <https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer>
 
 ## Languages
 
@@ -36,17 +37,32 @@ excerpt_separator: <!--more-->
 ## Climbing
 
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
+
 * [https://alplager.kz/school/](https://alplager.kz/school/)
+
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
+
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
+
 * [Shop in DE](https://www.mountainspirit.com/de)
+
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
+
 * [Knots](https://www.petzl.com/US/en/Sport/Knots?ActivityName=Caving)
+
 * <https://dyeclan.com/outdoors101/canyoneering101/?page=knots-for-canyoneering>
+
 * [Useful resources](https://alplager.kz/15-links-15/)
+
 * [Routes and Forums](https://www.mountainproject.com/)
+
 * [Climbing and Outdoor](https://www.alpinesavvy.com/)
+
 * <http://multipitchclimbing.com/>
+
+* <https://www.outdoorrackbuilder.com/blog/best-nuts-for-trad-climbing>
+
+* <https://www.conqueryourcrux.com/best-climbing-nuts-for-trad-climbing/>
 
 ### Persons
 * [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
@@ -183,8 +199,22 @@ excerpt_separator: <!--more-->
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 
+
 ## Software Development
 * <https://www.joelonsoftware.com/>
+
+### Libraries and Frameworks
+* [ modern user interfaces with the simplicity and power of hypertext](https://htmx.org/)
+* some UI and CLI tools <https://charm.sh/>
+
+### Tools
+
+#### Logs
+* <https://glogg.bonnefon.org/>
+* <https://lnav.org/>
+* <https://goaccess.io/>
+
+
 
 ## Astronomy
 * <https://www.businessinsider.com/nasa-voyager-pictures-45-year-journey-neptune-uranus-saturn-earth-2022-6>

@@ -137,6 +137,8 @@ excerpt_separator: <!--more-->
 * global and nonlocal
 * signals
 * \_\_init\_\_.py file - regular and namespace package <https://stackoverflow.com/questions/37139786/is-init-py-not-required-for-packages-in-python-3-3>
+* single and double underscore <https://stackoverflow.com/questions/1301346/what-is-the-meaning-of-single-and-double-underscore-before-an-object-name>, <https://stackoverflow.com/questions/8689964/why-do-some-functions-have-underscores-before-and-after-the-function-name/8689983#8689983>
+* docstring <https://peps.python.org/pep-0257/>
 
 # AWS
 
@@ -260,6 +262,7 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * lazydocker
 * ctop/boi/cen
 
+## Logs
 
 
 ## Databases
