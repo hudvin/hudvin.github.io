@@ -206,6 +206,8 @@ excerpt_separator: <!--more-->
 ### Libraries and Frameworks
 * [ modern user interfaces with the simplicity and power of hypertext](https://htmx.org/)
 * some UI and CLI tools <https://charm.sh/>
+* NLP+visualization JavaScript <https://winkjs.org/>, timeline
+* TImeline UI library <https://github.com/NUKnightLab/TimelineJS3>
 
 ### Tools
 
