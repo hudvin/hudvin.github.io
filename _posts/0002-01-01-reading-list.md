@@ -57,6 +57,7 @@ excerpt_separator: <!--more-->
 * [How Fascism Works: The Politics of Us and Them, Jason Stanley](https://www.amazon.com/How-Fascism-Works-Politics-Them/dp/0525511857/)
 * [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com/dp/0062316095)
 * [An Artilleryman in Stalingrad: A Soldier’s Story at the Turning Point of World War II, Wigand Wüster](https://www.amazon.com/Artilleryman-Stalingrad-Soldiers-Story-Turning/dp/0811770389/)
+* [The Crusades: The Authoritative History of the War for the Holy Land, Thomas Asbridge](https://www.amazon.com/gp/product/0060787295)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -164,10 +165,21 @@ excerpt_separator: <!--more-->
 * [Rock Climbing, 2nd Edition: Mastering Basic Skills (Mountaineers Outdoor Experts), Topher Donahue, Craig Luebben](https://www.amazon.com/Rock-Climbing-Mastering-Mountaineers-Outdoor/dp/1594858624/)
 * [Rock Climbing: The AMGA Single Pitch Manual (How To Climb Series), Bob Gaines, Jason D. Martin](https://www.amazon.com/Rock-Climbing-Single-Pitch-Manual/dp/0762790040/)
 * [The Mountain Guide Manual: The Comprehensive Reference--From Belaying to Rope Systems and Self-Rescue, Marc Chauvin, Rob Coppolillo](https://www.amazon.com/Mountain-Guide-Manual-Comprehensive-Reference/dp/1493025147/)
+* [Self-Rescue (How To Climb Series),David Fasulo](https://www.amazon.com/gp/product/0762755334/)
+* [Down: The Complete Descent Manual for Climbers, Alpinists and Mountaineers, Andy Kirkpatrick](https://www.amazon.com/gp/product/1999700570/)
+* [Rappelling: Rope Descending And Ascending Skills For Climbing, Caving, Canyoneering, And Rigging (How To Climb Series), Bob Gaines](https://www.amazon.com/gp/product/0762780800/)
+
+## Snow
+* [Staying Alive in Avalanche Terrain, Bruce Tremper ](https://www.amazon.com/gp/product/1680511386/)
 
 ## Hiking
 * [The Complete Walker IV, Colin Fletcher, Chip Rawlins](https://www.amazon.com/Complete-Walker-IV-Colin-Fletcher/dp/0375703233/)
 * [The Backpacker's Field Manual, Revised and Updated: A Comprehensive Guide to Mastering Backcountry Skills, Rick Curtis](https://www.amazon.com/Backpackers-Field-Manual-Revised-Updated/dp/1400053099/)
+
+## Training
+* [New Anatomy for Strength & Fitness Training, Mark Vella](https://www.amazon.com/gp/product/1504800516/)
+* [Anatomy of Exercise: A Trainer's Inside Guide to Your Workout, Pat Manocchia](https://www.amazon.com/gp/product/1554073855/)
+
 
 
 # Adventure
