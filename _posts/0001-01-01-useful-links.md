@@ -211,11 +211,17 @@ excerpt_separator: <!--more-->
 
 ### Tools
 
+#### Dataset Visualization
+* <https://datasette.io/>
+
 #### Logs
 * <https://glogg.bonnefon.org/>
 * <https://lnav.org/>
 * <https://goaccess.io/>
 
+#### General CLI
+* [yq  - a lightweight and portable command-line YAML, JSON and XML processor](https://github.com/mikefarah/yq)
+* [List of modern Linux CLI tools](https://github.com/ibraheemdev/modern-unix)
 
 
 ## Astronomy
