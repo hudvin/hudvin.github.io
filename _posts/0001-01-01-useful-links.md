@@ -31,6 +31,9 @@ excerpt_separator: <!--more-->
 
 ## History
 
+### Ukraine
+* [Timothy Snyder: The Making of Modern Ukraine](https://www.youtube.com/playlist?list=PLh9mgdi4rNewfxO7LhBoz_1Mx1MaO6sw_)
+
 ### Places
 * [Tom of Amyntas](https://en.wikipedia.org/wiki/Tomb_of_Amyntas)
 
