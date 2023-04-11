@@ -109,6 +109,9 @@ excerpt_separator: <!--more-->
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
 * Космическая Одиссея, Артур Кларк
 
+### Robert A. Heinlein
+* The Door into Summer
+
 
 # Non Fiction
 
@@ -168,6 +171,7 @@ excerpt_separator: <!--more-->
 * [Self-Rescue (How To Climb Series),David Fasulo](https://www.amazon.com/gp/product/0762755334/)
 * [Down: The Complete Descent Manual for Climbers, Alpinists and Mountaineers, Andy Kirkpatrick](https://www.amazon.com/gp/product/1999700570/)
 * [Rappelling: Rope Descending And Ascending Skills For Climbing, Caving, Canyoneering, And Rigging (How To Climb Series), Bob Gaines](https://www.amazon.com/gp/product/0762780800/)
+* [Climbing Anchors (How To Climb Series)](https://www.amazon.com/dp/0762782072)
 
 ## Snow
 * [Staying Alive in Avalanche Terrain, Bruce Tremper ](https://www.amazon.com/gp/product/1680511386/)
