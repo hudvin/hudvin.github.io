@@ -298,6 +298,7 @@ your on-premises databases to the cloud, for example, into Amazon RDS
 * system design
 * OSI levels
 * clean code
+* clean code discussion https://github.com/unclebob/cmuratori-discussion/blob/main/cleancodeqa.md
 * LeetCode
 * Postman
 * Graphene

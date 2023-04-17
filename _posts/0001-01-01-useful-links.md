@@ -46,26 +46,17 @@ excerpt_separator: <!--more-->
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
 
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
-
 * [Shop in DE](https://www.mountainspirit.com/de)
-
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
-
 * [Knots](https://www.petzl.com/US/en/Sport/Knots?ActivityName=Caving)
-
 * <https://dyeclan.com/outdoors101/canyoneering101/?page=knots-for-canyoneering>
-
 * [Useful resources](https://alplager.kz/15-links-15/)
-
 * [Routes and Forums](https://www.mountainproject.com/)
-
 * [Climbing and Outdoor](https://www.alpinesavvy.com/)
-
 * <http://multipitchclimbing.com/>
-
 * <https://www.outdoorrackbuilder.com/blog/best-nuts-for-trad-climbing>
-
 * <https://www.conqueryourcrux.com/best-climbing-nuts-for-trad-climbing/>
+* [Petzl Climbing Manual](https://www.petzl.com/INT/en/Sport/Multi-pitch-climbing)
 
 ### Persons
 * [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
@@ -202,6 +193,8 @@ excerpt_separator: <!--more-->
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 * <https://www.youtube.com/watch?v=BSyMZyN4JHI>
 
+### Bio
+* гликоген <https://nogibogi.com/glycogen-guide/>
 
 ## Software Development
 * <https://www.joelonsoftware.com/>
