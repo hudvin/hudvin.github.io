@@ -58,6 +58,7 @@ excerpt_separator: <!--more-->
 * [Sapiens: A Brief History of Humankind, Yuval Noah Harari](https://www.amazon.com/dp/0062316095)
 * [An Artilleryman in Stalingrad: A Soldier’s Story at the Turning Point of World War II, Wigand Wüster](https://www.amazon.com/Artilleryman-Stalingrad-Soldiers-Story-Turning/dp/0811770389/)
 * [The Crusades: The Authoritative History of the War for the Holy Land, Thomas Asbridge](https://www.amazon.com/gp/product/0060787295)
+* [Lost to the West: The Forgotten Byzantine Empire That Rescued Western Civilization](https://www.amazon.com/dp/0307407969)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
