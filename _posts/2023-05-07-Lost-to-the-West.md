@@ -13,6 +13,22 @@ excerpt_separator: <!--more-->
 
 #  Lost to The West
 
+## Architecture
+* https://en.wikipedia.org/wiki/Nea_Ekklesia
+* https://en.wikipedia.org/wiki/Galata_Tower
+* https://en.wikipedia.org/wiki/Church_of_Saint_John_the_Baptist,_Kerch
+* https://en.wikipedia.org/wiki/Church_of_Saint_Demetrius_of_Thessaloniki,_Veliko_Tarnovo
+* https://en.wikipedia.org/wiki/Sultanahmet_Square
+* https://en.wikipedia.org/wiki/The_Chora
+* https://en.wikipedia.org/wiki/Chrysotriklinos
+* https://en.wikipedia.org/wiki/Church_of_St._Polyeuctus
+* https://en.wikipedia.org/wiki/Great_Palace_of_Constantinople
+* https://en.wikipedia.org/wiki/Byzantine_architecture
+* https://en.wikipedia.org/wiki/Church_of_the_Holy_Apostles
+
+## Museums
+* https://en.wikipedia.org/wiki/Istanbul_Archaeology_Museums
+
 ## Related Topics
 * crusaders
 * maps
@@ -24,14 +40,14 @@ excerpt_separator: <!--more-->
 * Anatolia
 * Greek culture
 * remaininig buildings / achitecture
-* Volcanic winter of 536
+* https://en.wikipedia.org/wiki/Volcanic_winter_of_536
 * Church of the Holy Sepulchre and Constantine
 * walls of Constantinople
 * Copts
 * Bulgars
 * Frankish Kingdom
 * Charles "The Hammer" Martel
-* battle of Tours
+* https://en.wikipedia.org/wiki/Battle_of_Tours
 * Charles The Great / Charlemagne
 * marble ruins of Rome empire
 * relation between  king  and church (Charlemagne and Pope Leo)
@@ -43,7 +59,6 @@ excerpt_separator: <!--more-->
 * Great Palace
 * Golden Horn
 * Armenia
-* Nea Ekklesia church
 * Pechenegs
 * role of church in Bizantium
 * Hagia Sophia architectue and mosaics
@@ -55,7 +70,9 @@ excerpt_separator: <!--more-->
 * Constantine's tomb in the Church of the Holy Apostles
 * feodalism
 * Medieval Europe
-
+* https://en.wikipedia.org/wiki/Krak_des_Chevaliers
+* https://en.wikipedia.org/wiki/Saladin
+* problem of succession
 
 ## General Note
 
