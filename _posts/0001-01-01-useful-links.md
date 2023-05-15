@@ -34,17 +34,17 @@ excerpt_separator: <!--more-->
 ### Ukraine
 * [Timothy Snyder: The Making of Modern Ukraine](https://www.youtube.com/playlist?list=PLh9mgdi4rNewfxO7LhBoz_1Mx1MaO6sw_)
 
+### Byzantium
+* [The History of Byzantiu, Flash Point History](https://www.youtube.com/playlist?list=PLpA6sZxl1jJvK_QcH6vHIyh36Sr8gIR1m)
+
 ### Places
-* [Tom of Amyntas](https://en.wikipedia.org/wiki/Tomb_of_Amyntas)
+* [Tomb of Amyntas](https://en.wikipedia.org/wiki/Tomb_of_Amyntas)
 
 ## Climbing
 
 * [https://www.vdiffclimbing.com/tag/sport/](https://www.vdiffclimbing.com/tag/sport/)
-
 * [https://alplager.kz/school/](https://alplager.kz/school/)
-
 * [https://www.99boulders.com/multi-pitch-climbing](https://www.99boulders.com/multi-pitch-climbing)
-
 * [ Knots 3D – Learn how to tie over 150 useful knots - plus many other userful links about knots](https://news.ycombinator.com/item?id=31532199)
 * [Shop in DE](https://www.mountainspirit.com/de)
 * [Essential Climbing Knots](https://news.ycombinator.com/item?id=32408393),<https://www.climbing.com/skills/essential-climbing-knots-complete-guide/>
@@ -57,6 +57,7 @@ excerpt_separator: <!--more-->
 * <https://www.outdoorrackbuilder.com/blog/best-nuts-for-trad-climbing>
 * <https://www.conqueryourcrux.com/best-climbing-nuts-for-trad-climbing/>
 * [Petzl Climbing Manual](https://www.petzl.com/INT/en/Sport/Multi-pitch-climbing)
+* [Purcell Prusik](https://www.youtube.com/watch?v=PxImyrxOlEY)
 
 ### Persons
 * [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
