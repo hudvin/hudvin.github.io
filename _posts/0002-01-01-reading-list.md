@@ -109,6 +109,7 @@ excerpt_separator: <!--more-->
 * Цветы для Элджернона, Дэниел Киз
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
 * Космическая Одиссея, Артур Кларк
+* Story of Your Life, Ted Chiang
 
 ### Robert A. Heinlein
 * The Door into Summer
