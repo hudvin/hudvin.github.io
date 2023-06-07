@@ -15,6 +15,9 @@ excerpt_separator: <!--more-->
 
 ## Languages
 
+### General
+* [Language Reactor](https://www.languagereactor.com/)
+
 ### Deutsch
 
 #### Youtube
