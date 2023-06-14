@@ -99,6 +99,11 @@ excerpt_separator: <!--more-->
 * [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
 * Одиссея, Гомер
 
+### Солженицын
+* Раковый корпус
+* В круге первом
+* Один день Ивана Денисовича
+
 ## SciFi
 * Братья Стругацкие
 * Основания, Айзек Азимов
