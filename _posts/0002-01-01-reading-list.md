@@ -21,6 +21,7 @@ excerpt_separator: <!--more-->
 * [Ur-Fascism, Umberto Eco](https://www.pegc.us/archive/Articles/eco_ur-fascism.pdf)
 * [Окаянные дни, Иван Бунин](https://ru.wikipedia.org/wiki/Окаянные_дни)
 * [Bloodlands: Europe Between Hitler and Stalin, Timothy Snyder](https://www.amazon.com/Bloodlands-Europe-Between-Hitler-Stalin/dp/0465031471)
+* On Tyranny, Timothy Snyder
 * [Fermat's Enigma, Simon Singh](https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622)
 * [The Complete World of Greek Mythology, Richard Buxton](https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215)
 * [An artilleryman in Stalingrad, Dr Wigand Wüster](https://www.amazon.com/ARTILLERYMAN-STALINGRAD-Memoirs-Participant-Battle/dp/0975107658)
