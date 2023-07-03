@@ -116,7 +116,7 @@ excerpt_separator: <!--more-->
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
 * Космическая Одиссея, Артур Кларк
 * Story of Your Life, Ted Chiang
-* Wool(Silo Series), Hugh Howey
+* Wool, Shift, Dust (Silo Series), Hugh Howey
 
 ### Robert A. Heinlein
 * The Door into Summer
