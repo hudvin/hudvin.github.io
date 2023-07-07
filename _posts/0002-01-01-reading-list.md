@@ -505,6 +505,8 @@ excerpt_separator: <!--more-->
 * [English Grammar in Use Book with Answers: A Self-Study Reference and Practice Book for Intermediate Learners of English, Raymond Murphy](https://www.amazon.com/English-Grammar-Use-Book-Answers/dp/1108457657/)
 * Cutting Edge Series
 * [English Usage, HarperCollins UK](https://www.amazon.com/English-Usage-Collins-Cobuild-HarperCollins/dp/0007423748/)
+* English Idioms in Use, Michael McCarthy, Felicity O'Dell
+* English Vocabulary in Use (Advanced), Michael McCarthy, Felicity O'Dell
 
 ## Deutsch
 * [German-English Bilingual Visual Dictionary (DK Bilingual Visual Dictionaries), DK](https://www.amazon.com/German-English-Bilingual-Dictionary-Dictionaries/dp/1465459294/)
