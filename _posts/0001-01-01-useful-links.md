@@ -61,6 +61,9 @@ excerpt_separator: <!--more-->
 * <https://www.conqueryourcrux.com/best-climbing-nuts-for-trad-climbing/>
 * [Petzl Climbing Manual](https://www.petzl.com/INT/en/Sport/Multi-pitch-climbing)
 * [Purcell Prusik](https://www.youtube.com/watch?v=PxImyrxOlEY)
+* <https://www.alpinesavvy.com/blog/cordelelette-connect-the-ends-with-an-overhand-knot>
+* <https://www.alpinesavvy.com/blog/cordelette-tips>
+* https://www.animatedknots.com/super-munter-hitch-knot
 
 ### Persons
 * [Walter Bonatti](https://en.wikipedia.org/wiki/Walter_Bonatti)
@@ -228,3 +231,10 @@ excerpt_separator: <!--more-->
 * <https://www.businessinsider.com/nasa-voyager-pictures-45-year-journey-neptune-uranus-saturn-earth-2022-6>
 * [Voyager Telecommunications ](https://voyager.gsfc.nasa.gov/Library/DeepCommo_Chapter3--141029.pdf)
 * [Voyager Telecommunications](https://descanso.jpl.nasa.gov/DPSummary/Descanso4--Voyager_ed.pdf)
+
+## GPS
+* [Step by step description](https://ciechanow.ski/gps/)
+* [Stanford Course about GPS](https://scpnt.stanford.edu/about/gps-mooc-massive-open-online-course)
+
+## Drones
+* [Drone: Aerial Robotics, Coursera](https://www.coursera.org/learn/robotics-flight)
