@@ -117,6 +117,7 @@ excerpt_separator: <!--more-->
 * Космическая Одиссея, Артур Кларк
 * Story of Your Life, Ted Chiang
 * Wool, Shift, Dust (Silo Series), Hugh Howey
+* Dandelion Wine, Ray Bradbury
 
 ### Robert A. Heinlein
 * The Door into Summer

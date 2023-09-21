@@ -17,6 +17,7 @@ excerpt_separator: <!--more-->
 
 ### General
 * [Language Reactor](https://www.languagereactor.com/)
+* [How to study language with ChatGPT](https://www.youtube.com/watch?v=iI8tPHiI590)
 
 ### Deutsch
 
