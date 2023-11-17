@@ -403,6 +403,7 @@ excerpt_separator: <!--more-->
 * [The Man of Genius, Cesare Lombroso](https://www.amazon.com/Man-Genius-Cesare-Lombroso/dp/190960612X)
 * [Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life, Susan Forward](https://www.amazon.com/Toxic-Parents-Overcoming-Hurtful-Reclaiming/dp/0553381407/)
 * [Serial Killers: The Method and Madness of Monsters, Peter Vronsky](https://www.amazon.com/Serial-Killers-Method-Madness-Monsters/dp/0425196402)
+* The Search for Existential Identity, James Bugental
 
 
 # Science
