@@ -116,6 +116,7 @@ excerpt_separator: <!--more-->
 * Расследование. Рукопись, найденная в ванне, Станислав Лем
 * Цветы для Элджернона, Дэниел Киз
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
+* [Project Hail Mary, Andy Weir](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202)
 * Космическая Одиссея, Артур Кларк
 * Story of Your Life, Ted Chiang
 * Wool, Shift, Dust (Silo Series), Hugh Howey
