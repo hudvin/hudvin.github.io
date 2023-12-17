@@ -186,6 +186,7 @@ excerpt_separator: <!--more-->
 * [Rappelling: Rope Descending And Ascending Skills For Climbing, Caving, Canyoneering, And Rigging (How To Climb Series), Bob Gaines](https://www.amazon.com/gp/product/0762780800/)
 * [Climbing Anchors (How To Climb Series)](https://www.amazon.com/dp/0762782072)
 * [Climbing: From Single Pitch to Multipitch (How to Climb Series)](https://www.amazon.com/Climbing-Single-Multi-Pitch-Ron-Funderburke/dp/1493027662/)
+* [Mountaineering: The Freedom of the Hills. 9th edition](https://www.amazon.com/gp/product/1680510045/)
 
 ## Snow
 * [Staying Alive in Avalanche Terrain, Bruce Tremper ](https://www.amazon.com/gp/product/1680511386/)
