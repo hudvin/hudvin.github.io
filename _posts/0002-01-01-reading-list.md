@@ -125,6 +125,10 @@ excerpt_separator: <!--more-->
 ### Robert A. Heinlein
 * The Door into Summer
 
+### James Corey
+* Leviathan Wakes
+
+
 
 # Non Fiction
 
