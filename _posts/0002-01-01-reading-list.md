@@ -198,6 +198,7 @@ excerpt_separator: <!--more-->
 ## Hiking
 * [The Complete Walker IV, Colin Fletcher, Chip Rawlins](https://www.amazon.com/Complete-Walker-IV-Colin-Fletcher/dp/0375703233/)
 * [The Backpacker's Field Manual, Revised and Updated: A Comprehensive Guide to Mastering Backcountry Skills, Rick Curtis](https://www.amazon.com/Backpackers-Field-Manual-Revised-Updated/dp/1400053099/)
+* Falcon Guide: Winter Hiking and Camping, Molly Absolon
 
 ## Training
 * [New Anatomy for Strength & Fitness Training, Mark Vella](https://www.amazon.com/gp/product/1504800516/)
