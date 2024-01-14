@@ -412,6 +412,7 @@ excerpt_separator: <!--more-->
 * [Toxic Parents: Overcoming Their Hurtful Legacy and Reclaiming Your Life, Susan Forward](https://www.amazon.com/Toxic-Parents-Overcoming-Hurtful-Reclaiming/dp/0553381407/)
 * [Serial Killers: The Method and Madness of Monsters, Peter Vronsky](https://www.amazon.com/Serial-Killers-Method-Madness-Monsters/dp/0425196402)
 * The Search for Existential Identity, James Bugental
+* [The Theory and Practice of Group Psychotherapy 6th, Irvin D. Yalom, Molyn Leszcz](https://www.amazon.com/Theory-Practice-Group-Psychotherapy/dp/1541617576/)
 
 
 # Science
