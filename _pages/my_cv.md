@@ -17,14 +17,17 @@ permalink: /my_cv/
 
 ## COMPUTER SKILLS AND COMPETENCES
 **AWS:**
-Lambda, SQS, SNS, S3, Textract
+Lambda, SQS, SNS, S3, Textract, RDS, DynamoDB, MemoryDB
 
 **Backend:**
 Python Backend Stack - Flask, Django, DRF, gunicorn, RabbitMQ, Celery,
 boto3, Tornado, Flasgger, dynaconf, MongoDB, ElasticSearch etc
 
+**Databases**
+Postgres, RDS, MemoryDB(Redis), DynamoDB
+
 **Pdf Processing:**
-ghostscript, fitz
+ghostscript, fitz(mupdf/pymupdf), deep analysis of pdf documents, font related issues,  text detection
 
 **AI:**
 Convolutional Neural Networks, image classification, object detection, image
@@ -52,6 +55,9 @@ processing
 
 
 ## NOTABLE PROJECTS
+### [miltech]
+radio scanner based on SDR and single board computer (orange pi), reactive jammer (counter drone),  hardware and software design
+
 ### [pdf processing - fintech]
 processing and analysis of financial pdf documents, OCR, dealing with pdf
 format issues, pdf/image compression and optimization, ghoscript based
