@@ -127,6 +127,7 @@ excerpt_separator: <!--more-->
 
 ### James Corey
 * Leviathan Wakes
+* Caliban's War
 
 
 
