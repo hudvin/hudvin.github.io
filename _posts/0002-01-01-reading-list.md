@@ -129,6 +129,7 @@ excerpt_separator: <!--more-->
 * Leviathan Wakes
 * Caliban's War
 * Abaddon's Gate
+* Cibola Burn
 
 
 
