@@ -12,8 +12,8 @@ excerpt_separator: <!--more-->
 <!--more-->
 
 # Logs
-* https://github.com/Textualize/toolong
-* https://lnav.org/
+* <https://github.com/Textualize/toolong>
+* <https://lnav.org/>
 
 # Backup
-* https://www.borgbackup.org/
+* <https://www.borgbackup.org/>
