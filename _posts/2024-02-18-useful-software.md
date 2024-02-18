@@ -5,6 +5,7 @@ layout: post
 title: "Collection of useful software"
 author: "Vadym Bartko"
 tags: notes
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
