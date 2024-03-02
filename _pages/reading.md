@@ -1,14 +1,9 @@
 ---
-typora-root-url: ../
-
 layout: post
-title: "Books"
+title: "Books I read"
 author: "Vadym Bartko"
-tags: notes
-excerpt_separator: <!--more-->
+permalink: /reading/
 ---
-
-<!--more-->
 
 - TOC
 {:toc}
@@ -416,6 +411,7 @@ excerpt_separator: <!--more-->
 * [Serial Killers: The Method and Madness of Monsters, Peter Vronsky](https://www.amazon.com/Serial-Killers-Method-Madness-Monsters/dp/0425196402)
 * The Search for Existential Identity, James Bugental
 * [The Theory and Practice of Group Psychotherapy 6th, Irvin D. Yalom, Molyn Leszcz](https://www.amazon.com/Theory-Practice-Group-Psychotherapy/dp/1541617576/)
+* [The Body Keeps the Score, Bessel van der Kolk](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748)
 
 
 # Science
