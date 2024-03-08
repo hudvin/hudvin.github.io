@@ -125,6 +125,7 @@ permalink: /reading/
 * Caliban's War
 * Abaddon's Gate
 * Cibola Burn
+* Nemesis Games
 
 
 
