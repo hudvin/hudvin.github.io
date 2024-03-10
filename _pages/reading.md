@@ -96,6 +96,7 @@ permalink: /reading/
 * Рубаи, Омар Хайям
 * [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
 * Одиссея, Гомер
+* Fight Club, Chuck Palahniuk
 
 ### Солженицын
 * Раковый корпус
