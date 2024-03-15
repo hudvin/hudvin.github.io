@@ -208,6 +208,9 @@ permalink: /reading/
 
 # Adventure
 
+### Andy Kirkpatrick
+* [Unknown Pleasures: Collected writing on life, death, climbing and everything in between, Kirkpatrick](https://www.amazon.com/Pleasures-Collected-writing-climbing-everything/dp/191134272X)
+
 ### John Krakauer
 * [Into the Wild, Jon Krakauer](https://www.amazon.com/Into-Wild-Jon-Krakauer/dp/0385486804)
 * [Eiger Dreams: Ventures Among Men and Mountains, Jon Krakauer ](https://www.amazon.com/Eiger-Dreams-Ventures-Among-Mountains/dp/1599216108)
