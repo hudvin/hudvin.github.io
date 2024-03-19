@@ -127,6 +127,7 @@ permalink: /reading/
 * Abaddon's Gate
 * Cibola Burn
 * Nemesis Games
+* Babylon's Ashes
 
 
 
