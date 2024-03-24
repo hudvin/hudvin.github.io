@@ -17,3 +17,12 @@ excerpt_separator: <!--more-->
 
 # Backup
 * <https://www.borgbackup.org/>
+
+# Shell
+* [Atuin - making your shell magical](https://atuin.sh/)
+
+# Libs
+* [Python Web UI](https://reflex.dev/)
+
+# Testing
+* <https://testcontainers.com/>
