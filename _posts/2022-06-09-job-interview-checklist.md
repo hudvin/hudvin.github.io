@@ -72,6 +72,7 @@ excerpt_separator: <!--more-->
 
 ### Collections
 * iterator protocol - iter and next, iterator, iterable, generator
+* sequences, iterators and iterable
 * reduce and map
 * set/dict/list comprehension
 * generator and iterator - method based and class based (generator is iterator)
