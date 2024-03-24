@@ -122,12 +122,14 @@ permalink: /reading/
 * The Door into Summer
 
 ### James Corey
+#### Expanse Series
 * Leviathan Wakes
 * Caliban's War
 * Abaddon's Gate
 * Cibola Burn
 * Nemesis Games
 * Babylon's Ashes
+* Persepolis Rising
 
 
 
