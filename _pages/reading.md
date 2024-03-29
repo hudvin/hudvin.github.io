@@ -130,6 +130,7 @@ permalink: /reading/
 * Nemesis Games
 * Babylon's Ashes
 * Persepolis Rising
+* Tiamat's Wrath
 
 
 
