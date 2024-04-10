@@ -97,6 +97,7 @@ permalink: /reading/
 * [Harry Potter and the Methods of Rationality](http://www.hpmor.com/)
 * Одиссея, Гомер
 * Fight Club, Chuck Palahniuk
+* Normal People, Sally Rooney
 
 ### Солженицын
 * Раковый корпус
