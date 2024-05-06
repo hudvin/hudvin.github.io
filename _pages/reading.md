@@ -135,6 +135,7 @@ permalink: /reading/
 * Leviathan Falls
 #### Expanse Stories
 * Drive
+* Gods of Risk
 
 
 
