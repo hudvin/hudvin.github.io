@@ -138,6 +138,7 @@ permalink: /reading/
 * Gods of Risk
 * The Churn
 * The Butcher of Anderson Station
+* The Vital Abyss
 
 
 
