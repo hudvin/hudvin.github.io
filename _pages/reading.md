@@ -139,6 +139,9 @@ permalink: /reading/
 * The Churn
 * The Butcher of Anderson Station
 * The Vital Abyss
+* Strange Dogs
+* Auberon
+* The Sins of Our Fathers
 
 
 
