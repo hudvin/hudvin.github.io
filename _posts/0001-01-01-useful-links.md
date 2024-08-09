@@ -227,6 +227,11 @@ excerpt_separator: <!--more-->
 * [yq  - a lightweight and portable command-line YAML, JSON and XML processor](https://github.com/mikefarah/yq)
 * [List of modern Linux CLI tools](https://github.com/ibraheemdev/modern-unix)
 
+#### File Viewers
+* [Miller](https://miller.readthedocs.io/en/6.12.0/)
+* [Visidata](https://www.visidata.org/)
+* [CSVLens](https://github.com/YS-L/csvlens)
+
 
 ## Astronomy
 * <https://www.businessinsider.com/nasa-voyager-pictures-45-year-journey-neptune-uranus-saturn-earth-2022-6>
