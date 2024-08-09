@@ -222,7 +222,11 @@ permalink: /reading/
 ## Training
 * [New Anatomy for Strength & Fitness Training, Mark Vella](https://www.amazon.com/gp/product/1504800516/)
 * [Anatomy of Exercise: A Trainer's Inside Guide to Your Workout, Pat Manocchia](https://www.amazon.com/gp/product/1554073855/)
+* [Training for the New Alpinism: A Manual for the Climber as Athlete, Steve House, Scott Johnston](https://www.amazon.com/dp/193834023X)
+* [Training for Climbing: The Definitive Guide to Improving Your Performance, Eric Horst](https://www.amazon.com/dp/1493017616)
 
+### Nutrition
+* [Nancy Clark's Sports Nutrition Guidebook, Nancy Clark](https://www.amazon.com/dp/1492591572)
 
 
 # Adventure
@@ -301,6 +305,7 @@ permalink: /reading/
 * Альпы. От Любляны до Лиона и от Мюнхена до Милана, Эндрю Битти
 * [No Way Down: Life and Death on K2, Graham Bowley](https://www.amazon.com/No-Way-Down-Life-Death/dp/0061834793/)
 * Территория, Олег Куваев
+* [Jupiters Travels: Four Years Around the World on a Triumph, Ted Simon](https://www.amazon.com/dp/0965478521)
 
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
@@ -376,6 +381,7 @@ permalink: /reading/
 * [World War I in Photographs (The World Wars in Photographs), Robin Cross](https://www.amazon.com/World-War-Photographs-Wars/dp/0765196018)
 * [Alfred Stieglitz. Camera Work, Pam Roberts, Taschen](https://www.amazon.com/Stieglitz-Camera-Work-Pam-Roberts/dp/3836544075/)
 * [Pittsburgh's Bridges (Images of America), Todd Wilson PE, Helen Wilson](https://www.amazon.com/Pittsburghs-Bridges-Images-America-Wilson/dp/1467134244/)
+* [Hiroshige: One Hundred Famous Views of Edo, Melanie Trede, Lorenz Bichler](https://www.amazon.com/dp/3836556596)
 
 ### Other
 * [Creative Black and White: Digital Photography Tips and Techniques, Harold Davis](https://www.amazon.com/Creative-Black-White-Photography-Techniques/dp/0470597755)
