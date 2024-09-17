@@ -99,6 +99,11 @@ permalink: /reading/
 * Одиссея, Гомер
 * Fight Club, Chuck Palahniuk
 * Normal People, Sally Rooney
+* Тихий Дон, Михаил Шолохов, 1941г
+
+
+### Федор Достоевский
+* Преступление и наказание
 
 ### Солженицын
 * Раковый корпус
