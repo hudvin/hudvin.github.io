@@ -229,6 +229,7 @@ permalink: /reading/
 * [Anatomy of Exercise: A Trainer's Inside Guide to Your Workout, Pat Manocchia](https://www.amazon.com/gp/product/1554073855/)
 * [Training for the New Alpinism: A Manual for the Climber as Athlete, Steve House, Scott Johnston](https://www.amazon.com/dp/193834023X)
 * [Training for Climbing: The Definitive Guide to Improving Your Performance, Eric Horst](https://www.amazon.com/dp/1493017616)
+* [Strength Training Anatomy, 3rd edition, Frederic Delavier](https://www.amazon.com/Strength-Training-Anatomy-Frederic-Delavier/dp/0736092269)
 
 ### Nutrition
 * [Nancy Clark's Sports Nutrition Guidebook, Nancy Clark](https://www.amazon.com/dp/1492591572)
