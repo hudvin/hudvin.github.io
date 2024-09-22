@@ -58,6 +58,7 @@ permalink: /reading/
 * [The Shortest History of England, James Hawes](https://www.amazon.com/The-Shortest-History-of-England/dp/1910400696)
 * [The German War, A Nation Under Arm, 1939-1945, Nicholas Stargardt](https://www.amazon.com/German-War-Nation-Under-1939-1945/dp/0465094899)
 * [The Red Atlas: How the Soviet Union Secretly Mapped the World, John Davies, Alexander J. Kent](https://www.amazon.com/Red-Atlas-Soviet-Secretly-Mapped/dp/022638957X)
+* [After the Ice: A Global Human History, Steven Mithen](https://www.amazon.com/dp/0674019997)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -112,6 +113,12 @@ permalink: /reading/
 
 ### Лев Толстой
 * Хаджи Мурат
+
+## Fantasy
+
+### J.R.R Tolkien
+* [The Hobbit, J.R.R. Tolkien](https://www.amazon.com/dp/0063347539)
+* [The Lord of the Rings, J.R.R. Tolkien](https://www.amazon.com/dp/0358653037)
 
 ## SciFi
 * Братья Стругацкие
