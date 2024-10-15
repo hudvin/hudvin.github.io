@@ -59,6 +59,7 @@ permalink: /reading/
 * [The German War, A Nation Under Arm, 1939-1945, Nicholas Stargardt](https://www.amazon.com/German-War-Nation-Under-1939-1945/dp/0465094899)
 * [The Red Atlas: How the Soviet Union Secretly Mapped the World, John Davies, Alexander J. Kent](https://www.amazon.com/Red-Atlas-Soviet-Secretly-Mapped/dp/022638957X)
 * [After the Ice: A Global Human History, Steven Mithen](https://www.amazon.com/dp/0674019997)
+* [1491: New Revelations of the Americas Before Columbus, Charles C. Mann](https://www.amazon.com/dp/1400032059)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
@@ -119,6 +120,7 @@ permalink: /reading/
 ### J.R.R Tolkien
 * [The Hobbit, J.R.R. Tolkien](https://www.amazon.com/dp/0063347539)
 * [The Lord of the Rings, J.R.R. Tolkien](https://www.amazon.com/dp/0358653037)
+* [The Silmarillion: Illustrated by J.R.R. Tolkien, J.R.R Tolkien](https://www.amazon.com/dp/0063280779)
 
 ## SciFi
 * Братья Стругацкие
@@ -549,6 +551,7 @@ permalink: /reading/
 *  [The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything, Guy Kawasaki](https://www.amazon.com/Art-Start-Time-Tested-Battle-Hardened-Starting/dp/1591840562)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses , Eric Ries](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 * [Biodesign: The Process of Innovating Medical Technologies, ](https://www.amazon.com/Biodesign-Process-Innovating-Medical-Technologies/dp/0521517427)
+* [Why Nations Fail: The Origins of Power, Prosperity, and Poverty, Daron Acemoglu](https://www.amazon.com/dp/0307719219)
 
 ### Richard Branson
 * [Screw It, Let's Do It: Lessons in Life, Richard Branson](https://www.amazon.com/Screw-Lets-Do-Lessons-Quick/dp/0753510995)
