@@ -134,6 +134,7 @@ permalink: /reading/
 * [Project Hail Mary, Andy Weir](https://www.amazon.com/Project-Hail-Mary-Andy-Weir/dp/0593135202)
 * Космическая Одиссея, Артур Кларк
 * Story of Your Life, Ted Chiang
+* Exhalation, Ted Chiang
 * Wool, Shift, Dust (Silo Series), Hugh Howey
 * Dandelion Wine, Ray Bradbury
 
