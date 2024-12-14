@@ -322,6 +322,7 @@ permalink: /reading/
 * [No Way Down: Life and Death on K2, Graham Bowley](https://www.amazon.com/No-Way-Down-Life-Death/dp/0061834793/)
 * Территория, Олег Куваев
 * [Jupiters Travels: Four Years Around the World on a Triumph, Ted Simon](https://www.amazon.com/dp/0965478521)
+* [Dreaming of Jupiter: In Search of the World--Thirty Years On, Ted Simon](https://www.amazon.com/Dreaming-Jupiter-Search-World-Thirty-Years/dp/0965478548/)
 
 ## Motorcycle
 * [Adventure Motorcycling Handbook: A Route & Planning Guide, Chris Scott](https://www.amazon.com/Adventure-Motorcycling-Handbook-Route-Planning/dp/1905864469/)
