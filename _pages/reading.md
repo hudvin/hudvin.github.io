@@ -122,6 +122,20 @@ permalink: /reading/
 * [The Lord of the Rings, J.R.R. Tolkien](https://www.amazon.com/dp/0358653037)
 * [The Silmarillion: Illustrated by J.R.R. Tolkien, J.R.R Tolkien](https://www.amazon.com/dp/0063280779)
 
+### Christopher Tolkien
+* [Beren And Lúthien,  Christopher Tolkien](https://www.amazon.com/Beren-L%C3%BAthien-J-R-R-Tolkien/dp/1328791823/)
+* [The Children of Hurin, Christopher Tolkien](https://www.amazon.com/Children-Hurin-J-R-R-Tolkien/dp/0618894640/)
+* [The Fall Of Gondolin, Christopher Tolkien](https://www.amazon.com/Fall-Gondolin-J-R-R-Tolkien/dp/1328613046/)
+
+### J. K. Rowling
+* Harry Potter and the Philosopher's Stone
+* Harry Potter and the Chamber of Secrets
+* Harry Potter and the Prisoner of Azkaban
+* Harry Potter and the Goblet of Fire
+* Harry Potter and the Order of the Phoenix
+* Harry Potter and the Half-Blood Prince
+* Harry Potter and the Deathly Hallows
+
 ## SciFi
 * Братья Стругацкие
 * Основания, Айзек Азимов
