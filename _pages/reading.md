@@ -137,7 +137,6 @@ permalink: /reading/
 * Harry Potter and the Deathly Hallows
 
 ## SciFi
-* Братья Стругацкие
 * Основания, Айзек Азимов
 * Рассказы, Айзек Азимов
 * Двухсотлетний человек, Айзек Азимов
@@ -151,6 +150,11 @@ permalink: /reading/
 * Exhalation, Ted Chiang
 * Wool, Shift, Dust (Silo Series), Hugh Howey
 * Dandelion Wine, Ray Bradbury
+
+
+### Братья Стругацкие
+* Вся серия
+* Улитка на склоне
 
 ### Robert A. Heinlein
 * The Door into Summer
