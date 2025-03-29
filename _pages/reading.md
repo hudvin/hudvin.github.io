@@ -201,6 +201,7 @@ permalink: /reading/
 
 ## Diaries
 * [Anne Frank: The Diary of a Young Girl](https://www.amazon.com/Anne-Frank-Diary-Young-Girl/dp/0553296981)
+* Notes From the Gallows, Julius Fucík
 
 ## Biographies
 * [Henri Cartier-Bresson: A Biography, Pierre Assouline](https://www.amazon.com/Henri-Cartier-Bresson-Biography-Pierre-Assouline/dp/0500290520)
