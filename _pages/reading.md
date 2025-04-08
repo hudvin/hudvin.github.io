@@ -160,6 +160,10 @@ permalink: /reading/
 * The Door into Summer
 
 ### James Corey
+
+#### Other
+* The  Mercy of Gods
+
 #### Expanse Series
 * Leviathan Wakes
 * Caliban's War
