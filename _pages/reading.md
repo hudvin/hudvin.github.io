@@ -161,8 +161,9 @@ permalink: /reading/
 
 ### James Corey
 
-#### Other
+#### The Captive's War
 * The  Mercy of Gods
+* Livesuit
 
 #### Expanse Series
 * Leviathan Wakes
