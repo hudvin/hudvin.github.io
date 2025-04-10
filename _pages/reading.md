@@ -185,7 +185,8 @@ permalink: /reading/
 * Auberon
 * The Sins of Our Fathers
 
-
+### Lois Lowry
+* The Giver
 
 # Non Fiction
 
