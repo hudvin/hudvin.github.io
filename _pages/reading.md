@@ -187,6 +187,9 @@ permalink: /reading/
 
 ### Lois Lowry
 * The Giver
+* Gathering Blue
+* Messenger
+* Son
 
 # Non Fiction
 
