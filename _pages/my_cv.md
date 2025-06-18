@@ -12,7 +12,14 @@ permalink: /my_cv/
 ## Info
 * email: [vadym.bartko@protonmail.com](vadym.bartko@protonmail.com)
 
-* Location: Austria, Vienna
+* location: Austria, Vienna
+
+* languages: English, Russian,, Ukrainian,  Deutsch(beginner)
+
+* hobbies: climbing, hiking, photography, history, art
+
+* personal blog: [https://vadym.bartko.me/](https://vadym.bartko.me/)
+
 
 
 ## COMPUTER SKILLS AND COMPETENCES
@@ -180,10 +187,4 @@ Android 2.x
 * Certification MapR Certified Hadoop Developer, [https://accredible.com/10056013](https://accredible.com/10056013)
 
 ## OTHER
-* Mother tongue(s): Russian
 
-* Other language(s): English, Ukrainian, Deutsch(beginner)
-
-* Hobbies: climbing, hiking, photography, history, art
-
-* Personal blog: [https://vadym.bartko.me/](https://vadym.bartko.me/)
