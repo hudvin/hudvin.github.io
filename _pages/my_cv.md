@@ -9,10 +9,10 @@ permalink: /my_cv/
 [My CV in PDF](/assets/other/Vadym Bartko - Python Backend Engineer.pdf)
 
 
-## Contacts
+## Info
 * email: [vadym.bartko@protonmail.com](vadym.bartko@protonmail.com)
 
-* skype: hudvin
+* Location: Austria, Vienna
 
 
 ## COMPUTER SKILLS AND COMPETENCES
@@ -55,8 +55,12 @@ processing
 
 
 ## NOTABLE PROJECTS
+### [healthcare - sport]
+developed an automated pipeline for processing blood analysis reports, including OCR of PDFs/images, structured data extraction  and report generation. Utilized OpenAI models for data extraction, integrated Azure services, and built REST APIs using FastAPI and OpenAPI. Stack: OpenAI, NER,  Azure, Python, FastAPI
+
 ### [miltech]
-radio scanner based on SDR and single board computer (orange pi), reactive jammer (counter drone),  hardware and software design
+designed SDR-based radio scanner and reactive jammer (counter-drone) on Orange Pi. Full-stack hardware/software: embedded Linux, UART, SDR (GNU Radio), signal processing (NumPy, SciPy), peak detection, and relay control.
+orangepi, embedded software, linux, uart, sdr, gnuradio, numpy, scipy, signal(peak detection), relay control
 
 ### [pdf processing - fintech]
 processing and analysis of financial pdf documents, OCR, dealing with pdf
