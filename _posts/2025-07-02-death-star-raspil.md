@@ -2,10 +2,10 @@
 typora-root-url: ../
 
 layout: post
-title: "Настільна гра: "Зірка Смерті: Розпили галактики""
-author: "СhatGPT &Vadym Bartko"
-tags: ChatGPT
-hidden: false
+title: "Collection of useful software"
+author: "Vadym Bartko"
+tags: notes
+hidden: true
 excerpt_separator: <!--more-->
 ---
 
