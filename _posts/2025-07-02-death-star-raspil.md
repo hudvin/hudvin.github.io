@@ -2,7 +2,7 @@
 typora-root-url: ../
 
 layout: post
-title: "Настільна гра: "Зірка Смерті: Розпили галактики""
+title: "Настільна гра: Зірка Смерті: Розпили галактики"
 author: "Vadym Bartko"
 tags: ChatGPT
 hidden: true
