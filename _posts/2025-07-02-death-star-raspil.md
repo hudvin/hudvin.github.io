@@ -5,7 +5,7 @@ layout: post
 title: "Настільна гра: "Зірка Смерті: Розпили галактики""
 author: "СhatGPT &Vadym Bartko"
 tags: ChatGPT
-hidden: true
+hidden: false
 excerpt_separator: <!--more-->
 ---
 
