@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 **Вік:** 18+  
 **Мета гри: **Максимально «освоїти» бюджет, не потрапивши до рук НАБУ до кінця гри.
 
-![img](/assets/other-posts/raspil_1.png)
+![img](/assets/other-posts/raspil_2.png)
 
 
 ---
