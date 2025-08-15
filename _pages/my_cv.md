@@ -1,6 +1,5 @@
 ---
 layout: post
-author: "Vadym Bartko"
 permalink: /my_cv/
 show_title: false
 title: null
