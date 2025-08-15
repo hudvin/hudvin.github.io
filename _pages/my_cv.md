@@ -2,11 +2,11 @@
 layout: post
 permalink: /my_cv/
 show_title: false
-title: null
+show_author: false
 ---
 
 
-# Vadym Bartko - Python Backend/ML Engineer nfdafdafa
+# Vadym Bartko - Python Backend/ML Engineer
 
 📍 Vienna, Austria 
 

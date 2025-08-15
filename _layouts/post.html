@@ -4,12 +4,17 @@ layout: default
 
 <div class="post">
   <div class="post-info">
+
+   {% if page.show_author != false %}
     <span>Written by</span>
     {% if page.author %}
         {{ page.author }}
     {% else %}
         {{ site.author.name }}
     {% endif %}
+    <br>
+  {% endif %}
+
 
     {% if page.date %}
       <br>
@@ -17,7 +22,6 @@ layout: default
     {% endif %}
   </div>
 
-  
   
   {% if page.show_title != false %}
   <h1 class="post-title">{{ page.title }}</h1>
