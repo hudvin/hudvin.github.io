@@ -8,14 +8,13 @@ show_author: false
 
 # Vadym Bartko - Python Backend/ML Engineer
 
-📍 Vienna, Austria 
 📍 **Location:** Vienna, Austria  
 ✉ **Email:** [vadym.bartko@protonmail.com](mailto:vadym.bartko@protonmail.com)  
 🌐 **Personal blog:** [vadym.bartko.me](https://vadym.bartko.me)  
-🔗 **LinkedIn:** [linkedin.com/in/vbartko](https://www.linkedin.com/in/vbartko/)
-🛂 **Visa & Work Permit:** Valid work authorization in Austria
+🔗 **LinkedIn:** [linkedin.com/in/vbartko](https://www.linkedin.com/in/vbartko/)  
+🛂 **Visa & Work Permit:** Valid work authorization in Austria  
+🗣 **Languages:** English, Russian, Ukrainian, German
 
-**Languages:** English, Russian, Ukrainian, German (beginner)
 
 ---
 
