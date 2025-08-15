@@ -6,7 +6,7 @@ show_title: false
 ---
 
 
-# Vadym Bartko - Python Backend/ML Engineer
+# Vadym Bartko - Python Backend/ML Engineer n
 
 📍 Vienna, Austria 
 
