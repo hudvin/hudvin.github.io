@@ -5,15 +5,17 @@ layout: default
 <div class="post" style="padding-top:0;">
   <div class="post-info">
 
-   {% if page.show_author != false %}
-    <span>Written by</span>
-    {% if page.author %}
-        {{ page.author }}
-    {% else %}
-        {{ site.author.name }}
-    {% endif %}
-    <br>
-  {% endif %}
+	{% comment %}
+	  {% if page.show_author != false %}
+	    <span>Written by</span>
+	    {% if page.author %}
+		{{ page.author }}
+	    {% else %}
+		{{ site.author.name }}
+	    {% endif %}
+	    <br>
+	  {% endif %}
+	{% endcomment %}
 
 
     {% if page.date %}
