@@ -624,8 +624,3 @@ permalink: /reading/
 * [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers, Alexander Osterwalder](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/)
 * [Traction: How Any Startup Can Achieve Explosive Customer Growth, Gabriel Weinberg](https://www.amazon.co.uk/Traction-Startup-Achieve-Explosive-Customer/dp/0241242533/)
 * [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you , Rob Fitzpatrick](https://www.amazon.co.uk/Mom-Test-customers-business-everyone/dp/1492180742)
-
-  
-# Ideas
-* print small post card for each book I read
-* pack all books into vacuum bags <https://thebookandpapergathering.org/2018/03/13/vacuum-storage-bags-an-inexpensive-and-convenient-tool-for-temporary-storage-of-items-infested-with-pests-and-mould/>
