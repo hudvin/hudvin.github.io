@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Vadym Bartko - Python Backend Engineer"
 author: "Vadym Bartko"
 permalink: /my_cv/
 ---
 
 
-# Vadym Bartko
+# Vadym Bartko - Python Backend/ML Engineer
 
 📍 Vienna, Austria 
 
