@@ -5,15 +5,11 @@ author: "Vadym Bartko"
 permalink: /about/
 ---
 
+## About
 
-— На самом деле самого дела нет. В самой деятельности заключена самость дела — и наоборот. Наоборот получим оборот на и таким образом перевернем образ. Я уже не говорю о природе говора в роде при уже. Ужи и узы — вы меня понимаете, мистер Андерсен?
-
-— Конечно, я так и думал, Смит. Дайте еще затянуться…
+Hi, I’m Vadym. I love mountains, rocks, a bit of climbing and mountaineering, hiking, photography, history, and my cat. I’m currently in the middle of moving — no longer at home, but not quite at a new one yet. Occasionally, I write about gadgets, hiking, tech, history, and photography. Still trying to figure out who I’ll be when I grow up.
 
 
-Thanks for reading!
-
-### Contacts
 
 email: [vadym.bartko@protonmail.com](mailto:vadym.bartko@protonmail.com)
 
