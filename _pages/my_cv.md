@@ -7,7 +7,7 @@ title: null
 ---
 
 
-# Vadym Bartko - Python Backend/ML Engineer n
+# Vadym Bartko - Python Backend/ML Engineer nfdafdafa
 
 📍 Vienna, Austria 
 
