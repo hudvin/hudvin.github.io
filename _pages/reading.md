@@ -122,6 +122,7 @@ permalink: /reading/
 * [The Hobbit, J.R.R. Tolkien](https://www.amazon.com/dp/0063347539)
 * [The Lord of the Rings, J.R.R. Tolkien](https://www.amazon.com/dp/0358653037)
 * [The Silmarillion: Illustrated by J.R.R. Tolkien, J.R.R Tolkien](https://www.amazon.com/dp/0063280779)
+* [The Hobbit and The Lord of the Rings: Deluxe Pocket Boxed Set, J.R.R Tolkien](https://www.amazon.de/-/en/Hobbit-Lord-Rings-Tolkiens-Quintessential/dp/0544445783/)
 
 ### Christopher Tolkien
 * [Beren And Lúthien,  Christopher Tolkien](https://www.amazon.com/Beren-L%C3%BAthien-J-R-R-Tolkien/dp/1328791823/)
@@ -191,6 +192,13 @@ permalink: /reading/
 * Gathering Blue
 * Messenger
 * Son
+
+### Frank Herbert
+
+#### Dune Series
+* [Dune, Frank Herbert](https://www.amazon.de/dp/0593548906?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* [Dune Messiah, Frank Herbert](https://www.amazon.de/dp/0593548906?ref=ppx_yo2ov_dt_b_fed_asin_title)
+* [Children of Dune, Frank Herbert](https://www.amazon.de/dp/0593548906?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
 # Non Fiction
 
