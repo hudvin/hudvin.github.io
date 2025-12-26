@@ -61,6 +61,8 @@ permalink: /reading/
 * [After the Ice: A Global Human History, Steven Mithen](https://www.amazon.com/dp/0674019997)
 * [1491: New Revelations of the Americas Before Columbus, Charles C. Mann](https://www.amazon.com/dp/1400032059)
 * [Genghis Khan and the Making of the Modern World,  Jack Weatherford](https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644)
+* The Book of Lycia Archaeology, Culture and History in Western Antalya, Nevzat Cevik
+* On the Lycian Way, Erdal Yazıcı
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
