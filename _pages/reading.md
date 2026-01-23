@@ -15,8 +15,6 @@ permalink: /reading/
 * [Red Famine: Stalin's War on Ukraine, Anne Applebaum](https://www.amazon.com/Red-Famine-Anne-Applebaum/dp/0141978287/), [notes]({% post_url 2022-05-16-Holodomor-notes %})
 * [Ur-Fascism, Umberto Eco](https://www.pegc.us/archive/Articles/eco_ur-fascism.pdf)
 * [Окаянные дни, Иван Бунин](https://ru.wikipedia.org/wiki/Окаянные_дни)
-* [Bloodlands: Europe Between Hitler and Stalin, Timothy Snyder](https://www.amazon.com/Bloodlands-Europe-Between-Hitler-Stalin/dp/0465031471)
-* On Tyranny, Timothy Snyder
 * [Fermat's Enigma, Simon Singh](https://www.amazon.com/Fermats-Enigma-Greatest-Mathematical-Problem/dp/0385493622)
 * [The Complete World of Greek Mythology, Richard Buxton](https://www.amazon.com/Complete-World-Greek-Mythology/dp/0500251215)
 * [An artilleryman in Stalingrad, Dr Wigand Wüster](https://www.amazon.com/ARTILLERYMAN-STALINGRAD-Memoirs-Participant-Battle/dp/0975107658)
@@ -68,6 +66,12 @@ permalink: /reading/
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
 * [History of the World Map by Map, DK, Smithsonian Institution](https://www.amazon.com/History-World-Map-DK/dp/1465475850/)
 * [The Historical Atlas of World War II: 170 Maps that Chart the Most Cataclysmic Event in Human History (Historical Atlas Series), Alexander Swanston, Malcolm Swanston](https://www.amazon.com/Historical-Atlas-World-War-II/dp/0785836497/)
+
+## Timothy Snyder
+* [On Freedom, Timothy Snyder](https://www.amazon.com/Freedom-Timothy-Snyder/dp/0593728742/)
+* [Bloodlands: Europe Between Hitler and Stalin, Timothy Snyder](https://www.amazon.com/Bloodlands-Europe-Between-Hitler-Stalin/dp/0465031471)
+* On Tyranny, Timothy Snyder
+
 
 ## Susan Wise Bauer
 
