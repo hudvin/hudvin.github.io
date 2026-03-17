@@ -61,6 +61,7 @@ permalink: /reading/
 * [Genghis Khan and the Making of the Modern World,  Jack Weatherford](https://www.amazon.com/Genghis-Khan-Making-Modern-World/dp/0609809644)
 * The Book of Lycia Archaeology, Culture and History in Western Antalya, Nevzat Cevik
 * On the Lycian Way, Erdal Yazıcı
+* [Aftermath Life in the Fallout of the Third Reich, Harald Jähner](https://www.amazon.com/Aftermath-Fallout-Third-Reich-1945-1955/dp/0593319737)
 
 ## Historical Atlases
 * [World War II Map by Map, DK, Smithsonian Institution](https://www.amazon.com/gp/product/1465481796/)
