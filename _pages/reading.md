@@ -110,6 +110,7 @@ permalink: /reading/
 * Fight Club, Chuck Palahniuk
 * Normal People, Sally Rooney
 * Тихий Дон, Михаил Шолохов, 1941г
+* Nineteen Eighty-Four, George Orwell
 
 
 ### Федор Достоевский
