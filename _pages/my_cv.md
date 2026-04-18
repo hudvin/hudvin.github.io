@@ -20,21 +20,21 @@ show_author: false
 
 ## Summary
 
-- 15+ years of experience in **backend engineering**, **distributed systems**, and **AI-driven solutions**
-- Deep expertise in **PDF processing**, **AWS services**, **OCR**, and **computer vision**
-- Strong background in **complex R&D projects** across healthcare, fintech, and miltech
-- Proven ability to take ideas from **concept to production**
-- Skilled in **optimizing data pipelines**
-- Experienced in building **scalable, fault-tolerant backend architectures**
-- Hands-on experience with **Python, Flask, FastAPI, Django, Celery, RabbitMQ**
-- Familiar with **Kubernetes, Docker, Helm**, and **cloud deployment**
+- 15+ years of experience in backend engineering, distributed systems, and AI-driven solutions
+- Deep expertise in PDF processing, AWS services, OCR and Python
+- Strong background in complex R&D projects across healthcare, fintech, and miltech
+- Proven ability to take ideas from concept to production
+- Skilled in optimizing data pipelines
+- Experienced in building scalable, fault-tolerant backend architectures
+- Hands-on experience with Python, Flask, FastAPI, Django, Celery, RabbitMQ
+- Familiar with Kubernetes, Docker, Helm, and cloud deployment
 
 ---
 
 ## Looking for
 
-- Full-time, part-time, or contract positions in **Backend Engineering**, **AI/ML**, **PDF processing**, or **R&D projects**
-- Open to **remote-friendly**  opportunities in EU/UK/USA
+- Full-time, part-time, or contract positions in Backend Engineering, AI/ML, PDF processing, or R&D projects
+- Open to remote-friendly  opportunities in EU/UK/USA
 
 ---
 
@@ -53,9 +53,9 @@ show_author: false
 
 **P-Product** – *Python Backend Engineer* (2024 – Present)
 
-- Designed and implemented an **OCR/ML pipeline** for extracting blood analysis results from diverse medical documents — **reduced processing time from 3 hours to 1 minute**, saved costs on manual labor, and improved user experience (users can see results immediately).
-- Built an **internal reporting system**.
-- Developed a **user report generation service**.
+- Designed and implemented an OCR/ML pipeline  for extracting blood analysis results from diverse medical documents — reduced processing time from 3 hours to 1 minute, saved costs on manual labor, and improved user experience (users can see results immediately).
+- Built an internal reporting system.
+- Developed a user report generation service.
 
 **MilTech startup – Counter-Drone System**
 
@@ -75,15 +75,15 @@ Designed REST APIs and asynchronous workflows using Celery and RabbitMQ.
 
 **Khumbu** – *Founder* (2018 – 2019)
 
-- Built an AI-powered **image search engine** with facial recognition, object detection, and metadata extraction.
-- Implemented the ability to **search images by plain text descriptions** and filter by tags, metadata, faces, composition, etc.
+- Built an AI-powered image search engine with facial recognition, object detection, and metadata extraction.
+- Implemented the ability to search images by plain text descriptions and filter by tags, metadata, faces, composition, etc.
 - Conducted technical and market research, pitched to investors, developed backend and frontend.
 
 **Lohika** – *Machine Learning / Python AI Engineer* (2015 – 2019)
 
-- Developed **computer vision, OCR, clustering, NLP, and image processing solutions** for various industries.
+- Developed computer vision, OCR, clustering, NLP, and image processing solutions for various industries.
 - Built distributed ML training platforms, automated data pipelines, and REST APIs.
-- Worked on **various Python projects** across AI/ML domains.
+- Worked on various Python projects across AI/ML domains.
 
 **Earlier Roles (2007 – 2015)** – Java/Python Engineer, Team Lead
 
