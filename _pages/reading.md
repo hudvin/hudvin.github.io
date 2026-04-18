@@ -174,6 +174,7 @@ permalink: /reading/
 #### The Captive's War
 * The  Mercy of Gods
 * Livesuit
+* The Faiths of the Beasts
 
 #### Expanse Series
 * Leviathan Wakes
