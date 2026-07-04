@@ -111,6 +111,7 @@ permalink: /reading/
 * Normal People, Sally Rooney
 * Тихий Дон, Михаил Шолохов, 1941г
 * Nineteen Eighty-Four, George Orwell
+* Неделя как неделя, Наталья Баранская
 
 
 ### Федор Достоевский
@@ -150,7 +151,6 @@ permalink: /reading/
 * Основания, Айзек Азимов
 * Рассказы, Айзек Азимов
 * Двухсотлетний человек, Айзек Азимов
-* [The Southern Reach Trilogy (Annihilation, Authority, Acceptance), Jeff VanderMeer](https://www.amazon.com/dp/B0841YDWXY)
 * Расследование. Рукопись, найденная в ванне, Станислав Лем
 * Цветы для Элджернона, Дэниел Киз
 * [The Martian, Andy Weir](https://www.amazon.com/Martian-Andy-Weir/dp/0553418025/)
@@ -160,7 +160,13 @@ permalink: /reading/
 * Exhalation, Ted Chiang
 * Wool, Shift, Dust (Silo Series), Hugh Howey
 * Dandelion Wine, Ray Bradbury
+* Fahrenheit 451, Ray Bradbury
 
+### Jeff VanderMeer
+* Annihilation
+* Authority
+* Acceptance
+* Absolution
 
 ### Братья Стругацкие
 * Вся серия
@@ -507,6 +513,7 @@ permalink: /reading/
 * The Search for Existential Identity, James Bugental
 * [The Theory and Practice of Group Psychotherapy 6th, Irvin D. Yalom, Molyn Leszcz](https://www.amazon.com/Theory-Practice-Group-Psychotherapy/dp/1541617576/)
 * [The Body Keeps the Score, Bessel van der Kolk](https://www.amazon.com/Body-Keeps-Score-Healing-Trauma/dp/0143127748)
+* Девочка на шаре, Ирина Млодик
 
 
 # Science
