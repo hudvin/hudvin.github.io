@@ -34,6 +34,7 @@ permalink: /reading/
 * Государственный порядок, Фрэнсис Фукуяма
 * Угасание государственного порядка, Фрэнсис Фукуяма
 * [The Origins of Totalitarianism, Hannah Arendt](https://www.amazon.com/Origins-Totalitarianism-Hannah-Arendt/dp/0156701537/)
+* [Eichmann in Jerusalem: A Report on the Banality of Evil, Hannah Arendt](https://www.amazon.com/Eichmann-in-Jerusalem/dp/024155229X/)
 * [Dresden, Frederick Taylor](https://www.amazon.com/Dresden-Tuesday-February-13-1945/dp/0060006773)
 * Дніпрові пороги, Яворницький Д. І.
 * Archaeological Guide To Rome (note - check exact edition!)
