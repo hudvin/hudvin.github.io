@@ -127,3 +127,5 @@ show_author: false
 ## Education
 
 **BS in Information Technology** — Kharkiv National University of Radio Electronics (2008 – 2014)
+
+[PDF](/assets/other/Vadym_Bartko_Python_Backend.pdf)
