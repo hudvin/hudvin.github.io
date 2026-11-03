@@ -15,8 +15,7 @@ show_author: false
 **LinkedIn:** [linkedin.com/in/vbartko](https://www.linkedin.com/in/vbartko/)  
 **Visa & Work Permit:** Valid work authorization in Austria. NO SPONSORSHIP REQUIRED  
 **B2B:** also available for contract work (via Gewerbe in Austria)  
-**Languages:** English (B2), German (A2)  
-**PDF:** [download resume](/resume/Vadym_Bartko_Python_Backend.pdf)
+**Languages:** English (B2), German (A2)
 
 ---
 
